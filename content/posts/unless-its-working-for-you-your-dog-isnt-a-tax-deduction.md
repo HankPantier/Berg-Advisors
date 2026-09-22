@@ -18,7 +18,7 @@ answer_block: "A dog is only tax-deductible when it serves a documented business
 ---
 A client running a home-goods brand across Amazon, Shopify, and Walmart asked us this spring whether the German Shepherd guarding her overflow inventory in a Newtown Square warehouse counted as a write-off. Her golden retriever at home, unfortunately, does not. That distinction trips up more business owners than you'd think, especially multi-channel sellers who store inventory outside their homes and genuinely wonder where the line sits.
 
-The short answer: your dog is a deduction only if it's actually working for the business, not just keeping you company while you pack orders. The IRS doesn't care how much the dog helps your mood during a brutal Q4. It cares whether the expense is ordinary and necessary for producing income, per [IRS Publication 535](https://www.irs.gov/publications/p535). Everything below comes down to that one test.
+The short answer: [your dog is a deduction only if it's actually working for the business](/resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction-2), not just keeping you company while you pack orders. The IRS doesn't care how much the dog helps your mood during a brutal Q4. It cares whether the expense is ordinary and necessary for producing income, per [IRS Publication 535](https://www.irs.gov/publications/p535). Everything below comes down to that one test.
 
 ## Why the family dog doesn't make the cut
 
