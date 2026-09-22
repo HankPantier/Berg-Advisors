@@ -1,9 +1,60 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
+    {
+      "url": "/services",
+      "label": "Accounting, Bookkeeping, Tax, & Advisory Services"
+    },
+    {
+      "url": "/services/accounting",
+      "label": "Accounting Services for Small Business | Berg Advisors"
+    },
+    {
+      "url": "/services/advisory",
+      "label": "Advisory & Consulting Services for Small Business"
+    },
+    {
+      "url": "/services/tax",
+      "label": "Professional Tax Services for Small Businesses and Individuals Nationwide"
+    },
+    {
+      "url": "/industries",
+      "label": "Accounting for E-Commerce, Property Management, & Family Offices "
+    },
+    {
+      "url": "/industries/e-commerce",
+      "label": "Best E-Commerce CPA Services for Online Businesses"
+    },
+    {
+      "url": "/industries/property-management",
+      "label": "Accounting, Bookkeeping, & Tax Services for Property Management Companies"
+    },
+    {
+      "url": "/industries/family-offices",
+      "label": "Family Office Accounting & Tax Services"
+    },
+    {
+      "url": "/about-us",
+      "label": "About Berg Advisors | Trusted CPA & Accounting Experts"
+    },
+    {
+      "url": "/about-us/meet-the-team",
+      "label": "Meet Our Expert Team | Berg Advisors"
+    },
+    {
+      "url": "/about-us/careers",
+      "label": "Careers at Berg Advisors | Join Our Team"
+    },
+    {
+      "url": "/resources",
+      "label": "Articles, Links, & Forms "
+    },
+    {
+      "url": "/resources/blog-quick-reads",
+      "label": "Quick Reads Blog | Berg Advisors"
+    },
+    {
+      "url": "/contact-us",
+      "label": "Contact Berg Advisors for Accounting, Tax & Advisory Services"
+    }
   ]
 }
