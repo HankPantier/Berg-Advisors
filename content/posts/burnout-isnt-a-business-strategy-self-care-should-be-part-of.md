@@ -28,7 +28,7 @@ Andrew C. Berg, CPA, who founded the firm more than three decades ago, puts it p
 
 ## Owners equate exhaustion with commitment, and the math says otherwise
 
-There's a story small business owners tell themselves: if I'm not exhausted, I'm not trying hard enough. It's a common trap, and it's backwards. Rest isn't the opposite of commitment to the business. It's the maintenance cost of the asset making every other decision. A founder who takes Sundays off and sleeps seven hours during Q4 is protecting the same judgment that prices SKUs, negotiates with suppliers, and decides which channel gets next quarter's ad budget.
+There's a story small business owners tell themselves: if I'm not exhausted, I'm not trying hard enough. It's a common trap, and it's backwards. Rest isn't the opposite of commitment to the business. It's [the maintenance cost of the asset](/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2) making every other decision. A founder who takes Sundays off and sleeps seven hours during Q4 is protecting the same judgment that prices SKUs, negotiates with suppliers, and decides which channel gets next quarter's ad budget.
 
 The [SBA's guidance on managing a business](https://www.sba.gov/business-guide/manage-your-business) points to the same conclusion from a different angle: sustainable operations depend on systems, delegation, and ongoing evaluation, not on one person's ability to grind through every task personally. A business built entirely around the owner's stamina is a business with a single point of failure, and that's a risk lens most owners never apply to themselves even though they'd flag it instantly in a supplier relationship or a warehouse lease.
 
