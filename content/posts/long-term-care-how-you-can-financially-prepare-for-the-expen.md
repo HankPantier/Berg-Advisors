@@ -18,7 +18,7 @@ answer_block: "Long-term care planning costs typically run $10,000 to $12,000 a 
 ---
 Most multi-channel sellers we work with have a strange balance sheet. Six or seven figures might be sitting in Amazon and Shopify inventory, a warehouse lease, or a 3PL relationship, and almost none of it is liquid. That works fine until a parent has a fall, a stroke, or a dementia diagnosis, and suddenly the family needs $8,000 to $12,000 a month for care. If your net worth is tied up in pallets and product SKUs, long-term care is one of the few expenses that can force a fire sale of assets you spent a decade building.
 
-Long-term care planning isn't a topic people like to sit with. It touches aging, mortality, and family dynamics all at once. But it's also a straightforward risk-management problem, the same kind you already solve when you buy inventory insurance or diversify sales channels so one platform suspension doesn't sink the business. The difference is timing: long-term care has to be funded years before anyone needs it, not after the diagnosis arrives.
+Long-term care planning isn't a topic people like to sit with. It touches aging, mortality, and family dynamics all at once. But it's also a straightforward risk-management problem, the same kind you already solve when you buy inventory insurance or diversify sales channels so one platform suspension doesn't sink the business. The difference is timing: [long-term care has to be funded years before anyone needs it](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen-2), not after the diagnosis arrives.
 
 ## The price tag most families underestimate
 
