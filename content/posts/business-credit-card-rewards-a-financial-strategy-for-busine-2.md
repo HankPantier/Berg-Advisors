@@ -28,7 +28,7 @@ The exception is rewards earned without a purchase requirement, like a sign-up b
 
 ## Choose the card that fits your real spending mix
 
-The best business credit card for small business taxes and cash flow is not the one with the flashiest sign-up bonus. It is the one built around where your money already goes. For a multi-channel seller, that usually means three or four categories carry almost all the volume: advertising spend across Amazon, Google, and Meta; freight and fulfillment fees; inventory purchases from suppliers, often overseas; and software or SaaS tools running your storefronts.
+The best business credit card for small business taxes and cash flow is not the one with the flashiest sign-up bonus. It is the one built around where your money already goes. For a multi-channel seller, that usually means three or four categories carry almost all the volume: advertising spend across Amazon, Google, and Meta; freight and fulfillment fees; inventory purchases from suppliers, often overseas; and [software or SaaS tools](/resources/take-back-control-of-subscription-creep-2) running your storefronts.
 
 Cards vary widely in how they reward those categories. Some offer flat 2% back on everything, which is simple and predictable but leaves value on the table if 60% of your spend is in a bonus category elsewhere. Others offer 3% to 5% on advertising and shipping specifically, which can be worth far more to a seller running five figures a month in ad spend, but usually caps the bonus rate at a spending threshold that resets quarterly or annually.
 
