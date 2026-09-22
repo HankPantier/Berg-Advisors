@@ -18,7 +18,7 @@ answer_block: "An emergency fund only covers the timing gap of a medical bill, n
 ---
 A $6,000 emergency room visit doesn't ask whether your Q4 inventory order just cleared. For a lot of the multi-channel sellers we work with in Newtown Square and beyond, that's exactly the collision that happens: a health crisis lands in the same month as a Prime Day restock or a slow payout cycle from Amazon or Walmart, and suddenly cash that was earmarked for product is covering an ambulance bill instead.
 
-Most advice on medical costs stops at "build an emergency fund." That's not wrong, it's just incomplete. A cash cushion buys you time, but it doesn't reduce what you actually owe. The tools that do that are tax-advantaged: Health Savings Accounts, Flexible Spending Accounts, and the itemized medical expense deduction. Used together and set up before the crisis hits, they can turn a five-figure medical bill into something your business and your household can absorb without derailing next quarter's growth plans.
+Most advice on medical costs stops at "build an emergency fund." That's not wrong, it's just incomplete. A cash cushion buys you time, but it doesn't reduce what you actually owe. [The tools that do that are tax-advantaged](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi-2): Health Savings Accounts, Flexible Spending Accounts, and the itemized medical expense deduction. Used together and set up before the crisis hits, they can turn a five-figure medical bill into something your business and your household can absorb without derailing next quarter's growth plans.
 
 ## Why an emergency fund alone falls short
 
