@@ -1,0 +1,1340 @@
+# About Berg Advisors
+
+## Identity
+Berg Advisors is a CPA firm founded more than 30 years ago, originally based in Newtown Square, Pennsylvania (18 Campus Blvd, Suite 100, Room 103), and now operating as a fully virtual firm serving clients across the country and around the world with no geographic concentration. The firm is led by Managing Partner Andrew C. Berg, CPA, who has practiced as a CPA for over 30 years and built the firm around being a strategic advisor and proactive partner rather than a once-a-year service provider. Berg Advisors is a member of AICPA, PASBA, and PICPA, and is affiliated with Woodard, Canopy, and Profit First Professionals. The team includes Partners Megan M. Murray and Joshua Beaugrand, CPA; Director of Client Services Lindsey Coburn, CPA; Director of Outsourced Accounting Veil Velarde, CPA; Director of Compliance/Tax Michael Laudazio; Senior Accountant Julia Lindner, EA; and Senior Accountant Karl Louie Hipolito. Berg Advisors has been recognized as a Woodard Top 50 Client Accounting Services Award Firm (2023 Spotlight), an Intuit Firm of the Future, and a Canopy 2021 Innovation Award Finalist. Andrew Berg has spoken at AICPA conferences and appeared as a guest on the Profit First Professionals podcast.
+
+## Positioning & Differentiation
+Berg Advisors positions itself as the CPA firm that treats clients' businesses like family — combining proactive communication, flat monthly fees, and more than 30 years of expertise across e-commerce, property management, and family offices. The firm's brand voice is relationship-driven, proactive, approachable, reassuring, technology-forward, and expert, favoring plain-English explanations over jargon.
+
+Clients typically come to Berg Advisors because they need a firm they can actually talk to and ask questions of, because their small business has outgrown a previous accounting firm, or because they are seeking next-level advice for business strategy rather than year-end compliance alone. Key differentiators include:
+
+- Over 30 years of CPA experience under Managing Partner Andrew C. Berg
+- One of the few full-service U.S. firms specializing in e-commerce accrual accounting, inventory accounting, and multi-state sales tax economic nexus
+- Fixed, all-inclusive flat monthly fees instead of hourly billing
+- Relationship-driven, proactive communication with a mutual success plan for every client
+- Woodard Top 50 Accounting Firm and Intuit Firm of the Future recognition
+
+Competitors in the e-commerce accounting space — including SellerCPA, Acuity, Acenteus CCA, AMZ Accountant, and Ledger Labs — focus primarily on bookkeeping and tax for Amazon and Shopify sellers. Berg Advisors differentiates by pairing that same e-commerce specialization (FBA inventory, A2X, marketplace facilitator rules, accrual conversion) with broader advisory work across property management and family office clients, and by emphasizing an ongoing advisory relationship over transactional service.
+
+## Industries Served
+
+### Multi-channel E-commerce
+Berg Advisors serves Amazon, Shopify, eBay, Etsy, and Walmart sellers who need accounting, bookkeeping, inventory, and sales tax compliance support. Value proposition: managing financial data from multiple sales channels to ensure accuracy and provide insights for growth, with specialization in accrual accounting, inventory, and complex sales tax nexus. Pain points addressed include reconciling revenue and payouts across platforms with no unified view; understanding true profitability after fees, refunds, and COGS; multi-state sales tax nexus exposure and falling behind on filings; cash-basis books that don't reflect real inventory value or satisfy lenders/investors; FBA inventory accounting including stranded inventory and reimbursements; year-end tax surprises from a lack of proactive planning; confusion over marketplace facilitator laws; and scaling from a single channel to multiple channels without clean financials.
+
+### Family Offices
+Berg Advisors supports family-owned businesses and wealth structures that need tailored accounting and cash flow strategy. Value proposition: access to experienced financial professionals who free up time, improve accuracy in record-keeping, and provide peace of mind — helping clients manage their money, know their numbers, and know when they can retire. Pain points addressed include lack of consolidated visibility across multiple entities, accounts, and investments; commingling of personal and business finances; absence of a clear cash flow strategy across generations or business units; difficulty structuring ownership and distributions tax-efficiently; succession planning gaps; reliance on generalist CPAs unfamiliar with complex family wealth structures; avoidable year-end tax bills; and time-consuming financial administration that pulls owners away from running the business.
+
+### Property Management Companies
+Berg Advisors works with owner-operators and principals managing residential or commercial rental portfolios. Value proposition: a centralized view of income, expenses, and performance across every property and entity; accurate, on-time owner distributions with a clear paper trail; security deposit and trust accounting handled in full compliance with state regulations; year-end 1099 preparation for vendors and contractors; cash flow reporting by property; end-to-end multi-state filing management; clean separation of business and personal finances; and back-office systems built to scale with the portfolio. Pain points addressed include tracking income and expenses across multiple properties and entities with no centralized view; managing owner distributions; security deposit and trust accounting compliance; time-consuming and error-prone 1099 filing; limited cash flow visibility across a growing portfolio; multi-state filing complexity; mixed personal and business finances; and scaling the portfolio without matching back-office systems.
+
+---
+
+## Other
+
+### About Berg Advisors | Trusted CPA & Accounting Experts
+URL: /about-us
+
+<!-- block: intro-text | variant: centered -->
+## A CPA firm that treats your business like family
+
+Founded more than 30 years ago in Newtown Square, Pennsylvania, Berg Advisors started as a local CPA firm and grew into a virtual practice serving e-commerce sellers, family offices, and property management companies nationwide. We kept the part that mattered: knowing our clients by name, not by ticket number.
+
+Most local accounting firms treat you like a transaction, an annual filing, a once-a-year phone call in March. We built something different. Every client gets a written mutual success plan outlining what we're tracking together and how often we'll talk about it. That's the difference between a firm that files your return and one that actually knows your business.
+
+If you searched for a CPA in Chester County and found a firm that still answers the phone like a hometown practice, you found the right one. We just happen to serve clients from Newtown Square to Nevada.
+
+<!-- block: content-split | variant: image-right | image: andrew-berg-cpa-review.jpg | alt: "CPA reviewing financial statements with client documents on desk" | query: "cpa reviewing financial documents office" -->
+## Over 30 years of experience behind every recommendation
+
+Andrew Berg, CPA, founded the firm on the belief that good advice comes from pattern recognition, seeing what works and what doesn't across hundreds of businesses over three decades. That experience shows up in the details: the sales tax nexus question you didn't know to ask, the accrual conversion your bank will require before your next loan, the entity structure that saves real money at tax time.
+
+The firm's approach has earned outside recognition too. Berg Advisors was named a Woodard Top 50 Client Accounting Services firm in 2023 and was a finalist for Canopy's Innovation Award in 2021. Andrew has spoken to AICPA audiences and discussed the firm's approach to modern accounting on the Profit First Professionals podcast.
+
+A CPA credential means someone passed an exam. Three decades of client relationships means someone knows what actually happens when a Shopify seller expands into a fourth state, or when a family office needs to untangle personal and business accounts. That's the kind of experience behind every recommendation we make.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Deep specialization in the industries we know best
+
+Generalist CPAs can handle a basic tax return for almost any business. But multi-channel e-commerce, family offices, and property management each carry accounting problems a once-a-year preparer will miss, inventory accrual, multi-state sales tax nexus, consolidated reporting across a dozen properties or entities. We built our practice around three niches instead of trying to be everything to everyone.
+
+### Multi-Channel E-commerce
+icon: Globe
+
+Amazon, Shopify, eBay, Etsy, and Walmart each report revenue differently, and reconciling them by hand creates a mess by Q2. We handle [accrual-basis accounting, inventory costing, and multi-state sales tax nexus](/industries/e-commerce) for product-based sellers, as one of the few full-service U.S. firms built specifically for this.
+
+### Family Offices
+icon: Briefcase
+
+Multiple entities, multiple accounts, and investments that don't fit a single ledger. We consolidate the view and keep [personal and business finances properly separated](/industries/family-offices), so nothing gets commingled and nothing gets missed at tax time.
+
+### Property Management Companies
+icon: Building2
+
+Tracking income, expenses, and owner distributions across a dozen properties in spreadsheets doesn't scale. We give you [one centralized view of performance by property and by entity](/industries/property-management), built for portfolios that keep growing.
+
+<!-- block: checklist-section | variant: with-image | image: flat-fee-planning-call.jpg | alt: "Advisor and client on a video call reviewing a financial plan" | query: "advisor client video call planning" -->
+## How we work with you
+
+Most accounting relationships run on two things: hourly invoices and reactive service. Ours doesn't.
+
+- [Flat monthly fees](/pricing-calculator), not surprise invoices. You know exactly what you're paying before the month starts, whether we're deep in a sales tax nexus study or just running payroll.
+- Proactive communication. We don't wait for you to call with a problem. Quarterly strategy calls are built into every engagement, and if something in your numbers looks off, we're the ones picking up the phone.
+- A mutual success plan. At the start of every engagement, we write down what we're tracking, how often we'll meet, and what working well looks like for your business specifically, not a generic checklist.
+
+This is what year-round tax planning and outsourced accounting are supposed to look like: predictable cost, regular contact, and a plan you actually helped write.
+
+<!-- block: content-split | variant: image-left | image: berg-advisors-team-collaboration.jpg | alt: "Small team of accountants collaborating around a laptop and documents" | query: "accounting team collaborating office" -->
+## A team invested in your long-term success
+
+Behind every account at Berg Advisors is a small team of CPAs and EAs, not a rotating cast of junior staff you meet once a year. Joshua Beaugrand, CPA, and Lindsey Coburn, CPA, handle much of the day-to-day tax and accounting work. Veil Velarde, CPA, leads outsourced accounting engagements for growth-stage businesses that need fractional back-office support. Julia Lindner, EA, represents clients directly to the IRS when a notice or audit shows up in the mailbox.
+
+We explain things in plain English, not accountant-speak, because the goal is for you to understand your own numbers, not just receive them. Michael Laudazio handles the multi-entity, multi-state compliance work that keeps growing businesses out of trouble with state tax authorities. It's a small team on purpose: fewer handoffs, fewer people who don't know your name. You can [meet the full team here](/about-us/meet-the-team).
+
+<!-- block: content-prose -->
+## Serving clients across the country
+
+Berg Advisors started in Newtown Square, Pennsylvania, but the practice runs virtually today, with clients in more than 20 states, from e-commerce sellers in California to property management companies in Florida and family offices in New York. Cloud-based tools mean your bookkeeper sees the same numbers you do, in real time, whether you're down the road in Chester County or three time zones away.
+
+If you're searching for a CPA near Newtown Square, we're still here, and we still take questions seriously in a first conversation. If you found us from Seattle or Austin instead, the service is the same: the same fixed monthly fee, the same quarterly calls, the same team who knows your business by name.
+
+<!-- block: cta-banner | variant: image-bg | image: newtown-square-office-handshake.jpg | alt: "Advisor shaking hands with a client in a bright office" | query: "advisor client handshake office meeting" -->
+## Let's talk about how we can help
+
+Whether you're a multi-channel seller drowning in platform reports, a family office untangling a decade of commingled accounts, or a property manager tired of spreadsheet juggling, the first conversation costs you nothing but 30 minutes. We'll ask about your business before we talk about our services, because that's the order that actually matters.
+
+[Schedule a consultation](/contact-us) and find out what proactive, relationship-driven accounting actually feels like. We Can Help isn't just a tagline, it's the reason the phone gets answered.
+
+---
+
+### Meet Our Expert Team | Berg Advisors
+URL: /about-us/meet-the-team
+
+<!-- block: intro-text | variant: centered -->
+## A CPA firm that treats your business like family
+
+Berg Advisors started in Newtown Square, Pennsylvania, and grew into a virtual firm serving clients across the country. The founders built the practice around a simple idea: accounting works better when the people doing it actually know your business, not just your balance sheet. That's still true today, whether a client calls from Delaware County or logs in from three time zones away.
+
+Multi-channel sellers, property managers, and family offices end up here because they want a CPA firm that answers the phone, explains what the numbers mean, and sticks around after the filing deadline passes. Every person on this team, from CPAs to tax specialists, treats client relationships as the actual product, not just the delivery mechanism for financial statements.
+
+You won't find a call center or a rotating cast of preparers here. You'll find the same faces, year after year, learning your business the way family does.
+
+<!-- block: team-grid | variant: 3-col -->
+## Leadership with over 30 years of combined CPA expertise
+
+More than 30 years of combined CPA experience sits behind the advice clients get from this firm. Andrew Berg founded the practice and has been featured on the Profit First Professionals podcast talking about what it takes to modernize a traditional accounting firm without losing the personal touch that makes it work.
+
+### Andrew C. Berg, CPA
+Founder
+
+Andrew focuses on outsourced CFO work for inventory-heavy businesses, accrual conversions for companies preparing to bring on a bank or investor, and multi-state sales tax nexus questions for product-based businesses expanding into new territory.
+
+### Joshua Beaugrand, CPA
+
+Joshua brings CPA-level rigor to business and personal tax planning, preparation, and filing, working across entity types and multiple states.
+
+### Lindsey Coburn, CPA
+
+Lindsey manages the monthly close and financial reporting process that turns a set of books into something owners actually use to make decisions.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Specialists in e-commerce, family office, and property management accounting
+
+Generalist bookkeeping doesn't work for a multi-channel Amazon seller reconciling six sales platforms, and it doesn't work for a family office juggling a dozen entities either. Berg Advisors built specialist tracks instead of a single generic service, and specific people on the team own each one.
+
+### Multi-channel e-commerce
+icon: Globe
+
+Andrew Berg leads accrual accounting, inventory costing, and multi-state sales tax nexus work for sellers on Amazon, Shopify, Walmart, eBay, and Etsy, pulling revenue from every platform into one clean set of books.
+
+### Family offices
+icon: Building2
+
+Veil Velarde, CPA, leads outsourced accounting for family offices that need consolidated reporting across entities and accounts without hiring a full internal finance staff.
+
+### Property management
+icon: Home
+
+Michael Laudazio handles multi-entity tax compliance for property portfolios spread across several states, plus the IRS notices and audit questions that come with owning real estate at scale.
+
+### IRS representation and resolution
+icon: ShieldCheck
+
+Julia Lindner, EA, represents individuals and businesses facing back taxes, audits, or IRS notices, a service many local firms refer out instead of handling directly.
+
+<!-- block: logo-bar -->
+## Recognized for innovation in client accounting services
+
+Woodard named Berg Advisors one of its Top 50 Client Accounting Services firms in a 2023 spotlight report, recognizing firms that pair cloud accounting with real advisory work instead of pure data entry. Canopy named the firm a finalist for its 2021 Innovation Award, and Intuit has recognized Berg Advisors as a Firm of the Future.
+
+None of that changes what a client actually experiences day to day: monthly financials that show up on time, a CPA who returns calls, and a fixed fee that doesn't creep up every time you ask a question. The recognition just confirms what clients already know about how this firm runs.
+
+<!-- block: process-steps | variant: horizontal -->
+## How our team works with you all year long
+
+Every new client starts with a mutual success plan, a written agreement on what gets delivered, when, and how the team communicates, so nobody's guessing three months in.
+
+### Onboarding and mutual success plan
+We map your entities, platforms, and prior-year numbers, then agree on a success plan that spells out deliverables and deadlines both sides sign off on.
+
+### Monthly close and reporting
+Bookkeeping and reconciliations close every month, not once a quarter, so you're reviewing last month's numbers instead of last year's.
+
+### Quarterly strategy calls
+A CPA gets on the phone with you every quarter to talk through cash flow, tax strategy, and whatever's changed in the business since the last call.
+
+### Flat monthly fee
+You're billed the same amount whether this month's questions take ten minutes or two hours. No surprise invoices for picking up the phone.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation-call.jpg | alt: "CPA and client shaking hands after a consultation meeting" | query: "accountant client handshake meeting" -->
+## Get to know the people managing your books and taxes
+
+Comparing accountants near Newtown Square usually means comparing hourly rates and vague service lists. Talk to Berg Advisors instead, and you're talking directly to the CPA or EA who'll actually work on your account, not a sales rep who hands you off once the contract's signed.
+
+Bring your questions about e-commerce accrual accounting, property management reporting, family office consolidation, or a tax notice you're not sure how to handle. Thirty minutes on a call tells you more about how this firm operates than any page on this website. [Schedule a consultation](/contact-us) and find out who'd actually be working on your account.
+
+---
+
+### Best E-Commerce CPA Services for Online Businesses
+URL: /industries/e-commerce
+
+<!-- block: content-split | variant: image-right | image: ecommerce-multichannel-seller-review.jpg | alt: "Business owner reviewing multi-channel sales reports on a laptop" | query: "small business owner reviewing sales reports" -->
+## A CPA firm built for multi-channel selling
+
+Amazon, Shopify, Walmart, eBay, and Etsy sellers don't need a generalist who dabbles in e-commerce between real estate closings and payroll runs. They need a firm that already knows what a settlement report looks like, why FBA reimbursements matter, and how cost of goods sold gets calculated when inventory sits in three different warehouses at once.
+
+Berg Advisors brings more than 30 years of combined CPA experience to the table, with [Andrew C. Berg, CPA,](/about-us/meet-the-team) leading the firm's work with product-based businesses, from single-channel Shopify shops to sellers running Amazon, Walmart, and Etsy storefronts side by side. As a virtual firm working with sellers in all 50 states, geography never limits who gets access to this expertise, though the firm's origins trace back to Newtown Square, Pennsylvania.
+
+Unlike single-channel specialists who only speak Amazon, or local accountants who treat e-commerce as a side practice, this firm runs on a flat monthly fee, not an hourly clock. Asking a question about your margins doesn't cost extra, and a call before tax season isn't a billable event.
+
+<!-- block: content-split | variant: image-left | image: multichannel-revenue-reconciliation.jpg | alt: "Accountant comparing sales data from multiple online marketplaces" | query: "accountant analyzing financial spreadsheets" -->
+## Solving the multi-channel reconciliation headache
+
+Every marketplace exports data differently. Amazon settlement reports bury fees inside multi-week batches. Shopify mixes gross sales with discounts and shipping income. Walmart, eBay, and Etsy each format payouts their own way, and reconciling all of it by hand eats a weekend every month.
+
+Berg Advisors builds one unified ledger from every channel you sell on, so gross revenue, marketplace fees, refunds, and shipping costs land where they belong instead of getting lumped into "miscellaneous." Your P&L ends up reflecting what each channel earns, not a blended guess.
+
+Once the numbers reconcile, the real question gets easier to answer: which channel, product, or SKU is making money. That's the conversation this firm has with clients every quarter, not just once a year at tax time.
+
+<!-- block: content-split | variant: image-right | image: inventory-accrual-accounting.jpg | alt: "Warehouse inventory shelves with boxes ready for shipment" | query: "warehouse inventory shelves boxes" -->
+## Accrual accounting and inventory done right
+
+Cash-basis books work fine for a lemonade stand. They fall apart the moment a bank, investor, or lender asks for GAAP-compliant financials, or when a seller can't tell if last month was profitable because inventory purchases and revenue landed in different periods.
+
+Andrew C. Berg, CPA, works directly with growing product businesses moving from cash-basis to accrual accounting, the shift banks and investors expect once a company outgrows its founder's personal checking account. That includes proper inventory costing, so landed costs, freight, and per-unit COGS show up correctly instead of getting expensed the day a container clears customs.
+
+Full-service firms that handle this well are hard to find. Most bookkeeping shops stop at cash-basis reconciliation and hand you an incomplete picture right when accurate numbers matter most.
+
+<!-- block: checklist-section | variant: with-image | image: sales-tax-nexus-map.jpg | alt: "Map highlighting multiple US states for sales tax nexus" | query: "map united states business expansion" -->
+## Multi-state sales tax nexus without the guesswork
+
+Selling on Amazon FBA alone can create sales tax nexus in a dozen states before you've shipped a single order there yourself, because inventory sits in fulfillment centers you don't control. Add a warehouse in a new state, cross an economic nexus threshold, or launch on a new marketplace, and the filing requirements shift again.
+
+Andrew C. Berg, CPA, advises product-based businesses on nexus exposure as they expand, turning that mess into a plan instead of a scramble.
+
+- Nexus review across every state you sell into, based on inventory location and revenue thresholds
+- Registration and filing setup handled ahead of time, not after a state sends a notice
+- Ongoing monitoring as thresholds change or new states get added to your footprint
+- Marketplace facilitator law guidance, so you know what Amazon and Walmart already collect on your behalf
+
+<!-- block: service-cards | variant: 3-col -->
+## Outsourced accounting, tax, and advisory under one roof
+
+Bookkeeping without tax planning misses savings. Tax prep without ongoing bookkeeping means surprises every April. Berg Advisors runs both under one flat monthly fee, plus the advisory layer that connects them.
+
+### Outsourced bookkeeping and accounting
+icon: Calculator
+
+Monthly close, bank and credit card reconciliations, and channel-level financial reporting built for multi-platform sellers. [See how bookkeeping works](/services/accounting)
+
+### Business and personal tax
+icon: FileText
+
+Business tax preparation, personal returns, year-end 1099s, and tax planning that accounts for inventory and multi-state exposure. [Explore tax services](/services/tax)
+
+### Strategic advisory
+icon: ChartLine
+
+Quarterly strategy calls, cash flow management, and budget review built around your growth plans, not just year-end cleanup. [Learn about advisory](/services/advisory)
+
+Every engagement includes a mutual success plan, so you know upfront what's covered and what a quarter of work with this firm looks like.
+
+<!-- block: logo-bar -->
+## Recognized expertise you can rely on
+
+Berg Advisors was named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future for its work modernizing accounting workflows with cloud-based tools. The firm was also a finalist for Canopy's 2021 Innovation Award, and Andrew C. Berg, CPA, discussed the firm's growth on the Profit First Professionals podcast, "Journey to a Modern Accounting Firm."
+
+These aren't badges anyone can buy. Woodard and Intuit evaluate firms on client service, technology adoption, and results, not marketing spend.
+
+<!-- block: cta-banner | variant: image-bg | image: online-seller-consultation-call.jpg | alt: "E-commerce business owner on a video call consultation" | query: "business owner video call consultation" -->
+## Let's talk about your online business
+
+Whether you're running a single Shopify store or juggling Amazon, Walmart, eBay, and Etsy storefronts at once, your numbers should tell you something useful. Berg Advisors works with sellers by video call and shared dashboards, wherever your business is registered.
+
+[Schedule a consultation](/contact-us) to talk through where your books stand today and what a flat monthly fee looks like for a business like yours.
+
+---
+
+### Accounting Services for Small Business | Berg Advisors
+URL: /services/accounting
+
+<!-- block: hero-split | variant: image-right -->
+
+<!-- block: intro-text | variant: centered -->
+## A small business accountant who treats you like family
+
+Newtown Square has no shortage of accounting firms, and most of them still bill by the hour and treat you like a file number that shows up every April. Berg Advisors works differently. We're a virtual CPA firm serving clients across Pennsylvania and the country, but we operate the way a good local accountant always has: get to know your business, communicate before you have to chase us down, and charge a flat monthly fee so an invoice never surprises you. Whether you run a multi-channel e-commerce brand, manage a portfolio of rental properties, or oversee a family office with accounts scattered across entities, you get a team that treats your business like part of the family, not a ticket in a queue.
+
+<!-- block: content-split | variant: image-right | image: bookkeeper-monthly-close.jpg | alt: "Accountant reconciling bank statements and financial reports on a laptop" | query: "accountant reviewing financial reports laptop" -->
+## Outsourced accounting and bookkeeping built around your business
+
+Bookkeeping is the foundation everything else sits on, and it's usually the first thing that slips when you're busy running the business. Our outsourced accounting and bookkeeping services cover the monthly close, bank and credit card reconciliations, accounts payable and receivable management, and financial reporting that tells you something you can actually use. Instead of scrambling to reconcile a dozen accounts before tax season, you get clean books delivered every month, with a CPA available to explain what the numbers mean for your next move.
+
+Every engagement runs on a flat monthly fee, so a busy month never turns into a surprise bill. At the start of the relationship, we build a mutual success plan with you, so the reporting you receive matches how you actually run your business instead of a generic template pulled off a shelf. Small business owners across Delaware County and Chester County hire Berg Advisors to take the books off their plate entirely.
+
+<!-- block: checklist-section | variant: with-image-left | image: tax-planning-meeting.jpg | alt: "CPA and small business owner reviewing tax documents together" | query: "tax planning meeting small business owner" -->
+## Business and personal tax preparation and planning
+
+Tax season shouldn't be the only time you hear from your accountant. Berg Advisors handles business and personal income tax preparation and pairs it with planning conversations throughout the year, so decisions get made in June instead of scrambled together in March.
+
+- Business tax preparation for LLCs, S-corps, and multi-entity structures
+- Personal income tax preparation for owners and their households
+- Year-end 1099 preparation and filing
+- Ongoing tax planning and strategy, built into your regular check-ins
+- Audit protection and representation if the IRS sends a notice
+- Multi-state sales tax compliance for product-based businesses expanding into new states
+
+That last item matters more than most local CPAs let on. As e-commerce and wholesale businesses grow, they cross sales tax nexus thresholds in states they've never set foot in, and the penalties for missing it are real.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Specialized accounting for e-commerce, property management, and family offices
+
+A generalist CPA can file your return. Fewer can reconcile revenue across five sales channels, track owner distributions across a dozen properties, or consolidate accounts that span personal, business, and investment entities. Berg Advisors is one of a limited number of full-service U.S. firms built specifically around accrual accounting, inventory, and multi-state sales tax nexus for product-based businesses.
+
+### Multi-channel e-commerce
+icon: Globe
+
+Amazon, Shopify, eBay, Etsy, and Walmart each report revenue differently, and reconciling them by hand leaves gaps nobody catches until tax time. We manage financial data from every platform in one place, so you get a real view of margins by channel instead of a guess. [See our e-commerce accounting services](/industries/e-commerce)
+
+### Property management companies
+icon: Building2
+
+Tracking income, expenses, and owner distributions across multiple properties and entities in spreadsheets is how things fall through the cracks. We build one centralized view of every property's performance, so month-end doesn't mean chasing down five different bank statements. [See our property management accounting services](/industries/property-management)
+
+### Family offices
+icon: Users
+
+Multiple entities, multiple accounts, and personal and business expenses that tend to blend together create a visibility problem most bookkeepers aren't equipped to solve. We consolidate reporting across every entity so you can see the full picture without spending your own time reconciling it. [See our family office accounting services](/industries/family-offices)
+
+<!-- block: feature-grid | variant: 3-col -->
+## Guidance for growth, cash flow, and succession planning
+
+Compliance work keeps you legal. Advisory work is what actually moves the business forward, and it's where a lot of firms stop showing up once the tax return is filed. Berg Advisors builds recurring strategic conversations into every relationship, so planning happens on a schedule rather than in a panic.
+
+### Cash flow management
+icon: ChartLine
+
+Knowing what's in the bank today matters less than knowing what's coming in 90 days from now. We help you build forecasts you can actually plan around.
+
+### Budget development and review
+icon: Calculator
+
+A budget that never gets revisited isn't a budget, it's a document. We review yours against actuals on a regular cadence and flag where it needs to change.
+
+### Recurring consulting calls
+icon: Clock
+
+Quarterly or monthly, depending on what your business needs, these calls are where the real strategy conversations happen, not buried in an email thread.
+
+### Succession planning
+icon: Target
+
+Whether you're planning an exit in two years or twenty, the financial groundwork has to start now. We help you get the entity structure and reporting in shape before a buyer or successor ever asks to see it.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why businesses and family offices choose Berg Advisors
+
+Berg Advisors has been recognized as a Woodard Top 50 Client Accounting Services Award firm and named an Intuit Firm of the Future, honors that reflect how the firm runs, not just how it files returns. The team includes CPAs like Andrew C. Berg, Joshua Beaugrand, and Lindsey Coburn, alongside Enrolled Agent Julia Lindner for IRS representation matters, giving clients access to more than 30 years of combined CPA experience without paying hourly rates for it.
+
+- 30+ years combined CPA experience across the team
+- Woodard Top 50 Client Accounting Services Award firm (2023)
+- Fixed monthly fees, no hourly billing surprises
+
+<!-- block: cta-banner | variant: image-bg | image: accountant-handshake-consultation.jpg | alt: "CPA shaking hands with a small business owner during a consultation" | query: "accountant client handshake consultation" -->
+## Get started with a Berg Advisors accountant today
+
+Switching accountants feels like a hassle right up until you talk to one who actually returns calls. If your books are behind, your tax bill keeps surprising you, or you've outgrown whatever spreadsheet system got you this far, we can help sort out what's actually going on and what it costs to fix it. No hourly clock starts the moment you call.
+
+[Schedule a consultation](/contact-us)
+
+---
+
+### Advisory & Consulting Services for Small Business
+URL: /services/advisory
+
+<!-- block: intro-text | variant: centered -->
+## Advisory support built around your business, not a billable hour
+
+Most consulting relationships start with a scope of work and end with an invoice that surprises you. Berg Advisors works differently. You pay one flat monthly fee, and that fee covers the phone call, the email, and the fifteen-minute question that saves you a costly mistake three months later.
+
+Our advisory practice runs on a simple idea: businesses that talk to their accountant regularly make better decisions than those that check in once a year at tax time. Whether you're running a multi-channel e-commerce brand, managing a portfolio of rental properties, or overseeing a family office with several entities, you need someone who already understands your numbers when you call.
+
+That's what fixed-fee advisory from a CPA firm with more than 30 years of combined experience looks like in practice.
+
+<!-- block: content-split | variant: image-right | image: advisory-strategy-call.jpg | alt: "Accountant and business owner reviewing cash flow reports on a laptop" | query: "accountant client cash flow meeting" -->
+## Strategic planning and cash flow guidance that keeps you ahead
+
+Good decisions come from good information, delivered on a schedule you can plan around. Our core advisory work centers on four things: strategic planning, cash flow management, budget development, and recurring consulting calls that turn financial reporting into an actual conversation.
+
+Strategic planning sessions look at where your business is headed over the next 12 to 24 months, not just the next tax deadline. Cash flow management means you know what's coming in and going out before it becomes a problem, not after. Budget development gives you a working document you'll actually use, reviewed and adjusted as your business changes.
+
+The recurring calls are the part clients tell us matters most. Instead of a one-off project that ends in a binder nobody opens again, you get a standing conversation with your advisory team, quarterly at minimum, where we talk through what changed, what's working, and what needs attention next.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Advisory tailored to e-commerce, property management, and family offices
+
+Generic consulting advice doesn't hold up against the specific mechanics of your industry. Here's how our advisory work flexes to each niche we serve.
+
+### Multi-channel e-commerce
+icon: ChartBar
+
+Selling across Amazon, Shopify, eBay, Etsy, and Walmart means your revenue lives in five different places and your bank account tells only part of the story. We reconcile [multi-channel e-commerce](/industries/e-commerce) platform data into one unified view, so you can see real margin by channel instead of guessing.
+
+### Property management companies
+icon: Building2
+
+Tracking income, expenses, and owner distributions across multiple properties and entities in spreadsheets gets unmanageable fast. Advisory work for [property management](/industries/property-management) clients centers on one consolidated view of performance across every property, so distribution and reserve decisions rest on current numbers, not whichever spreadsheet was updated last.
+
+### Family offices
+icon: Users
+
+Multiple entities, multiple accounts, and investments that don't report on the same schedule create blind spots. We help [family offices](/industries/family-offices) consolidate that visibility and separate personal from business activity cleanly, so the people managing the money can focus on decisions instead of data-gathering.
+
+<!-- block: content-split | variant: image-left | image: succession-planning-discussion.jpg | alt: "Two business partners discussing long-term planning documents at a desk" | query: "business owners planning discussion office" -->
+## Succession planning and long-term business strategy
+
+Not every advisory conversation is about this quarter's cash flow. Business owners who've spent a decade or more building something eventually start asking different questions: What does an exit look like? Who takes over if I step back? What does the business need to be worth, and by when?
+
+Succession planning and risk management are part of our advisory work for exactly that reason. We help you think through ownership transitions, key-person risk, and the financial structure that makes a future sale or transfer smoother, well before you need any of it. These conversations work best started early, alongside the recurring strategic planning calls already built into your engagement, not as a rushed project the year you decide to sell.
+
+<!-- block: feature-grid | variant: 3-col -->
+## What makes our advisory approach different
+
+A handful of specifics separate our advisory work from a typical consulting engagement.
+
+### Flat monthly fees
+icon: DollarSign
+
+No hourly billing and no surprise invoice for the call you almost didn't make. One predictable monthly fee covers your advisory work, so asking a question never comes with a mental cost calculation attached.
+
+### 30+ years of CPA experience
+icon: Award
+
+Berg Advisors brings more than three decades of combined CPA experience to advisory engagements, across tax, accounting, and the day-to-day mechanics of e-commerce, property management, and family office finances.
+
+### Recognized by Woodard and Intuit
+icon: BadgeCheck
+
+Berg Advisors has been named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future, two distinctions given to firms building modern, technology-forward practices.
+
+### A mutual success plan for every client
+icon: Target
+
+Every advisory engagement starts with a written plan defining what success looks like for your business and how we'll measure progress, so goals get revisited instead of forgotten after month one.
+
+Want to know who you'd actually be talking to? [Meet the CPAs and EAs](/about-us/meet-the-team) on the advisory team.
+
+<!-- block: process-steps | variant: vertical -->
+## How advisory engagements work at Berg Advisors
+
+### Initial consultation
+We start with a conversation about where your business stands today: your entities, your systems, and the biggest financial question you're facing right now.
+
+### Mutual success plan
+You get a written plan defining what success looks like for this engagement and how progress gets tracked, so both sides know what we're working toward.
+
+### Onboarding and data review
+We get access to your accounts and platforms, e-commerce channels, property management software, or entity structures, and get familiar with your numbers before the first strategy call.
+
+### Recurring strategy calls
+Quarterly at minimum, your team reviews performance, cash flow, and any decisions on the horizon, adjusting the plan as your business changes.
+
+<!-- block: cta-banner | variant: image-bg | image: business-consultation-handshake.jpg | alt: "Business owner and advisor shaking hands after a planning meeting" | query: "business handshake advisor meeting" -->
+## Let's talk about where your business is headed
+
+You don't need a finished strategic plan to walk in the door. Most advisory relationships start with one specific question: a hiring decision, a lease renewal, an expansion into a new state, or a conversation about what retirement might look like in five years.
+
+Schedule a consultation and tell us where your business stands right now. We'll tell you honestly whether ongoing advisory support fits where you're headed, and what that looks like as a flat monthly fee instead of a per-question invoice.
+
+[Schedule a consultation](/contact-us)
+
+---
+
+### Professional Tax Services for Small Businesses and Individuals Nationwide
+URL: /services/tax
+
+<!-- block: intro-text | variant: centered -->
+## Year-round tax support built for busy business owners
+
+Tax season shouldn't be the only time your CPA calls. At Berg Advisors, tax work happens all year: quarterly check-ins, mid-year projections, and plain-English answers to whatever question is keeping you up at night, not just a scramble every March and April.
+
+The firm started in Newtown Square, Pennsylvania, and has grown into a virtual practice serving business owners and individuals in all 50 states, from Delaware County retailers to e-commerce sellers running fulfillment centers in five states. Andrew C. Berg, CPA, built the practice around one idea: a preparer files your return, an advisor helps you keep more of what you earn. Every client gets a fixed monthly fee, a mutual success plan, and a team that already knows the business before a filing deadline lands on the calendar.
+
+<!-- block: service-cards | variant: 3-col -->
+## Business and personal income tax preparation done right
+
+Filing a return is table stakes. Getting it right, on time, without a surprise invoice afterward, is where a lot of small-business owners get burned by their current preparer.
+
+### Business Tax Preparation
+icon: Building2
+
+Federal and state returns for LLCs, S corps, partnerships, and multi-entity structures, prepared by CPAs who already track the books during the year instead of meeting the numbers for the first time each spring.
+
+### Personal Income Tax Preparation
+icon: FileText
+
+Individual returns for owners, self-employed professionals, and families with investment income, K-1s, or multi-state filing requirements tied to the business.
+
+### Year-End 1099 Preparation
+icon: Receipt
+
+Vendor and contractor 1099 filing handled on schedule, so January doesn't turn into a scramble for missing W-9s and last-minute payment reports.
+
+Every tax engagement runs on a flat monthly fee instead of hourly billing. The cost is set before the work starts, and a phone call or email question won't show up as a surprise line item on next month's invoice. That predictability matters for self-employed professionals and small-business owners who need to budget for accounting costs the same way they budget for rent or payroll.
+
+<!-- block: checklist-section | variant: with-image | image: quarterly-tax-planning-review.jpg | alt: "Accountant and business owner reviewing quarterly tax planning documents together" | query: "accountant client quarterly review meeting" -->
+## Tax planning and strategy that goes beyond filing
+
+Filing a clean return is the finish line. Getting there without an April surprise takes planning that starts in January.
+
+- Quarterly check-ins to review estimated payments, entity elections, and year-to-date profit before liabilities pile up
+- Plain-English strategy sessions that translate the tax code into decisions you can actually act on
+- Audit protection and IRS representation from Julia Lindner, EA, if a notice ever lands in the mailbox
+- Multi-entity and multi-state compliance review from Michael Laudazio, so filings stay accurate as the business grows
+- A written mutual success plan that spells out deadlines, deliverables, and who owns each task
+
+Every strategy session gets checked against actual numbers, not last year's assumptions. Business owners who want this built into their monthly accounting can add [advisory and consulting support](/services/advisory) alongside tax planning, so cash flow, budgeting, and tax strategy come from the same team.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Specialized tax expertise for e-commerce, property management, and family offices
+
+Generic tax software wasn't built for a business selling on four marketplaces, managing thirty rental units, or consolidating three family entities into one return. These are the three niches Berg Advisors built its practice around.
+
+### Multi-Channel E-Commerce
+icon: Globe
+
+Sellers running inventory across Amazon, Shopify, eBay, Etsy, and Walmart need accrual-based books that match reality, plus sales tax handling in every state a product ships to. Berg Advisors is one of a small number of full-service U.S. firms built around accrual accounting, inventory costing, and multi-state sales tax nexus for [multi-channel e-commerce sellers](/industries/e-commerce).
+
+### Property Management Companies
+icon: Home
+
+Tracking income, expenses, and owner distributions across dozens of properties and entities creates a tax filing headache without centralized books. Entity-level returns, depreciation schedules, and owner K-1s get handled together for [property management companies](/industries/property-management), not as separate projects each spring.
+
+### Family Offices
+icon: Users
+
+Consolidated tax visibility across multiple entities, trusts, and investment accounts replaces the spreadsheet-and-guesswork approach many [family offices](/industries/family-offices) inherit from prior advisors. Personal and business filings stay properly separated, coordinated, and on schedule.
+
+<!-- block: content-split | variant: image-left | image: multi-state-sales-tax-map.jpg | alt: "Business owner reviewing a multi-state sales tax map on a laptop" | query: "business owner reviewing map laptop" -->
+## Multi-state sales tax nexus guidance for growing businesses
+
+Add a product to a fifth marketplace or open a warehouse in a new state, and nexus rules change with it. A product-based business can trigger sales tax collection obligations in a state it's never set foot in, just by storing inventory there or crossing a revenue threshold.
+
+Andrew C. Berg, CPA, works directly with multi-channel sellers and wholesale distributors expanding into new states, reviewing nexus exposure before it becomes a liability instead of after a state sends a notice. That includes registering in new states, mapping which products are taxable where, and setting a reporting cadence so sales tax doesn't become a year-end scramble.
+
+Most e-commerce-focused accounting shops treat sales tax as a bookkeeping line item. Berg Advisors treats it as a compliance strategy, because a missed nexus threshold in one state can cost more to fix than a full year of accounting fees.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why business owners choose Berg Advisors for tax services
+
+Thirty years of public accounting experience shows up in the details: the entity structure question nobody else asked, the estimated payment corrected before it became a penalty, the phone call that came before the client had to make it.
+
+- 30+ years of combined CPA experience across the founding team
+- Woodard Top 50 Accounting Firm, named in the 2023 Client Accounting Services Award Spotlight
+- Intuit Firm of the Future recognition for building a modern, cloud-based practice
+
+Meet the CPAs, EA, and advisors behind those numbers on the [team page](/about-us/meet-the-team). The relationship is the product here, not just the return.
+
+<!-- block: cta-banner | variant: image-bg | image: business-owner-handshake-consultation.jpg | alt: "Business owner shaking hands with a CPA advisor after a consultation" | query: "business owner handshake advisor consultation" -->
+## Get started with proactive tax planning today
+
+Whether the business runs out of Newtown Square or ships product from a warehouse in Nevada, one team handles the filing, the planning, and the phone call when a question comes up. Berg Advisors operates as a fully virtual firm serving clients in all 50 states, with its roots still planted in Delaware County, Pennsylvania.
+
+[Schedule a consultation](/contact) to talk through your current tax setup. No obligation, and no hourly clock running while you ask questions.
+
+---
+
+### Contact Berg Advisors for Accounting, Tax & Advisory Services
+URL: /contact-us
+
+<!-- block: intro-text | variant: centered -->
+## We're ready to help your business grow
+
+"We Can Help" isn't a slogan we picked because it sounded nice. It's the answer we give when a multi-channel [e-commerce](/industries/e-commerce) seller can't reconcile Amazon and Shopify revenue, when a [property management](/industries/property-management) company can't get a straight answer on owner distributions, or when a [family office](/industries/family-offices) needs one clear view across a dozen entities. Berg Advisors is a virtual CPA firm headquartered in Newtown Square, Pennsylvania, serving clients across the country. Whether you're down the street or three time zones away, the process is the same: real conversations, plain-English answers, and a plan built around your business. If you're ready to stop guessing and start planning, we're ready to talk.
+
+<!-- block: content-prose -->
+## Schedule your free consultation
+
+A consultation with Berg Advisors starts with a conversation, not a sales pitch. You'll talk with a CPA or advisor who wants to understand your business first: how you're structured, what's keeping you up at night, and where you want to be in twelve months. We'll ask about your entity type, your industry, and the systems you're already using, whether that's QuickBooks, A2X, AppFolio, or something else entirely. From there, we walk through what working together could look like, including the mutual success plan every client gets, spelling out goals and responsibilities on both sides. No hourly clock runs during this call, and nobody's asking you to sign anything on the spot. Explore our [services](/services) beforehand if you want a head start on the conversation.
+
+<!-- block: checklist-section | variant: with-image | image: accountant-answering-phone.jpg | alt: "Advisor smiling while answering a phone call at a desk" | query: "accountant answering phone office" -->
+## Ways to reach our team
+
+Call us, email us, or fill out the short form on this page. However you reach out, someone on our team picks it up and routes it to the right advisor. Because Berg Advisors bills flat monthly fees instead of the clock, you never have to think twice before sending a quick question or asking us to jump on a call. Proactive communication is built into how we work with every client, not something you have to chase down.
+
+- Phone: Speak directly with a CPA or advisor about your accounting, tax, or advisory needs.
+- Email: Send us the details of your situation and we'll route it to the right person on our team.
+- Contact form: Fill out the form below and we'll follow up to schedule your consultation.
+
+<!-- block: content-split | variant: image-right | image: newtown-square-virtual-meeting.jpg | alt: "Advisor on a video call from a modern office desk" | query: "professional video call office desk" -->
+## Visit us in Newtown Square or connect virtually
+
+Berg Advisors is headquartered in Newtown Square, Pennsylvania, where the firm got its start more than 30 years ago. Local clients are always welcome to sit down across the table. But the firm runs as a virtual practice for most of its client base, using secure portals and video calls to serve e-commerce sellers, property management companies, and family offices coast to coast. Location was never really the point. Having a CPA who picks up the phone, knows your books, and treats your business like it matters, that's the point, whether you're a mile from our office or a few states away. Read more about the [firm's background](/about-us) and the team behind it.
+
+<!-- block: form | variant: contact -->
+## Tell us about your business before we talk
+
+A little context before your consultation goes a long way. The short form below asks about your industry, whether you're structured as an LLC, S-corp, or something else, and the biggest challenge you're trying to solve, whether that's reconciling Amazon and Shopify revenue, tracking owner distributions across a dozen properties, or getting one consolidated view of family entities. The more detail you give us, the more useful that first conversation will be. If you're not sure how to categorize your business, just describe it in your own words. We'll sort out the rest once we're on the phone, whether your needs fall under [accounting](/services/accounting), [tax](/services/tax), or [advisory](/services/advisory) work.
+
+<!-- block: cta-banner | variant: image-bg | image: advisor-client-handshake.jpg | alt: "Business owner shaking hands with an advisor after a meeting" | query: "business handshake advisor meeting" -->
+## Ready when you are
+
+Flat monthly fees. Proactive communication. Thirty-plus years of CPA experience across e-commerce, property management, and family offices. Schedule a consultation and find out what that looks like for your business.
+
+[Schedule a consultation](/contact-us)
+
+---
+
+### Quick Reads Blog | Berg Advisors
+URL: /resources/blog-quick-reads
+
+<!-- block: intro-text | variant: centered -->
+## Practical accounting guidance for growing businesses
+
+Quick Reads is where we put the answers clients usually get over the phone, written down before anyone else has to ask. Newtown Square business owners bring us real questions: how to close the books faster, what a 1099 deadline actually requires, whether a Delaware County rental portfolio needs separate entities for liability and reporting. This blog exists to answer those questions in plain language, plus the ones you haven't thought to ask yet.
+
+Every post reflects work happening inside the firm right now, not advice recycled from somewhere else. Andrew Berg, CPA, and the rest of the Berg Advisors team write from more than 30 years of combined CPA experience in outsourced accounting, tax, and advisory work. Browse by topic below, or search for the issue keeping you up at night.
+
+<!-- block: service-cards | variant: 3-col -->
+## Explore topics by area of your business
+
+Most readers come to Quick Reads with a specific problem, not a general interest in accounting. These three tracks organize our posts the way our services are organized, so you can find guidance that matches what's actually happening in your business.
+
+### Outsourced Accounting & Bookkeeping
+icon: Calculator
+
+Posts on monthly close, bank reconciliations, and the reporting rhythms that keep your books audit-ready without a year-end scramble. [Explore accounting services](/services/accounting)
+
+### Business & Personal Tax
+icon: FileText
+
+Filing deadlines, deduction strategy, and year-end planning, explained without the jargon that usually comes with them. [Explore tax services](/services/tax)
+
+### Advisory & Consulting
+icon: ChartLine
+
+Cash flow, budgeting, and the strategic decisions that separate businesses that scale from ones that stall out at a plateau. [Explore advisory services](/services/advisory)
+
+<!-- block: industry-cards | variant: 3-col -->
+## Insights for e-commerce, property management, and family office clients
+
+Generic bookkeeping advice doesn't hold up against inventory accrual accounting, owner distribution reporting, or multi-entity consolidation. These three tracks go deeper, written for the industries where Berg Advisors spends most of its time.
+
+### Multi-channel e-commerce
+icon: Globe
+
+Accrual-basis accounting, inventory costing, and multi-state sales tax nexus for sellers running Amazon, Shopify, Walmart, and Etsy storefronts at once. See the full picture in [e-commerce accounting](/industries/e-commerce).
+
+### Property management companies
+icon: Building2
+
+One centralized view of income, expenses, and owner distributions across every property and entity, instead of a different spreadsheet for each building. Read more in [property management accounting](/industries/property-management).
+
+### Family offices
+icon: Users
+
+Consolidated reporting across multiple entities, investment accounts, and family members, with clean separation between personal and business activity. Learn more in [family office accounting](/industries/family-offices).
+
+<!-- block: checklist-section | variant: with-image | image: resources--blog-quick-reads--checklist-section.jpg | query: "outsourced accounting" -->
+<!-- block: checklist-section | variant: with-image | image: pa-tax-law-review.jpg | alt: "CPA reviewing Pennsylvania tax documents at a desk with a laptop" | query: "accountant reviewing tax documents office" -->
+## Staying current on PA and multi-state tax changes
+
+Tax law doesn't sit still, and Quick Reads tracks the changes that affect Pennsylvania business owners directly, from state filing updates to the multi-state sales tax nexus rules that catch growing e-commerce sellers off guard. Recent and upcoming coverage includes:
+
+- Pennsylvania pass-through entity tax updates and what they mean for Delaware County business owners
+- Multi-state sales tax nexus triggers for e-commerce sellers expanding beyond Pennsylvania
+- Local Newtown Square and Delaware County business trends shaping hiring, leasing, and lending decisions
+- Federal deadline changes affecting 1099 filing and quarterly estimated payments
+
+Michael Laudazio writes several of these posts, drawing on the multi-entity and multi-state filing questions Berg Advisors fields from clients operating in more than one state.
+
+<!-- block: team-grid | variant: 2-col -->
+## The CPAs and EAs who write what you read
+
+Every Quick Reads post carries a real byline from someone working client accounts at Berg Advisors, not a ghostwritten placeholder. The firm was named a Woodard Top 50 Client Accounting Services firm in 2023 and a Canopy Innovation Award finalist, and several team members hold AICPA membership alongside their state credentials.
+
+### Andrew C. Berg, CPA
+Founder
+
+Over 30 years of CPA experience, featured on the Profit First Professionals podcast discussing accrual accounting and multi-state sales tax nexus for growing e-commerce brands.
+
+### Julia Lindner, EA
+Enrolled Agent
+
+Represents clients directly before the IRS on notices, audits, and back-tax resolution, and writes the posts on what to do the day a letter from the IRS shows up.
+
+### Michael Laudazio
+Tax Compliance
+
+Covers multi-entity and multi-state filing requirements for businesses that have outgrown a single state tax return.
+
+### Veil Velarde, CPA
+Outsourced Accounting
+
+Writes on fractional back-office support for growth-stage businesses outside the e-commerce and startup niches Berg Advisors is best known for.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "Business owner and CPA shaking hands after a consultation meeting" | query: "business owner accountant handshake meeting" -->
+## Get answers tailored to your business
+
+Quick Reads covers a lot of ground, but it can't replace a conversation about your specific numbers. If you're running a multi-channel e-commerce brand in three states, managing a dozen rental properties, or trying to consolidate reporting across a family office, the fastest way to get a straight answer is to ask us directly. Fixed monthly fees, no hourly surprises, and a mutual success plan built around your business from the first call.
+
+[Schedule a consultation](/contact-us)
+
+---
+
+### Ultimate Consulting Checklists & Tools | Berg Partners
+URL: /resouces/checklists-tools
+
+<!-- block: intro-text | variant: centered -->
+## Practical tools built from real client work
+
+At Berg Advisors, these checklists are not marketing giveaways. They are the same working documents Andrew C. Berg, CPA, and the team use with e-commerce sellers, property management companies, and family offices across the country every month. Thirty years of CPA work taught us that a good checklist catches a bad quarter before it happens, not just a messy folder after the fact.
+
+Each tool below started as an internal process, something built to keep a client's books accurate between calls. We cleaned them up and made them downloadable because the same gaps show up repeatedly: unreconciled marketplace deposits, missing 1099s, owner distributions nobody tracked. Pick the ones that match your business in our [industries](/industries) work and use them as a starting point for a conversation, not a substitute for one.
+
+<!-- block: checklist-section | variant: with-image-right | image: ecommerce-checklist.jpg | alt: "Business owner reviewing multi-channel sales reports on a laptop" | query: "ecommerce seller reviewing sales reports" -->
+## Checklists for e-commerce sellers
+
+Multi-channel selling creates a reconciliation problem no spreadsheet fixes by itself. Revenue lands in Amazon, Shopify, eBay, Etsy, and Walmart accounts on different schedules, with different fee structures and different definitions of a completed sale. Our [e-commerce](/industries/e-commerce) checklists walk through the line items most sellers miss.
+
+- Monthly marketplace reconciliation checklist covering Amazon Seller Central, Shopify, and Walmart Marketplace deposit timing
+- Inventory accounting checklist for COGS, landed cost, and accrual-basis adjustments
+- Multi-state sales tax nexus tracker to flag when a state's economic threshold has been crossed
+- Platform fee and chargeback review list for Amazon FBA and Shopify Payments
+
+These come out of work Andrew Berg, CPA, has done building accrual-basis books for growing e-commerce brands, one of the areas where Berg Advisors operates as a full-service U.S. firm.
+
+<!-- block: checklist-section | variant: with-image-left | image: property-management-checklist.jpg | alt: "Property manager reviewing owner distribution statements at a desk" | query: "property manager reviewing financial documents" -->
+## Checklists for property management companies
+
+Running books for one property is straightforward. Running them for a dozen properties, three entities, and a handful of owners expecting monthly statements is a different job. Our [property management](/industries/property-management) checklists are organized the way the work actually happens: by entity, then by property, then by owner.
+
+- Monthly owner distribution checklist confirming reserve balances before funds go out
+- Multi-property expense categorization guide for shared costs like landscaping, insurance, and management fees
+- Entity-by-entity month-end close checklist to keep each LLC's books separate and audit-ready
+- Trust account reconciliation checklist for security deposits and prepaid rent
+
+These grew out of ongoing bookkeeping work for property management clients, where one centralized view across every property replaces the spreadsheet juggling most firms leave owners to sort out on their own.
+
+<!-- block: checklist-section | variant: with-image-right | image: family-office-checklist.jpg | alt: "Family office advisor reviewing consolidated investment statements" | query: "financial advisor reviewing investment documents" -->
+## Checklists for family offices
+
+Family offices carry a specific kind of complexity: multiple entities, multiple bank accounts, and a real risk of personal and business transactions blending together over time. Our [family office](/industries/family-offices) checklists focus on the two problems that come up most often in these engagements.
+
+- Multi-entity consolidation checklist for combining investment, real estate, and operating entity reporting into one view
+- Personal versus business transaction separation guide, built for households managing investment and operating expenses through shared accounts
+- Annual entity structure review checklist to confirm each holding is still reporting the way it should
+
+Family offices work with Berg Advisors to get consolidated visibility without hiring a full internal finance team, and these tools reflect what that consolidation actually requires.
+
+<!-- block: checklist-section | variant: with-image-left | image: tax-close-checklist.jpg | alt: "Accountant organizing tax documents and folders on a desk" | query: "accountant organizing tax documents" -->
+## Year-round tax and close checklists for every client
+
+Some checklists apply no matter what industry a business is in. These are the ones sent to nearly every [tax and accounting](/services/tax) client at some point in the year, regardless of whether they sell on Amazon, manage apartment buildings, or run a family office.
+
+- Year-end 1099 preparation checklist covering vendor W-9 collection and filing deadlines
+- Monthly close checklist for reconciling bank, credit card, and loan accounts before books are marked final
+- Tax document organizer for individuals and businesses preparing for filing season
+- New business entity setup checklist for choosing a structure and registering with the right states
+
+Use them on your own, or bring them to a call with a Berg Advisors CPA and work through the gaps together.
+
+<!-- block: cta-banner | variant: image-bg | image: consulting-checklist-cta.jpg | alt: "Advisor and client shaking hands after a planning meeting" | query: "advisor client handshake meeting" -->
+## Get the tools and talk through your numbers
+
+A checklist tells you what's missing. A conversation tells you what to do about it. Download whichever tools match your business, then schedule a consultation with a Berg Advisors CPA to walk through what you find. Thirty years of CPA experience and a fixed monthly fee structure mean a straight answer, not a bill for the phone call.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Download Client Forms & Resources | Berg Advisors
+URL: /resources/client-forms-links
+
+<!-- block: intro-text | variant: centered -->
+## Everything you need to work with us in one place
+
+Starting with a new CPA firm means paperwork. We've tried to make that part painless. This page is the hub for every document, organizer, and checklist you'll need to work with Berg Advisors, whether you're onboarding as a new bookkeeping client, gathering tax documents, or pulling together entity records for a family office review.
+
+Andrew C. Berg, CPA, built the firm's onboarding process around a simple idea: clients shouldn't have to guess what we need from them. With over 30 years of combined CPA experience across the team, we've streamlined intake so you spend less time hunting for forms and more time running your business. If something below doesn't cover your situation, [schedule a consultation](/contact) and we'll sort it out directly.
+
+<!-- block: checklist-section | variant: with-image | image: client-onboarding-documents.jpg | alt: "Business owner signing an engagement letter with a CPA" | query: "business owner signing document office" -->
+## New client onboarding documents
+
+What you'll need depends on which service line you're starting with, bookkeeping, tax, or advisory, but a few documents come up for nearly every new engagement:
+
+- Engagement letter outlining scope of work, timeline, and our fixed monthly fee
+- New client intake questionnaire covering entity structure, prior-year filings, and accounting software in use
+- IRS Power of Attorney (Form 2848) or Tax Information Authorization (Form 8821) if we'll be representing you before the IRS
+- Bank, credit card, and platform access authorization so our outsourced accounting team can begin monthly reconciliations
+
+We'll walk through each one with you on your kickoff call rather than emailing a stack of PDFs and disappearing. That's part of the mutual success plan we build for every client at Berg Advisors, not a one-time form drop. Our [outsourced accounting](/services/accounting) and [tax](/services/tax) teams use slightly different intake packets, so let us know which service you're starting with and we'll send the right set.
+
+<!-- block: checklist-section | variant: with-image-left | image: tax-organizer-checklist.jpg | alt: "Tax organizer and folder of financial documents on a desk" | query: "tax documents folder desk" -->
+## Tax preparation forms and checklists
+
+Tax prep at Berg Advisors runs year-round, not just January through April, so several of these documents get used more than once a year:
+
+- Individual tax organizer covering W-2, 1099, K-1, and investment income
+- Business tax organizer for S-corps, partnerships, and multi-entity filers
+- 1099 filing checklist for contractor and vendor payments due each January
+- Document upload checklist listing exactly which statements and prior returns to send before your planning call
+
+Because we handle year-round tax planning and strategy, not just annual filing, several clients use these organizers during quarterly check-ins to project liability before year-end rather than scrambling in March. Michael Laudazio works with multi-entity and multi-state filers on compliance timing, and Julia Lindner, EA, handles document requests tied to IRS notices or audit response. Full detail on our approach lives on the [tax services page](/services/tax).
+
+<!-- block: industry-cards | variant: 3-col -->
+## Resources for e-commerce, property management, and family office clients
+
+Generic checklists don't work for niche businesses, so we built document sets specific to the industries we know best.
+
+### E-commerce Sellers
+icon: Globe
+
+Multi-channel sellers on Amazon, Shopify, eBay, Etsy, and Walmart need a sales tax nexus worksheet to track where they've triggered filing obligations, plus a monthly multi-channel sales report template that reconciles revenue across platforms before it hits your books. Our [e-commerce accounting](/industries/e-commerce) team built both from scratch after years of untangling platform-by-platform data by hand.
+
+### Property Management Companies
+icon: Building2
+
+Managers juggling multiple properties and entities need owner distribution statements, property-level income and expense templates, and a centralized chart of accounts request form so every property rolls up into one view instead of a dozen spreadsheets. Details on the full engagement live on our [property management](/industries/property-management) page.
+
+### Family Offices
+icon: Briefcase
+
+Consolidating visibility across entities and investments starts with an entity and investment summary worksheet, along with a personal-versus-business expense separation checklist to keep records clean for every account under the family umbrella. Our [family office](/industries/family-offices) advisory work is built around exactly this kind of consolidation.
+
+<!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Person uploading financial documents through a laptop secure portal" | query: "laptop secure document upload" -->
+## Secure document upload and client portal access
+
+Berg Advisors is a virtual firm, so the portal isn't a convenience feature, it's how the relationship works. Clients from coast to coast upload bank statements, tax documents, and entity records through an encrypted portal instead of email attachments, and our team reviews and responds through the same system.
+
+The firm was named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future, both tied to how we use technology to keep client communication proactive rather than reactive. If you're a new client, your onboarding email includes a portal invitation with setup instructions. Existing clients can log in anytime; if you've misplaced your credentials, reach out and we'll get you back in the same day.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation.jpg | alt: "CPA advisor consulting with a client at a desk" | query: "advisor client consultation desk" -->
+## Need a form you don't see here
+
+Not every client fits neatly into a checklist, and we'd rather have a conversation than send you searching through a resource library. If you need a form specific to your entity structure, your state, or a one-off situation like a lender request, contact your Berg Advisors CPA directly.
+
+That's the difference between a document library and a firm that treats you like family: someone answers. [Schedule a consultation](/contact) and we'll get you the exact paperwork you need, or point you to the right person on the team.
+
+
+---
+
+### Careers at Berg Advisors | Join Our Team
+URL: /about-us/careers
+
+<!-- block: intro-text | variant: centered -->
+## Build your accounting career with a firm that treats people like family
+
+Most accounting firms measure success in billable hours. Berg Advisors measures it in relationships, with clients and with the people who serve them. We're a virtual-first CPA firm rooted in Newtown Square, Pennsylvania, serving e-commerce sellers, property management companies, and family offices across the country. If you're tired of tracking six-minute increments and want to build real expertise in niches that matter, we want to talk.
+
+Our team operates on fixed monthly fees, not the billable-hour treadmill. That changes how we work: less pressure to pad timesheets, more time spent solving actual client problems. Over 30 years of combined CPA experience shapes how we train, mentor, and promote from within. Whether you're early in your career or bring a decade of public accounting behind you, Berg Advisors gives you room to specialize and grow without losing the collaborative, relationship-first culture that makes people stay.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Why accountants and bookkeepers choose Berg Advisors
+
+Top accounting talent doesn't join a firm for the logo. They join for how the work actually feels day to day, and for the chance to build expertise that sets them apart.
+
+### No billable-hour pressure
+icon: Clock
+
+Fixed monthly fees mean nobody's stopwatch-timing a phone call. You spend your energy on accurate books and client advice, not on justifying tenths of an hour to a partner.
+
+### Recognized by the industry
+icon: Award
+
+Berg Advisors has been named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future. Those aren't participation trophies. They reflect how we run a modern, technology-forward practice.
+
+### 30+ years of combined expertise
+icon: Briefcase
+
+Our CPAs and EAs bring decades of public accounting experience across tax, advisory, and outsourced accounting. New hires learn from people who've solved the problem before, not just read about it.
+
+### Specialized, not generalist, work
+icon: Target
+
+We serve multi-channel e-commerce sellers, property management companies, and family offices. That focus means deep, marketable expertise in accrual accounting, multi-state sales tax nexus, and multi-entity reporting instead of a little bit of everything.
+
+<!-- block: service-cards | variant: 3-col -->
+## Open roles and career paths at our Newtown Square area firm
+
+Berg Advisors hires across every stage of the accounting career path, from bookkeeping support to advisory leadership. Here's where most people start, and where the work can take you from there.
+
+### Bookkeeping and Accounting Support
+icon: Calculator
+
+Monthly close, reconciliations, and accounts payable and receivable work for e-commerce, property management, and family office clients. A common entry point for people who want hands-on client exposure early.
+
+### Tax Preparation and Planning
+icon: FileText
+
+Business and personal tax preparation, year-end 1099 work, and sales tax compliance. Roles here range from seasonal preparer support to year-round planning work for CPAs and EAs.
+
+### Staff Accountant
+icon: ChartBar
+
+Full-cycle accounting, financial reporting, and client-facing reconciliation work. This role typically bridges bookkeeping and advisory, with a path toward managing client relationships directly.
+
+### Advisory and Consulting
+icon: Lightbulb
+
+Cash flow forecasting, budget development, and strategic planning conversations with business owners. These roles usually go to CPAs and senior staff who've already built client trust in an accounting or tax seat.
+
+<!-- block: content-split | variant: image-right | image: team-video-call-planning.jpg | alt: "Accounting team members on a video call reviewing client reports" | query: "remote accounting team video call" -->
+## What it's like working with our team
+
+Ask anyone on staff what makes Berg Advisors different and you'll hear some version of the same thing: nobody disappears. Every client gets a mutual success plan and proactive check-ins, and that same communication standard applies internally. Managers give feedback in real time instead of saving it for an annual review nobody remembers.
+
+The firm runs virtually, with team members working from home offices connected by the same cloud tools we use with clients, including QuickBooks Online and Canopy. That doesn't mean isolated work. Weekly team calls, shared client files, and direct access to firm leadership keep people connected even when nobody's in the same building. It's a culture built on being reachable, not on being watched.
+
+<!-- block: checklist-section | variant: with-image | image: accountant-multistate-tax-review.jpg | alt: "Accountant reviewing multi-state sales tax documents at a desk" | query: "accountant reviewing tax documents desk" -->
+## Growing your skills in specialized accounting niches
+
+Most accountants spend careers doing a little bit of everything. At Berg Advisors, you build depth in areas most firms never touch:
+
+- Accrual-basis accounting for e-commerce businesses transitioning from cash-basis, including inventory costing and revenue recognition across marketplaces like Amazon, Shopify, and Walmart
+- Multi-state sales tax nexus analysis for product-based businesses expanding into new states
+- Property management accounting, including owner distributions and reporting across multiple properties and entities
+- Family office accounting, consolidating visibility across multiple entities, accounts, and investments
+
+That specialization is rare in public accounting, and it's the kind of experience that makes a resume stand out five years from now.
+
+<!-- block: process-steps | variant: horizontal -->
+## How to apply for a position at Berg Advisors
+
+Don't see an exact title that matches your background? Reach out anyway. We hire for fit and trajectory as much as for a specific opening, and roles open throughout the year as our e-commerce, property management, and family office client base grows.
+
+### Send us your resume
+Reach out through our contact form or email us directly. Tell us which type of role interests you and where you are in your career.
+
+### Have a real conversation
+We'll set up a call to talk about the work, the culture, and what you're looking for next. No canned interview questions, just an honest conversation about fit.
+
+### Meet the team
+If it looks like a match, you'll talk with the people you'd actually work with, not just HR.
+
+### Get an offer that makes sense
+We move quickly once we know it's a fit, with clear expectations about role, compensation, and growth path from day one.
+
+<!-- block: cta-banner | variant: image-bg | image: accountant-handshake-office.jpg | alt: "Two accounting professionals shaking hands in an office setting" | query: "professional handshake office meeting" -->
+## Ready to talk about your next role?
+
+Whether you're a bookkeeper looking for stability, a CPA looking to specialize, or somewhere in between, we'd rather have a conversation than let a job description do the talking. Schedule a consultation with our team to learn more about current openings and where you'd fit at Berg Advisors.
+
+---
+
+### Accounting, Bookkeeping, Tax, & Advisory Services
+URL: /services
+
+<!-- block: intro-text | variant: centered -->
+## One firm for accounting, bookkeeping, tax, and advisory
+
+Most businesses end up juggling three or four separate vendors: a bookkeeper, a tax preparer, a part-time advisor, maybe a payroll service that doesn't talk to any of them. Berg Advisors combines accounting, bookkeeping, tax, and advisory work under one roof, with one team that already knows your numbers before you have to explain them again.
+
+Berg Advisors is a virtual CPA firm rooted in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Andrew C. Berg, CPA, has spent more than 30 years building the kind of firm he wanted to hire himself: proactive, plain-spoken, and billed at a flat monthly rate instead of the clock. The three service pillars below, outsourced accounting, tax, and advisory, are built to work together, not as separate line items you have to coordinate yourself.
+
+<!-- block: content-split | variant: image-right | image: bookkeeping-monthly-close-review.jpg | alt: "Accountant reviewing bank reconciliation reports on a laptop screen" | query: "bookkeeper reviewing financial reports laptop" -->
+## Outsourced accounting and bookkeeping that keeps your books close-ready
+
+Bookkeeping should do more than produce a report you file away. Our monthly close covers bank and credit card reconciliations, accounts payable and receivable management, and financial reporting built to hold up when a bank, investor, or buyer asks for GAAP-compliant numbers.
+
+For growing businesses moving off cash-basis accounting, that shift matters. Andrew Berg, CPA, works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
+
+Every engagement includes quarterly advisory calls, not just a monthly PDF. We flag the receivable balance creeping up, the margin that slipped a point, or the vendor payment about to land right before a tax deadline, before you have to ask.
+
+<!-- block: content-split | variant: image-left | image: tax-planning-consultation-documents.jpg | alt: "CPA reviewing tax documents and forms with a client at a desk" | query: "tax advisor reviewing documents with client" -->
+## Business and personal tax planning and preparation done year-round
+
+Tax season shouldn't be the first time you hear from your CPA. We handle business tax preparation, personal income tax preparation, and year-end 1099 filings, but the bulk of the work happens in the months before any of it is due.
+
+Multi-state sales tax nexus is where this shows up most for product-based businesses. Once you're shipping into a new state, whether from a new warehouse, a third-party logistics provider, or an economic nexus threshold you've crossed, you likely owe sales tax there. Andrew Berg, CPA, advises e-commerce and wholesale clients on registering, filing, and staying compliant as they expand across state lines.
+
+If a notice from the IRS ever does show up, Julia Lindner, EA, represents clients directly in tax resolution and audit matters. Michael Laudazio works with multi-entity and multi-state businesses sorting through overlapping filing requirements, so a return doesn't get filed twice, or missed entirely.
+
+<!-- block: content-split | variant: image-right | image: business-advisory-strategy-meeting.jpg | alt: "Advisor and business owner discussing charts during a strategy meeting" | query: "business advisor strategy meeting charts" -->
+## Business advisory and consulting to guide bigger decisions
+
+Clean books answer what happened last month. Advisory work answers what to do next. Our consulting engagements cover strategic planning, cash flow management, budget development, and succession planning, delivered through recurring calls instead of a single annual meeting.
+
+For inventory-heavy businesses outside the pure e-commerce space, think CPG brands, wholesalers, and distributors, Andrew Berg, CPA, provides outsourced CFO services: cash flow forecasting tied to purchase order timing, margin analysis by SKU, and the financial modeling that supports a bank conversation or an equity raise. Veil Velarde, CPA, works with growth-stage businesses that need fractional back-office support without hiring a full finance team.
+
+The point of every advisory call is the same: catch the decision while it's still a decision, not after it's already been made.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Specialized support for e-commerce, family offices, and property management
+
+Generic bookkeeping breaks down fast in a handful of specific industries. These three make up most of our client base, and each comes with its own reconciliation problems, reporting demands, and compliance risk.
+
+### Multi-channel e-commerce
+icon: Globe
+
+Reconciling Amazon, Shopify, eBay, Etsy, and Walmart payouts against actual bank deposits takes more than a spreadsheet. We manage inventory accounting, multi-state sales tax nexus, and accrual-basis reporting built for sellers scaling past a single platform. [Learn more](/industries/e-commerce)
+
+### Family offices
+icon: Users
+
+Multiple entities, multiple accounts, and personal and business expenses that tend to blur together create a visibility problem long before tax season arrives. We consolidate reporting across entities and investments so you're looking at one clear picture instead of six disconnected ones. [Learn more](/industries/family-offices)
+
+### Property management companies
+icon: Building2
+
+Tracking income, expenses, and owner distributions across a portfolio of properties and entities usually means a patchwork of spreadsheets. We centralize reporting across every property so performance is visible at the portfolio level and the individual unit level. [Learn more](/industries/property-management)
+
+<!-- block: checklist-section | variant: with-image-left | image: flat-fee-agreement-handshake.jpg | alt: "Advisor and client reviewing a signed service agreement together" | query: "advisor client reviewing agreement document" -->
+## Flat monthly fees and a mutual success plan for every client
+
+Hourly billing punishes you for calling with a question. Every Berg Advisors engagement runs on a flat monthly fee, set before work begins, so a quick call about a vendor invoice doesn't turn into a surprise line item.
+
+Every new client also gets a mutual success plan: a written agreement covering what we handle, what you handle, and how often we talk. It draws on the same proactive philosophy Profit First Professionals teaches around financial management, applied to your specific numbers instead of a generic template.
+
+- Fixed monthly pricing, no hourly clock
+- A written mutual success plan defining responsibilities on both sides
+- Recurring calls scheduled in advance, not triggered only when something breaks
+- Recognized as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation-call.jpg | alt: "CPA smiling during a video consultation call with a client" | query: "accountant video call consultation smiling" -->
+## Let's talk about what your business needs
+
+Every client on this page, whether e-commerce, property management, or a family office managing several entities, started the same way: a conversation about what's actually going on in the books. Tell us where things stand, and we'll tell you plainly what we'd do about it.
+
+[Schedule a consultation](/contact) and see what a flat-fee, relationship-driven CPA firm looks like in practice.
+
+---
+
+### Accounting for E-Commerce, Property Management, & Family Offices 
+URL: /industries
+
+<!-- block: intro-text | variant: centered -->
+## One firm for ecommerce, property management, and family office accounting
+
+Berg Advisors is a CPA firm based in Newtown Square, Pennsylvania, built around three specialties: multi-channel e-commerce, property management, and family offices. The firm works virtually, so a Shopify seller in Ohio and a property manager in Chester County get the same proactive service, the same reporting cadence, and the same team that already understands their industry.
+
+Most CPA firms pick one niche and force every client through the same generic process. Berg Advisors built three distinct service tracks instead, each with its own software stack, reporting rhythm, and specialist attention. Flat monthly fees replace hourly billing across every engagement, so a phone call to ask a question doesn't turn into a surprise line item on next month's invoice.
+
+<!-- block: content-split | variant: image-right | image: ecommerce-multichannel-accounting.jpg | alt: "Ecommerce seller reviewing Amazon and Shopify sales dashboards on a laptop" | query: "ecommerce seller reviewing sales dashboard laptop" -->
+## Accounting built for multi-channel ecommerce sellers
+
+Selling on Amazon, Shopify, Etsy, Walmart, and eBay at once means five payout schedules, five fee structures, and five sets of reports that rarely agree with each other. [E-commerce accounting](/industries/e-commerce) at Berg Advisors consolidates that data into one accrual-basis set of books, so gross margin and true profitability show up correctly instead of getting buried in platform fees and reserve holds.
+
+Inventory is where most e-commerce books fall apart. The firm tracks landed costs, COGS by SKU, and inventory in transit, so the balance sheet reflects what a business actually owns rather than what a bank feed assumes.
+
+Multi-state sales tax nexus is the other landmine for growing sellers. Once revenue crosses economic nexus thresholds in a new state, filing obligations follow. Andrew C. Berg, CPA, advises product-based businesses on registering, tracking exposure, and filing correctly through [multi-state sales tax nexus advisory](/services/tax) as they expand into new states, one of the pieces that separates a full-service e-commerce accounting practice from a firm that only reconciles bank feeds.
+
+<!-- block: content-split | variant: image-left | image: property-management-accounting-review.jpg | alt: "Property manager reviewing rental income reports for multiple buildings" | query: "property manager reviewing reports office" -->
+## Financial clarity for property management companies in Chester County and nationwide
+
+Property managers juggling a dozen buildings across multiple owner entities know the spreadsheet problem well: one tab per property, formulas that break, and no single number that shows how the portfolio is actually performing. [Property management accounting](/industries/property-management) at Berg Advisors replaces that with one consolidated view of income, expenses, and performance across every property and entity in the portfolio.
+
+Owner distributions get their own tracking, so year-end reconciliation isn't a scramble to figure out who was paid what and when. Trust accounting, CAM reconciliations, and entity-level reporting stay separate on the books but visible from a single dashboard.
+
+Whether a client manages a handful of buildings in Chester County or a multi-state portfolio, the reporting cadence stays the same: monthly close, quarterly strategy calls, and a team already fluent in property management accounting instead of learning it on the client's dime.
+
+<!-- block: content-split | variant: image-right | image: family-office-financial-consolidation.jpg | alt: "Advisor reviewing consolidated investment and entity statements with a family" | query: "financial advisor meeting with family clients" -->
+## Discreet, consolidated accounting for family offices
+
+Family offices carry a specific kind of complexity: personal expenses and business entities that have blurred together over years, multiple investment accounts, and a family that wants one clear answer instead of twelve spreadsheets. [Family office services](/industries/family-offices) at Berg Advisors start by untangling that commingling, separating personal transactions from business activity across every entity in the structure.
+
+From there, the firm builds one consolidated view of entities, accounts, and investments, so the family and its outside advisors can see net worth, cash flow, and entity-level performance without requesting five different reports. Access to CPA-level financial expertise means the family isn't staffing an internal accounting department or piecing together information from a bookkeeper who only sees one entity.
+
+The relationship matters as much as the reporting here. Family offices want an advisor who remembers the story behind the structure, not just the numbers inside it. That's the same relationship-first standard Berg Advisors applies to every client.
+
+<!-- block: checklist-section | variant: with-image | image: flat-fee-accounting-meeting.jpg | alt: "CPA and client reviewing a flat fee service agreement together" | query: "advisor client reviewing agreement document" -->
+## Flat monthly fees and proactive communication instead of billable hours
+
+Hourly billing punishes the exact behavior a good CPA relationship depends on: calling before a decision instead of after. Berg Advisors uses fixed monthly fees for every client, e-commerce, property management, or family office, so questions get asked early and often instead of stacking up until the invoice arrives.
+
+Every new client also gets a mutual success plan, a written agreement on what Berg Advisors delivers, what the client needs to provide, and how often the two sides talk. It replaces a boilerplate engagement letter with an actual operating agreement.
+
+- A flat monthly fee, with no surprise invoices for phone calls or emails
+- A mutual success plan outlining deliverables and communication cadence
+- Quarterly advisory calls built into every engagement, not billed as extras
+- A team already fluent in your industry's chart of accounts
+
+<!-- block: stats-bar | variant: 4-up -->
+## Over 30 years of recognized expertise you can verify
+
+Credentials mean nothing until they can be checked. Berg Advisors was named to Woodard's Top 50 accounting firms list in 2023 and holds Intuit Firm of the Future recognition, honors tied to measurable client accounting service quality rather than self-reported rankings. The firm was also a finalist for Canopy's 2021 Innovation Award, recognizing how it applies technology to tax resolution and workflow.
+
+[Andrew C. Berg, CPA,](/about-us/meet-the-team) has discussed building a modern accounting firm on the Profit First Professionals podcast and advises product-based businesses directly on multi-state sales tax nexus as they expand into new states.
+
+- 30+ years of combined CPA experience across the firm
+- Woodard Top 50 Accounting Firm, 2023
+- Canopy 2021 Innovation Award Finalist
+- Intuit Firm of the Future recognition
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA advisor shaking hands with a small business client in an office" | query: "advisor client handshake office meeting" -->
+## Find the right accounting partner for your business
+
+Every niche gets a different chart of accounts, a different reporting rhythm, and a different set of tax rules. What doesn't change is the flat fee, the mutual success plan, and a team that picks up the phone before a small question turns into a big one.
+
+Selling on Amazon, Shopify, Etsy, Walmart, or eBay starts with [e-commerce accounting](/industries/e-commerce). Managing buildings in Chester County or across state lines starts with [property management accounting](/industries/property-management). Untangling entities and investments for your family starts with [family office services](/industries/family-offices). [Schedule a consultation](/contact-us) and tell us where things stand today.
+
+---
+
+### Accounting, Bookkeeping, & Tax Services for Property Management Companies
+URL: /industries/property-management
+
+<!-- block: intro-text | variant: centered -->
+## Accounting built around how property management companies operate
+
+Managing properties means managing money in a dozen directions at once: rent rolls, owner draws, security deposit trust accounts, vendor payments, and reserve funds, often spread across several legal entities. Berg Advisors has spent more than 30 years building [outsourced accounting](/services/accounting) systems for landlords, property managers, and real estate holding companies who need that complexity organized, not oversimplified. Woodard named the firm a Top 50 Accounting Firm, and Intuit recognized it as a Firm of the Future, distinctions earned by handling exactly this kind of work.
+
+Berg Advisors operates as a virtual firm, so a property manager in Newtown Square, Pennsylvania works with the same team, the same flat monthly fee, and the same proactive check-ins as one managing units across three states. There's no hourly clock running when you call about a late owner distribution or a new acquisition, and no generic small-business template standing in for actual trust accounting knowledge.
+
+<!-- block: content-split | variant: image-right | image: property-manager-reviewing-statements.jpg | alt: "Property manager reviewing financial statements at a desk with a laptop" | query: "property manager reviewing financial documents" -->
+## The bookkeeping challenges unique to multi-unit portfolios
+
+Property management accounting breaks standard small-business bookkeeping in specific ways. Rent collected for one owner's property can't mix with another's. Security deposits need to sit in separate trust accounts under state regulations. Management fees have to be calculated and posted correctly before owner distributions go out. Multiply that across several properties and a handful of LLCs, and one missed reconciliation can throw off owner statements for the entire month.
+
+Most property managers we talk with are still tracking distributions in spreadsheets, reconciling bank feeds by hand, and finding out about a shortfall only after an owner asks why their check is light. Trust accounting adds another layer of risk: getting the separation between client funds and operating funds wrong isn't just messy bookkeeping, it's a compliance problem with a state regulator attached to it. These workflows need to be built around property management mechanics from the start, not retrofitted from a generic chart of accounts.
+
+<!-- block: checklist-section | variant: with-image | image: consolidated-property-dashboard.jpg | alt: "Laptop screen showing property portfolio financial reports and dashboards" | query: "financial dashboard reports laptop office" -->
+## One centralized view of every property, owner, and entity
+
+Instead of piecing together portfolio performance from five different spreadsheets and three bank logins, you get one consolidated system that shows income, expenses, and owner equity across everything you manage. That means fewer late-night reconciliations before an owner call and fewer surprises when a lender or investor asks for financials.
+
+- Property-level and entity-level P&Ls updated on the same schedule every month
+- Owner distribution tracking and statements ready before owners start asking
+- Trust account reconciliations kept separate, documented, and audit-ready
+- Consolidated reporting that rolls up every LLC or holding entity into one view
+- A single point of contact who already knows how your portfolio is structured
+
+<!-- block: service-cards | variant: 3-col -->
+## Bookkeeping, tax, and advisory services for property managers
+
+Each service below is billed at a flat monthly fee agreed on upfront, so there's no meter running while your bookkeeper untangles a trust account discrepancy.
+
+### Monthly bookkeeping and close
+icon: Calculator
+
+Reconciliations, categorized transactions, and closed books delivered on the same schedule every month, so owner statements never slip past the date owners expect them.
+
+### Owner distribution management
+icon: Wallet
+
+Management fees calculated correctly, trust accounts reconciled, and distribution statements prepared in a format owners can actually read at a glance.
+
+### Entity-level and portfolio reporting
+icon: Building2
+
+P&Ls broken out by individual property and rolled up across every LLC or holding entity in your portfolio, side by side in one report.
+
+### Tax preparation and planning
+icon: FileText
+
+Business [tax preparation](/services/tax), year-end 1099 filings for contractors and vendors, and planning conversations that happen before year-end closes, not after.
+
+### Quarterly advisory calls
+icon: Users
+
+Recurring strategy conversations on cash flow, reserve funding, and growth decisions, built into your engagement instead of billed as an extra.
+
+<!-- block: content-split | variant: image-left | image: cpa-team-meeting-client.jpg | alt: "CPA and client shaking hands after a business meeting in an office" | query: "CPA client meeting handshake office" -->
+## Why property managers choose Berg Advisors over hourly-billing generalists
+
+Most general CPA firms treat property management like any other small business and bill hourly for the time it takes to explain trust accounting to them. Berg Advisors built its practice on the opposite premise: more than 30 years of CPA work focused on the industries where standard bookkeeping falls short, including property management, [advisory](/services/advisory) support, and multi-entity reporting.
+
+Every client gets a flat monthly fee agreed on upfront and a mutual success plan built around their portfolio's actual structure. The firm started in Newtown Square, Pennsylvania, and today works with property managers from Chester County to portfolios across the country, all through the same proactive, relationship-driven model. You'll talk to a [team](/about-us/meet-the-team) member who already knows your entity structure, so nobody has to re-explain the setup every March.
+
+<!-- block: cta-banner | variant: image-bg | image: property-portfolio-consultation.jpg | alt: "Two professionals discussing property portfolio documents at a table" | query: "business consultation property portfolio documents" -->
+## Let's talk about your property portfolio
+
+If you're closing books at midnight, chasing owner statements, or not entirely sure your trust accounting would survive a state audit, that's worth a conversation. Berg Advisors will walk through your current setup, your entities, and where the gaps are, then show you what a flat monthly fee and a dedicated CPA team would look like for your portfolio.
+
+[Schedule a consultation](/contact) and find out if it's a fit.
+
+---
+
+### Family Office Accounting & Tax Services
+URL: /industries/family-offices
+
+<!-- block: content-split | variant: image-right | image: family-office-planning-meeting.jpg | alt: "Advisor and family reviewing multi-entity financial statements together" | query: "family financial advisor meeting documents" -->
+## Accounting and tax support made for multi-generational wealth
+
+Family offices carry a different kind of complexity than a single business. There's real estate, investment accounts, closely held entities, and often three or more generations with a stake in how it's all managed. Many national firms hand that off to a rotating cast of associates who learn your family's structure once and then move on to the next file.
+
+Berg Advisors has spent more than 30 years working through exactly this kind of complexity, and family offices are one of the core niches we built the practice around, alongside e-commerce and property management. You get a dedicated team that actually knows your entities, your accounts, and your history, backed by flat monthly fees instead of a bill that climbs every time you call with a question. Proactive communication is part of how we operate: expect us to reach out with observations before they turn into problems, not after.
+
+<!-- block: checklist-section | variant: with-image | image: family-office-financial-complexity.jpg | alt: "Stack of financial statements from multiple entities and trusts on a desk" | query: "financial documents multiple entities desk" -->
+## Common challenges we solve for family offices
+
+Every family office we work with recognizes at least one of these before we start:
+
+- Consolidated visibility. Money moves across trusts, LLCs, brokerage accounts, and real estate holdings, and by the time someone pulls together a full picture, it's already out of date.
+- Commingled finances. Personal and business spending blur together, especially when one family member manages both, and that's exactly where errors and IRS scrutiny tend to start.
+- Multi-generational reporting. As wealth passes down, the number of entities and stakeholders grows, and the tracking that worked for one generation stops working for the next.
+
+We've seen these patterns often enough to know they're rarely about a lack of financial sophistication. They're about not having one accounting team responsible for the whole picture, entity by entity, generation by generation.
+
+<!-- block: service-cards | variant: 3-col -->
+## Services designed around your family's financial complexity
+
+### Multi-entity bookkeeping and accounting
+icon: Building2
+
+We consolidate bookkeeping across every trust, LLC, and holding entity into one reporting structure, so you see the complete financial picture instead of piecing it together from five different sets of books.
+
+### Personal and business tax planning
+icon: FileText
+
+Business tax preparation and personal income tax planning happen together, under one roof, so a decision in one area doesn't create a surprise in the other when returns are due.
+
+### Estate and trust accounting
+icon: Scale
+
+Trusts and estate structures need accounting that reflects the terms of the documents behind them. We work alongside your estate attorney to keep the numbers consistent with the plan.
+
+### Outsourced CFO advisory
+icon: ChartLine
+
+Cash flow across entities, distribution planning, and succession decisions get the same level of strategic attention a full-time CFO would give, minus the full-time salary.
+
+<!-- block: content-split | variant: image-left | image: tax-strategy-planning-session.jpg | alt: "CPA explaining tax strategy documents to a client across a desk" | query: "cpa explaining tax documents client" -->
+## Sophisticated tax strategies without the complexity headache
+
+Concentrated wealth raises tax questions a standard 1040 doesn't answer. Which entity should hold a given investment. How distributions from multiple LLCs flow through to a family member's individual return. When it makes sense to restructure ahead of a sale or a generational transfer. These aren't once-a-year questions, and treating them that way is how families end up overpaying.
+
+Andrew Berg, CPA, and the team apply more than 30 years of combined CPA experience to build a year-round plan instead of a once-a-year filing. We translate the strategy into plain language: what it does, why it matters, and what happens if nobody acts before the deadline. No jargon, and no assumption that you should already know how a K-1 flows through to a personal return.
+
+<!-- block: content-split | variant: image-right | image: single-point-of-contact-team.jpg | alt: "Accounting team collaborating around a laptop on client reporting" | query: "accounting team collaborating laptop office" -->
+## One team, one plan, total financial clarity
+
+Most families juggling this level of complexity end up with a patchwork: one accountant for the business, another for personal returns, a bookkeeper who doesn't talk to either, and a spreadsheet somewhere trying to hold it all together.
+
+We build a mutual success plan with every family office client, a shared roadmap that spells out what we're tracking, how often we're talking, and what "on track" actually looks like for your entities this year. One team handles the bookkeeping, the tax planning, and the advisory conversations, so nothing falls into the gap between two advisors who've never spoken to each other.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why family offices trust Berg Advisors
+
+Berg Advisors is a Woodard Top 50 Accounting Firm and an Intuit Firm of the Future, recognition earned by a short list of firms doing this kind of work.
+
+### 30+
+Years of CPA experience across complex, multi-entity clients
+
+### Top 50
+Woodard Top 50 Accounting Firm and Intuit Firm of the Future
+
+### Flat
+Monthly fee, no hourly billing and no surprise invoices
+
+We're a virtual firm at heart, working with family offices from our roots in Newtown Square, Pennsylvania, out to clients we've never met in person. Flat monthly fees mean you're never weighing the cost of a phone call before you make it.
+
+<!-- block: cta-banner | variant: image-bg | image: family-office-consultation-cta.jpg | alt: "Family and advisor shaking hands after a financial planning consultation" | query: "handshake financial consultation meeting" -->
+## Let's talk about your family's financial future
+
+Whether you're bringing family office accounting in-house for the first time or replacing a firm that stopped being proactive somewhere along the way, the first conversation costs you nothing but half an hour. Tell us about your entities, your goals, and what isn't working today, and we'll tell you honestly whether we're the right fit.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Articles, Links, & Forms 
+URL: /resources
+
+<!-- block: intro-text | variant: centered -->
+## Everything you need in one place
+
+Most accounting firm resource pages are a graveyard of PDFs nobody has opened since 2019. This one isn't. Every form, checklist, and guide below exists because a real client, whether based in Newtown Square, Pennsylvania, or running an Amazon store out of Denver, Colorado, actually needed it, and we built it to be used more than once. If you sell across Shopify and Etsy, manage a portfolio of rental properties, or run a family office juggling several entities, this page is the shortcut past the guesswork. Bookmark it, send it to your bookkeeper, or pull it up before your next call with us.
+
+<!-- block: checklist-section | variant: with-image-right | image: client-forms-portal.jpg | alt: "Business owner signing an engagement letter on a laptop" | query: "client signing document laptop office" -->
+## Client forms and secure document links
+
+New clients start with two things: a short intake questionnaire and an engagement letter, both available below to download and sign electronically. If you're already working with us, the [secure client portal](/resources/client-forms-links) link takes you straight to document uploads, so bank statements, W-2s, and prior-year returns don't have to travel by email.
+
+- New client intake form
+- Engagement letter (business and individual)
+- Secure client portal login
+- Document upload checklist for tax season
+- Authorization form for requesting prior-year records
+
+Whether you're an Amazon seller in Ohio or a property manager down the road in Media, PA, the process starts the same way: one form, one login, no chasing paper through email chains.
+
+<!-- block: checklist-section | variant: with-image-left | image: tax-checklist-review.jpg | alt: "Accountant reviewing a sales tax nexus checklist with notes" | query: "accountant reviewing checklist paperwork desk" -->
+## Checklists and tools for smarter decisions
+
+Some decisions shouldn't run on memory. Andrew C. Berg, CPA, built our multi-state sales tax nexus checklist for product-based businesses expanding into new states, where economic nexus thresholds are easy to miss until a notice from a state's Department of Revenue shows up. It's one of several tools on this page designed to catch a problem before it becomes one.
+
+- Multi-state sales tax nexus review checklist
+- Year-end close checklist for accrual-basis businesses
+- Personal tax prep document checklist
+- New entity setup checklist
+- Owner distribution and reconciliation checklist for multi-property portfolios
+
+Each one uses the same plain-English approach we bring to client meetings: specific line items that matter for e-commerce sellers, property managers, and family offices, not generic advice copied from a template. Download what applies. Skip what doesn't. See our [full checklist library](/resouces/checklists-tools) for the rest.
+
+<!-- block: content-cards | variant: 3-col -->
+## Guides for e-commerce, property management, and family office clients
+
+Generic accounting advice doesn't help an Amazon seller registering for sales tax in a fifth state, or a family office trying to consolidate three trusts and a holding company into one report. These guides go a level deeper.
+
+### Multi-state sales tax nexus for growing e-commerce brands
+photo: ecommerce-nexus-guide.jpg
+query: warehouse shipping boxes online seller
+
+When Shopify or Amazon sales cross a new state's economic threshold, tax is owed there whether you noticed the milestone or not. This guide covers nexus triggers, registration, and why accrual-basis books catch what cash-basis books miss.
+[Read more](/industries/e-commerce)
+
+### Multi-entity reporting for family offices
+photo: family-office-reporting.jpg
+query: financial documents multiple accounts review
+
+Family offices juggle trusts, holding companies, and personal accounts that blur together fast. This guide walks through consolidated reporting and the boundary lines that keep personal and business finances clearly separated.
+[Read more](/industries/family-offices)
+
+### Owner distributions and multi-property accounting
+photo: property-management-guide.jpg
+query: property manager reviewing rental portfolio
+
+Tracking income, expenses, and owner draws across a dozen properties in a spreadsheet breaks down eventually. This guide shows what a centralized chart of accounts looks like across multiple entities and properties.
+[Read more](/industries/property-management)
+
+<!-- block: content-cards | variant: 3-col -->
+## Quick reads from the Berg Advisors team
+
+Berg Advisors was named a Woodard Top 50 Accounting Firm in 2023 and was a finalist for Canopy's 2021 Innovation Award. Our blog reflects the same standard: short, specific posts written by the CPAs and EA on our team, not outsourced copywriters filling a content calendar.
+
+### Sales tax nexus, explained by Andrew Berg, CPA
+photo: quick-read-nexus.jpg
+query: accountant writing notes office desk
+
+A short breakdown of economic nexus thresholds state by state, and when a growing e-commerce brand actually needs to register.
+[Read more](/resources/blog-quick-reads)
+
+### What an IRS notice means, from Julia Lindner, EA
+photo: quick-read-irs-notice.jpg
+query: business owner reading mail letter
+
+Julia Lindner, EA, breaks down the common IRS notice types and which ones call for a fast response versus a routine reply.
+[Read more](/resources/blog-quick-reads)
+
+### Cash to accrual, explained plainly
+photo: quick-read-accrual.jpg
+query: financial charts accrual accounting review
+
+A quick look at why banks and investors ask for GAAP financials, and what actually changes when a business moves off cash-basis books.
+[Read more](/resources/blog-quick-reads)
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cta.jpg | alt: "Advisor and client shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
+## Have a question we haven't answered yet
+
+Not everything fits neatly into a checklist. If you're holding a notice from a state Department of Revenue, weighing whether to convert from cash to accrual before a lender asks, or just trying to figure out if your online shop needs to collect sales tax in a new state, we'd rather talk it through than have you guess. Our team works with clients around Newtown Square and Delaware County, PA, and in states from California to Florida. [Schedule a consultation](/contact-us) and tell us what's going on. We'll tell you plainly what we'd do next.
+
+---

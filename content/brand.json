@@ -1,24 +1,76 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "Berg Advisors",
+    "tagline": "We Can Help"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "18 Campus Blvd Suite 100, Room 103",
+      "city": "Newtown Square",
+      "state": "PA",
+      "zip": "19073"
+    },
+    "phone": "(610) 667-0900",
+    "email": "info@bergpartners.com"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
+    "primary": "#1F3A5F",
+    "secondary": "#5A6B7B",
+    "complementary": "#C2703D",
+    "action": "#0E8C9C",
     "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "nearWhite": "#F8F8F6"
   },
-  "social": [],
-  "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/bergpartners/"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/bergpartners/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/abergcpa"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/bergcpa"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCEfVUklxW5azaeV_ElzG7Qg"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/abergcpa/"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.google.com/?cid=3626048098033685878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    }
+  ],
+  "certifications": [
+    {
+      "src": "",
+      "alt": "AICPA"
+    },
+    {
+      "src": "",
+      "alt": "Woodard"
+    },
+    {
+      "src": "",
+      "alt": "Canopy"
+    },
+    {
+      "src": "",
+      "alt": "Profit First Professionals"
+    }
+  ],
+  "logo": {
+    "primary": "bergadvisors.webp",
+    "alt": "Berg Advisors logo"
+  }
 }
