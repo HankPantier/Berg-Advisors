@@ -1,11 +1,11 @@
 ---
 title: "Contact Berg Advisors for Accounting, Tax & Advisory Services | Berg Advisors"
-url: "/resources/contact-us"
+url: "/contact-us"
 meta_title: "Contact Berg Advisors, Newtown Square PA Accounting & Tax"
 meta_description: "Contact Berg Advisors, a Newtown Square PA CPA firm serving e-commerce, property management, and family office clients nationwide. Schedule your consultation."
 target_keyword: "Berg Advisors Newtown Square PA accounting tax services"
 secondary_keywords: ["accountant Newtown Square PA","CPA near me Newtown Square","bookkeeping services Newtown Square PA","business tax preparation Newtown Square","outsourced accounting Newtown Square","contact CPA Newtown Square PA","business accounting firm Newtown Square","virtual bookkeeping Newtown Square PA"]
-canonical_url: "https://www.bergpartners.com/resources/contact-us"
+canonical_url: "https://www.bergpartners.com/contact-us"
 schema_markup: "ContactPage"
 hero: "page-header"
 hero_subhead: "Reach a CPA who already understands e-commerce, property management, and family office finances"
