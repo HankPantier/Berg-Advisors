@@ -19,7 +19,7 @@
       ]
     },
     {
-      "label": "Accounting for E-Commerce, Property Management, & Family Offices ",
+      "label": "Accounting for E-Commerce, Property Management, & Family Offices",
       "url": "/industries",
       "children": [
         {
@@ -51,18 +51,18 @@
       ]
     },
     {
-      "label": "Articles, Links, & Forms ",
+      "label": "Articles, Links, & Forms",
       "url": "/resources",
       "children": [
         {
           "label": "Quick Reads Blog | Berg Advisors",
           "url": "/resources/blog-quick-reads"
-        },
-        {
-          "label": "Contact Berg Advisors for Accounting, Tax & Advisory Services",
-          "url": "/contact-us"
         }
       ]
+    },
+    {
+      "label": "Contact Berg Advisors for Accounting, Tax & Advisory Services",
+      "url": "/contact-us"
     }
   ]
 }
