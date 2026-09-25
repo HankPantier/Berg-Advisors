@@ -4,3 +4,4 @@
 # Lines starting with # are ignored by the Next.js redirect loader.
 old_url,new_url,status_code,reason
 /contact-us,/resources/contact-us,301,Nested via nav editor
+/resources/contact-us,/contact-us,301,Relocated via AI
