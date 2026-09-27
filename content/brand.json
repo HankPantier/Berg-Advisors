@@ -71,6 +71,7 @@
   ],
   "logo": {
     "primary": "bergadvisors.webp",
-    "alt": "Berg Advisors logo"
+    "alt": "Berg Advisors logo",
+    "tone": "light"
   }
 }
