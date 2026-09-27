@@ -84,7 +84,7 @@ Berg Advisors started in Newtown Square, Pennsylvania, but the practice runs vir
 If you're searching for a CPA near Newtown Square, we're still here, and we still take questions seriously in a first conversation. If you found us from Seattle or Austin instead, the service is the same: the same fixed monthly fee, the same quarterly calls, the same team who knows your business by name.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About About Berg Advisors | Trusted CPA & Accounting Experts
+## Frequently Asked Questions
 
 **Q: Where is Berg Advisors located?**
 A: Berg Advisors was founded in Newtown Square, Pennsylvania, and still operates from there today. The firm now runs as a virtual practice, serving clients in more than 20 states while keeping the same hands-on, know-your-name approach it started with.

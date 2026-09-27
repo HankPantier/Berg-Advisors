@@ -97,7 +97,7 @@ A CPA gets on the phone with you every quarter to talk through cash flow, tax st
 You're billed the same amount whether this month's questions take ten minutes or two hours. No surprise invoices for picking up the phone.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Meet Our Expert Team | Berg Advisors
+## Frequently Asked Questions About Meet Our Expert Team
 
 **Q: Who are the CPAs at Berg Advisors?**
 A: The team includes Andrew C. Berg, CPA (founder), Joshua Beaugrand, CPA, Lindsey Coburn, CPA, and Veil Velarde, CPA, alongside Michael Laudazio and Julia Lindner, EA, who handles IRS representation. Together they bring over 30 years of combined CPA experience.

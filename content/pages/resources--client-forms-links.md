@@ -75,7 +75,7 @@ Berg Advisors is a virtual firm, so the portal isn't a convenience feature, it's
 The firm was named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future, both tied to how we use technology to keep client communication proactive rather than reactive. If you're a new client, your onboarding email includes a portal invitation with setup instructions. Existing clients can log in anytime; if you've misplaced your credentials, reach out and we'll get you back in the same day.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Download Client Forms & Resources | Berg Advisors
+## Frequently Asked Questions About Download Client Forms & Resources
 
 **Q: What documents do I need to become a new client at Berg Advisors?**
 A: New clients typically need a signed engagement letter, a completed intake questionnaire, and authorization forms for bank or platform access. The exact packet depends on whether you're starting bookkeeping, tax, or advisory services, and your onboarding call will walk through each one.

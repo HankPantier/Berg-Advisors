@@ -100,7 +100,7 @@ We pull prior records, clean up what needs cleaning, and get your books current,
 Monthly or quarterly calls, depending on your plan, plus a note anytime something in your numbers looks worth a conversation.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Small Business Accounting, Bookkeeping, Tax, & Advisory | Berg Advisors 
+## Frequently Asked Questions About Small Business Accounting, Bookkeeping, Tax, & Advisory
 
 **Q: Does Berg Advisors work with businesses outside Pennsylvania?**
 A: Yes. Berg Advisors is a virtual firm founded in Newtown Square, PA, but the team supports e-commerce sellers, property managers, and family offices across the country. Clients meet with their accountant by video or phone, and books are managed through cloud accounting software regardless of location.

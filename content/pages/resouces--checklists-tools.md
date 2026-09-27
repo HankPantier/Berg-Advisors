@@ -71,7 +71,7 @@ Some checklists apply no matter what industry a business is in. These are the on
 Use them on your own, or bring them to a call with a Berg Advisors CPA and work through the gaps together.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Ultimate Consulting Checklists & Tools | Berg Partners
+## Frequently Asked Questions About Ultimate Consulting Checklists & Tools
 
 **Q: Are these accounting checklists free to download?**
 A: Yes. Every checklist on this page is free, no email gate or sales call required first. They come from internal processes Berg Advisors already uses with e-commerce, property management, and family office clients, and are meant to be a starting point for your own bookkeeping cleanup.
