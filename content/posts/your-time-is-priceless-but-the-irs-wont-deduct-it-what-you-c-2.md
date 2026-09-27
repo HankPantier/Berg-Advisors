@@ -75,4 +75,4 @@ For any single contribution of $250 or more, including inventory or a batch of r
 **Can I deduct inventory I donate from my e-commerce business?**
 Generally yes, but for most pass-through entities the deduction is limited to your cost basis, not the retail price. Donations over $5,000 in value require a qualified appraisal, and C corporations may have access to an enhanced deduction under Section 170(e)(3) worth reviewing with your CPA.
 
-If you volunteer, sit on a nonprofit board, or donate inventory from your storefront and you're not sure what's actually deductible on your return, we'll walk through it with you. [Contact Berg Advisors](/contact) and we'll help you turn a year of giving back into a return that reflects it accurately.
+If you volunteer, sit on a nonprofit board, or donate inventory from your storefront and you're not sure what's actually deductible on your return, we'll walk through it with you. [Contact Berg Advisors](/contact-us) and we'll help you turn a year of giving back into a return that reflects it accurately.

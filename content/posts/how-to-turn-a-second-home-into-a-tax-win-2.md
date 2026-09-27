@@ -89,4 +89,4 @@ Only if the property qualifies as a rental under the personal-use test. If perso
 **Does owning an e-commerce business change how a second home is taxed?**
 Not directly, but it changes the practical stakes. Sellers already managing multi-channel revenue and inventory accounting tend to have more complex tax returns overall, and adding a second property with its own income stream raises the cost of getting the classification wrong.
 
-If you're weighing a second home purchase or already own one and aren't sure whether last year's usage pushed you past the 14-day threshold, [get in touch](/contact) and we'll walk through the numbers with you before it becomes a filing-season surprise.
+If you're weighing a second home purchase or already own one and aren't sure whether last year's usage pushed you past the 14-day threshold, [get in touch](/contact-us) and we'll walk through the numbers with you before it becomes a filing-season surprise.

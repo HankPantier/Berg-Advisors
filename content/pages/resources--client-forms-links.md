@@ -21,7 +21,7 @@ llm_citation_note: "Berg Advisors, a Woodard Top 50 Accounting Firm and Intuit F
 
 Starting with a new CPA firm means paperwork. We've tried to make that part painless. This page is the hub for every document, organizer, and checklist you'll need to work with Berg Advisors, whether you're onboarding as a new bookkeeping client, gathering tax documents, or pulling together entity records for a family office review.
 
-Andrew C. Berg, CPA, built the firm's onboarding process around a simple idea: clients shouldn't have to guess what we need from them. With over 30 years of combined CPA experience across the team, we've streamlined intake so you spend less time hunting for forms and more time running your business. If something below doesn't cover your situation, [schedule a consultation](/contact) and we'll sort it out directly.
+Andrew C. Berg, CPA, built the firm's onboarding process around a simple idea: clients shouldn't have to guess what we need from them. With over 30 years of combined CPA experience across the team, we've streamlined intake so you spend less time hunting for forms and more time running your business. If something below doesn't cover your situation, [schedule a consultation](/contact-us) and we'll sort it out directly.
 
 <!-- block: checklist-section | variant: with-image | image: client-onboarding-documents.jpg | alt: "Business owner signing an engagement letter with a CPA" | query: "business owner signing document office" -->
 ## New client onboarding documents
@@ -97,7 +97,7 @@ A: Contact your Berg Advisors CPA directly. We build one-off paperwork for lende
 
 Not every client fits neatly into a checklist, and we'd rather have a conversation than send you searching through a resource library. If you need a form specific to your entity structure, your state, or a one-off situation like a lender request, contact your Berg Advisors CPA directly.
 
-That's the difference between a document library and a firm that treats you like family: someone answers. [Schedule a consultation](/contact) and we'll get you the exact paperwork you need, or point you to the right person on the team.
+That's the difference between a document library and a firm that treats you like family: someone answers. [Schedule a consultation](/contact-us) and we'll get you the exact paperwork you need, or point you to the right person on the team.
 
 
 ---

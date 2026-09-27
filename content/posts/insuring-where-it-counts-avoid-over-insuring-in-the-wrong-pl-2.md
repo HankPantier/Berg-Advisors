@@ -85,4 +85,4 @@ Using a compliant processor reduces your exposure but doesn't eliminate it. You'
 **How often should I reassess my business insurance coverage?**
 Quarterly, alongside a review of inventory value, revenue, and net worth. A policy sized correctly in January can leave real gaps by Q4 if your inventory load or channel mix has shifted significantly.
 
-If your last insurance review happened whenever a renewal notice showed up in your inbox, it's worth putting real numbers behind the decision instead. [Get in touch](/contact) and we'll walk through your exposure the same way we'd walk through a tax plan, with your actual balance sheet, not a generic checklist.
+If your last insurance review happened whenever a renewal notice showed up in your inbox, it's worth putting real numbers behind the decision instead. [Get in touch](/contact-us) and we'll walk through your exposure the same way we'd walk through a tax plan, with your actual balance sheet, not a generic checklist.

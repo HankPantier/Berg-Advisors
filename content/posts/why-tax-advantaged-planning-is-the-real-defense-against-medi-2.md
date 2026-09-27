@@ -67,4 +67,4 @@ If your business is a sole proprietorship, you generally can't offer yourself an
 **How much should I keep in an emergency fund versus an HSA?**
 They solve different problems. An emergency fund covers immediate liquidity, typically three to six months of fixed costs. An HSA is the tax-advantaged layer sitting behind it, reducing what a medical event actually costs after tax. Most sellers need both, funded in that order of priority during lean quarters.
 
-A medical crisis is stressful enough without discovering afterward that the spending could have reduced your tax bill if it had been structured differently. If you want a second look at how your HSA, payroll, and quarterly tax planning fit together before the next unexpected bill lands, [get in touch with our team](/contact).
+A medical crisis is stressful enough without discovering afterward that the spending could have reduced your tax bill if it had been structured differently. If you want a second look at how your HSA, payroll, and quarterly tax planning fit together before the next unexpected bill lands, [get in touch with our team](/contact-us).

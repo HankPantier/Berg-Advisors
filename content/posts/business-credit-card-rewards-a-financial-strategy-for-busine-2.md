@@ -73,4 +73,4 @@ Yes. Rewards need to reduce the related expense account in the period they are e
 **Should I choose a card based on the sign-up bonus?**
 A large sign-up bonus is a one-time event. The ongoing rewards rate on your actual monthly spend, especially advertising and freight for e-commerce sellers, will outweigh a bonus within a few months if the card is matched correctly to your spending pattern.
 
-If your books are not currently distinguishing rewards from revenue, or you are not sure which card structure fits your ad spend and freight costs, that is exactly the kind of question we like to get on a call. [Reach out through our contact page](/contact) and we will look at your actual spending pattern before recommending anything.
+If your books are not currently distinguishing rewards from revenue, or you are not sure which card structure fits your ad spend and freight costs, that is exactly the kind of question we like to get on a call. [Reach out through our contact page](/contact-us) and we will look at your actual spending pattern before recommending anything.

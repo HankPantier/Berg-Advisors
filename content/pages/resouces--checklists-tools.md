@@ -90,7 +90,7 @@ A: Monthly, organized by entity and then by property. Berg Advisors' month-end c
 
 A checklist tells you what's missing. A conversation tells you what to do about it. Download whichever tools match your business, then schedule a consultation with a Berg Advisors CPA to walk through what you find. Thirty years of CPA experience and a fixed monthly fee structure mean a straight answer, not a bill for the phone call.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/contact-us)
 
 ---
 ## SEO & AIO Metadata

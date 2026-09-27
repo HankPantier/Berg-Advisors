@@ -74,4 +74,4 @@ Yes, it applies to each tax year individually based on that year's adjusted gros
 **What happens to unused FSA funds at year-end?**
 Most plans require you to forfeit unused FSA balances, though some allow a grace period of up to 2.5 months or a limited carryover (check your specific plan document). Because of this, FSAs work best for predictable, budgeted expenses rather than as a general medical reserve.
 
-If a medical bill has already thrown off your cash flow, or you want a plan in place before it happens, [get in touch with our team](/contact) and we'll walk through how your HSA, deductions, and reserves should actually be structured for a business with your revenue pattern.
+If a medical bill has already thrown off your cash flow, or you want a plan in place before it happens, [get in touch with our team](/contact-us) and we'll walk through how your HSA, deductions, and reserves should actually be structured for a business with your revenue pattern.

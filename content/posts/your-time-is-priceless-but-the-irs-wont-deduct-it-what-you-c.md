@@ -72,4 +72,4 @@ For any single contribution under $250, a reliable record like a mileage log or 
 **Can I deduct inventory I donate from my e-commerce business?**
 Generally yes, at the inventory's cost basis rather than its retail price. This is a common year-end move for sellers clearing slow-moving SKUs, but it needs to line up with how your books value that inventory, which is where accrual accounting matters.
 
-If you volunteer, sit on a nonprofit board, or you're weighing whether to donate excess inventory before year-end, [contact us](/contact) and we'll walk through what actually applies to your situation.
+If you volunteer, sit on a nonprofit board, or you're weighing whether to donate excess inventory before year-end, [contact us](/contact-us) and we'll walk through what actually applies to your situation.

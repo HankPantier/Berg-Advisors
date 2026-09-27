@@ -75,4 +75,4 @@ Keep training records, a note on the dog's living and working location, veterina
 **Does the hobby-loss rule apply to a dog breeding business?**
 Yes. The IRS presumes a for-profit motive if the activity shows a profit in three of the last five tax years. Without that, losses from breeding can be limited or disallowed entirely, so proper bookkeeping and a real business plan matter from year one.
 
-If you're running warehouse security, a breeding operation, or you're just not sure whether a dog-related cost belongs on your return, we'd rather answer that question before you file than after a notice shows up. [Reach out to Berg Advisors](/contact) and we'll look at your actual numbers, not a generic checklist.
+If you're running warehouse security, a breeding operation, or you're just not sure whether a dog-related cost belongs on your return, we'd rather answer that question before you file than after a notice shows up. [Reach out to Berg Advisors](/contact-us) and we'll look at your actual numbers, not a generic checklist.

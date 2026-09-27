@@ -82,4 +82,4 @@ Usually not by much. You can deduct interest on up to $750,000 of acquisition de
 **What's a better approach than a generic rent vs buy calculator?**
 A generic calculator uses average income and standard assumptions. Your business doesn't run on averages. Building the comparison around your actual two years of tax returns, seasonal cash flow patterns, and current inventory obligations gives a far more honest answer than any plug-and-play tool.
 
-If you're weighing a home purchase against reinvesting in your Amazon or Shopify business, we can build out the real numbers with you, using your actual tax returns and cash flow, not a generic calculator's assumptions. [Get in touch](/contact) and we'll walk through what buying or renting actually does to your numbers over the next five years.
+If you're weighing a home purchase against reinvesting in your Amazon or Shopify business, we can build out the real numbers with you, using your actual tax returns and cash flow, not a generic calculator's assumptions. [Get in touch](/contact-us) and we'll walk through what buying or renting actually does to your numbers over the next five years.
