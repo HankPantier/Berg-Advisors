@@ -1,51 +1,51 @@
 {
   "primary": [
     {
-      "label": "Accounting, Bookkeeping, Tax, & Advisory Services",
+      "label": "Services",
       "url": "/services",
       "children": [
         {
-          "label": "Accounting Services for Small Business | Berg Advisors",
+          "label": "Accounting",
           "url": "/services/accounting"
         },
         {
-          "label": "Advisory & Consulting Services for Small Business",
+          "label": "Advisory & Consulting",
           "url": "/services/advisory"
         },
         {
-          "label": "Professional Tax Services for Small Businesses and Individuals Nationwide",
+          "label": "Tax Services",
           "url": "/services/tax"
         }
       ]
     },
     {
-      "label": "Accounting for E-Commerce, Property Management, & Family Offices",
+      "label": "Industries",
       "url": "/industries",
       "children": [
         {
-          "label": "Best E-Commerce CPA Services for Online Businesses",
+          "label": "E-Commerce",
           "url": "/industries/e-commerce"
         },
         {
-          "label": "Accounting, Bookkeeping, & Tax Services for Property Management Companies",
+          "label": "Property Management",
           "url": "/industries/property-management"
         },
         {
-          "label": "Family Office Accounting & Tax Services",
+          "label": "Family Offices",
           "url": "/industries/family-offices"
         }
       ]
     },
     {
-      "label": "About Berg Advisors | Trusted CPA & Accounting Experts",
+      "label": "About",
       "url": "/about-us",
       "children": [
         {
-          "label": "Meet Our Expert Team | Berg Advisors",
+          "label": "Meet Our Expert Team",
           "url": "/about-us/meet-the-team"
         },
         {
-          "label": "Careers at Berg Advisors | Join Our Team",
+          "label": "Careers",
           "url": "/about-us/careers"
         }
       ]
@@ -55,13 +55,13 @@
       "url": "/resources",
       "children": [
         {
-          "label": "Quick Reads Blog | Berg Advisors",
+          "label": "Quick Reads Blog",
           "url": "/resources/blog-quick-reads"
         }
       ]
     },
     {
-      "label": "Contact Berg Advisors for Accounting, Tax & Advisory Services",
+      "label": "Contact",
       "url": "/contact-us"
     }
   ]
