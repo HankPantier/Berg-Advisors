@@ -14,12 +14,12 @@
     "email": "info@bergpartners.com"
   },
   "palette": {
-    "primary": "#1F3A5F",
-    "secondary": "#5A6B7B",
-    "complementary": "#C2703D",
-    "action": "#0E8C9C",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F8F8F6"
+    "primary": "#202f42",
+    "secondary": "#fdec55",
+    "complementary": "#d9eaff",
+    "action": "#a06700",
+    "nearBlack": "#15191d",
+    "nearWhite": "#f7fafe"
   },
   "social": [
     {
