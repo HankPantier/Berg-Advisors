@@ -64,5 +64,9 @@
       "label": "Contact",
       "url": "/contact-us"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Schedule a consultation",
+    "url": "/contact-us"
+  }
 }
