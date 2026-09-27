@@ -75,4 +75,4 @@ It can, since selling appreciated positions in a taxable account creates capital
 **Is a CPA the right person to talk to about asset allocation?**
 A CPA won't manage your trades, but the tax and cash flow context we bring, especially around business income concentration and timing of gains, shapes whether a given rebalancing move actually makes financial sense for your specific situation.
 
-If your investment allocation hasn't been reviewed since before your business took off, that's worth a conversation alongside your regular tax planning. [Reach out through our contact page](/contact) and we'll walk through what a coordinated review looks like for your specific numbers.
+If your investment allocation hasn't been reviewed since before your business took off, that's worth a conversation alongside your regular tax planning. [Reach out through our contact page](/contact-us) and we'll walk through what a coordinated review looks like for your specific numbers.

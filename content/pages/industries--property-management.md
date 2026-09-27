@@ -105,7 +105,7 @@ A: Trust accounting is one of the firm's specific focus areas within property ma
 
 If you're closing books at midnight, chasing owner statements, or not entirely sure your trust accounting would survive a state audit, that's worth a conversation. Berg Advisors will walk through your current setup, your entities, and where the gaps are, then show you what a flat monthly fee and a dedicated CPA team would look like for your portfolio.
 
-[Schedule a consultation](/contact) and find out if it's a fit.
+[Schedule a consultation](/contact-us) and find out if it's a fit.
 
 ---
 ## SEO & AIO Metadata

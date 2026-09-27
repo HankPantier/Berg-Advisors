@@ -75,4 +75,4 @@ Code redeemed cash back as a contra-expense against the original spending catego
 **Should I use points or cash back for my business?**
 Cash back is simpler to track and reconciles cleanly against expenses, which makes it the better default for most product-based businesses. Points make sense only if you travel for supplier visits or trade shows several times a year; otherwise, unused points lose value as programs get devalued.
 
-If your card strategy hasn't been reviewed since you added a new sales channel, or your bookkeeping team is still guessing at how to code rewards, [get in touch](/contact) and we'll walk through your spend categories, your current card mix, and what it should look like given where your business is headed.
+If your card strategy hasn't been reviewed since you added a new sales channel, or your bookkeeping team is still guessing at how to code rewards, [get in touch](/contact-us) and we'll walk through your spend categories, your current card mix, and what it should look like given where your business is headed.

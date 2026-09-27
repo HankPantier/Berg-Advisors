@@ -114,7 +114,7 @@ If it looks like a match, you'll talk with the people you'd actually work with, 
 We move quickly once we know it's a fit, with clear expectations about role, compensation, and growth path from day one.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Careers at Berg Advisors | Join Our Team
+## Frequently Asked Questions About Careers at Berg Advisors
 
 **Q: Does Berg Advisors hire remote accountants?**
 A: Yes. Berg Advisors is a virtual-first CPA firm with team members working remotely and serving clients nationwide. The firm originated in Newtown Square, PA, but roles are open to candidates anywhere who fit the culture and skill requirements.

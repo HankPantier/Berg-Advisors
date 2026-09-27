@@ -75,4 +75,4 @@ Start with one recurring block of protected time each month, treated as non-nego
 **Does Berg Advisors actually talk about this with clients, or is it just tax and bookkeeping?**
 It comes up regularly. Quarterly advisory calls are built into every engagement specifically so capacity and strategy get discussed before they turn into a financial problem, not after.
 
-If Q4 planning is starting to feel like something you're surviving instead of running, that's worth a conversation before the next busy season, not during it. [Reach out to Berg Advisors](/contact) and we'll walk through what a sustainable plan actually looks like for your business.
+If Q4 planning is starting to feel like something you're surviving instead of running, that's worth a conversation before the next busy season, not during it. [Reach out to Berg Advisors](/contact-us) and we'll walk through what a sustainable plan actually looks like for your business.

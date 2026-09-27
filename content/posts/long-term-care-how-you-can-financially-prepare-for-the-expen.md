@@ -76,4 +76,4 @@ Standard VA pension is a base monthly benefit for low-income wartime veterans ov
 **Should my long-term care reserve be separate from my business emergency fund?**
 Yes. Business working capital needs to stay available for inventory, payroll, and platform fee timing, and mixing it with a personal care reserve creates pressure to raid one for the other. Keeping them in separate accounts, sized against separate goals, protects both the business and the family member who eventually needs care.
 
-If a parent's health has changed recently, or you're trying to figure out how a future care expense fits into your business and personal balance sheet, [get in touch](/contact) and we'll walk through the numbers with you.
+If a parent's health has changed recently, or you're trying to figure out how a future care expense fits into your business and personal balance sheet, [get in touch](/contact-us) and we'll walk through the numbers with you.

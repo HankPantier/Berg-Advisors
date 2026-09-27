@@ -103,7 +103,7 @@ Berg Advisors has been recognized as a Woodard Top 50 Client Accounting Services
 - Fixed monthly fees, no hourly billing surprises
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting Services for Small Business | Berg Advisors
+## Frequently Asked Questions About Accounting Services for Small Business
 
 **Q: How much do accounting services cost for a small business at Berg Advisors?**
 A: Berg Advisors uses flat monthly fees instead of hourly billing, so costs depend on your business's size, transaction volume, and which services you need. A consultation gets you a specific quote before any work starts, with no hourly clock running.

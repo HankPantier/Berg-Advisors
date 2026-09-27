@@ -109,7 +109,7 @@ A: Yes. Andrew C. Berg, CPA, works with growing businesses making that shift, ty
 
 Every client on this page, whether e-commerce, property management, or a family office managing several entities, started the same way: a conversation about what's actually going on in the books. Tell us where things stand, and we'll tell you plainly what we'd do about it.
 
-[Schedule a consultation](/contact) and see what a flat-fee, relationship-driven CPA firm looks like in practice.
+[Schedule a consultation](/contact-us) and see what a flat-fee, relationship-driven CPA firm looks like in practice.
 
 ---
 ## SEO & AIO Metadata

@@ -105,7 +105,7 @@ Outsourced Accounting
 Writes on fractional back-office support for growth-stage businesses outside the e-commerce and startup niches Berg Advisors is best known for.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Quick Reads Blog | Berg Advisors
+## Frequently Asked Questions About Quick Reads Blog
 
 **Q: What topics does the Berg Advisors blog cover?**
 A: Quick Reads covers outsourced accounting and bookkeeping, business and personal tax, and advisory topics, plus dedicated tracks on e-commerce accrual accounting, property management reporting, and family office consolidation for Pennsylvania and nationwide clients.

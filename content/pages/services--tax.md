@@ -125,7 +125,7 @@ A: Yes. Both are core niches for the firm, alongside e-commerce. Property manage
 
 Whether the business runs out of Newtown Square or ships product from a warehouse in Nevada, one team handles the filing, the planning, and the phone call when a question comes up. Berg Advisors operates as a fully virtual firm serving clients in all 50 states, with its roots still planted in Delaware County, Pennsylvania.
 
-[Schedule a consultation](/contact) to talk through your current tax setup. No obligation, and no hourly clock running while you ask questions.
+[Schedule a consultation](/contact-us) to talk through your current tax setup. No obligation, and no hourly clock running while you ask questions.
 
 ---
 ## SEO & AIO Metadata

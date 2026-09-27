@@ -78,4 +78,4 @@ Often, yes, because vehicles over 6,000 pounds gross vehicle weight rating avoid
 **Should I buy or lease if my e-commerce sales are seasonal and Q4-heavy?**
 Seasonal cash flow usually favors buying, timed so the vehicle is in service before year-end, letting you offset a strong Q4 with a first-year depreciation deduction—though [the broader capital allocation math](/resources/do-the-math-behind-renting-vs-buying-a-home) is worth running on your actual numbers. A lease locks in a fixed payment regardless of season, which can strain cash flow during your slower Q1 and Q2 months.
 
-If you're staring at a lease offer or a loan quote and want the actual math run against your business, not a generic rule of thumb, [reach out to Berg Advisors](/contact) and we'll walk through it with you.
+If you're staring at a lease offer or a loan quote and want the actual math run against your business, not a generic rule of thumb, [reach out to Berg Advisors](/contact-us) and we'll walk through it with you.

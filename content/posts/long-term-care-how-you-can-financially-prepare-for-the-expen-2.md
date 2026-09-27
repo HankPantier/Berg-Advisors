@@ -75,4 +75,4 @@ There's no universal number, but families funding a parent's care for two to thr
 **Does Medicaid cover long-term care if I run out of money?**
 Medicaid does cover long-term care, but only after countable assets are spent down to a low threshold, which varies by state. For business owners, that spend-down can force liquidation of investment accounts or inventory-linked assets, which is exactly why proactive insurance or self-funding planning matters.
 
-If you're weighing how a parent's care, your own retirement, and your business's cash flow all fit together, that's a conversation worth having before the bills start arriving. [Reach out to Berg Advisors](/contact) and we'll walk through the numbers with you.
+If you're weighing how a parent's care, your own retirement, and your business's cash flow all fit together, that's a conversation worth having before the bills start arriving. [Reach out to Berg Advisors](/contact-us) and we'll walk through the numbers with you.

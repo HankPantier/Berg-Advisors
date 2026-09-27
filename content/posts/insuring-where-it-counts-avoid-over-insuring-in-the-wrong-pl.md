@@ -76,4 +76,4 @@ Yes. Premiums for general liability, product liability, cyber, and property cove
 **What's the biggest insurance gap for multi-channel sellers specifically?**
 Inventory sitting in third-party warehouses or FBA. Standard general liability policies typically exclude inventory value, and 3PL contracts usually cap reimbursement well below replacement cost. Inland marine or contingent cargo coverage closes that gap and should equal your peak seasonal inventory value, not your average.
 
-If your coverage was bought one vendor requirement at a time and hasn't been looked at since, a risk review tied to your actual net worth and inventory numbers is worth an hour of your time. [Get in touch](/contact) and we'll walk through where you're exposed and where you're paying for coverage you don't need.
+If your coverage was bought one vendor requirement at a time and hasn't been looked at since, a risk review tied to your actual net worth and inventory numbers is worth an hour of your time. [Get in touch](/contact-us) and we'll walk through where you're exposed and where you're paying for coverage you don't need.

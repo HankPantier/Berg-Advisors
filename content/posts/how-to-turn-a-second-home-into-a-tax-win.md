@@ -75,4 +75,4 @@ Only if the property qualifies as a rental with personal use under the 14-day/10
 **Does buying a second home in another state affect my sales tax nexus?**
 Not directly, sales tax nexus is driven by business activity like inventory storage or employees, not personal property ownership. But if you start using the home for business purposes, such as storing inventory, that can change your nexus picture and deserves a separate conversation with your CPA.
 
-If you're weighing a second home purchase and want the personal-use math run against your actual e-commerce income before you sign anything, [reach out to Berg Advisors](/contact) and we'll walk through the numbers together.
+If you're weighing a second home purchase and want the personal-use math run against your actual e-commerce income before you sign anything, [reach out to Berg Advisors](/contact-us) and we'll walk through the numbers together.

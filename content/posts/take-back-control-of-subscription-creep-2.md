@@ -74,4 +74,4 @@ Yes. Grouping every SaaS charge under a single generic "software" line makes cre
 **Can a bookkeeper really catch subscription creep, or does it need a CFO-level review?**
 A good bookkeeper catches it at the reconciliation stage simply by noticing new or duplicate recurring charges. Deciding whether to keep, downgrade, or cancel a tool is more of an advisory conversation, which is why we handle both in the same monthly relationship rather than treating them as separate services.
 
-If your subscription list hasn't been reviewed since before your last product launch, it's probably costing you more than you think. [Get in touch](/contact) and we'll walk through what a subscription audit looks like alongside your monthly bookkeeping, at a flat fee with no surprise invoice at the end.
+If your subscription list hasn't been reviewed since before your last product launch, it's probably costing you more than you think. [Get in touch](/contact-us) and we'll walk through what a subscription audit looks like alongside your monthly bookkeeping, at a flat fee with no surprise invoice at the end.

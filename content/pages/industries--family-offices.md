@@ -117,7 +117,7 @@ A: Berg Advisors is headquartered in Newtown Square, Pennsylvania, and works in 
 
 Whether you're bringing family office accounting in-house for the first time or replacing a firm that stopped being proactive somewhere along the way, the first conversation costs you nothing but half an hour. Tell us about your entities, your goals, and what isn't working today, and we'll tell you honestly whether we're the right fit.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/contact-us)
 
 ---
 ## SEO & AIO Metadata

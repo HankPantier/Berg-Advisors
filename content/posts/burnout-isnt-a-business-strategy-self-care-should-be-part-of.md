@@ -67,4 +67,4 @@ Every hour spent manually matching Amazon, Shopify, and Etsy deposits is an hour
 **When should an owner get financial help, before or after burnout hits?**
 Before. Once exhaustion sets in, the decisions that need the most clarity, like inventory reorders and sales tax remittance, get made with the least. Setting up quarterly advisory calls and a clear financial plan ahead of your busy season means fewer decisions get made under pressure in the first place.
 
-If your business has grown past the point where you can carry every financial decision alone, [get in touch](/contact) and we'll build a plan that protects both your margins and your ability to keep making good calls next quarter.
+If your business has grown past the point where you can carry every financial decision alone, [get in touch](/contact-us) and we'll build a plan that protects both your margins and your ability to keep making good calls next quarter.

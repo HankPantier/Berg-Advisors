@@ -75,4 +75,4 @@ Flag new charges monthly as part of your bookkeeping close, and do a full review
 **Can a bookkeeper catch subscription creep, or do I have to review it myself?**
 A bookkeeper who's actively categorizing your transactions each month will spot new recurring vendors as they appear, which is most of the battle. Deciding whether a tool still earns its cost usually requires input from whoever uses it day to day, so the two steps work best together.
 
-If your books haven't had a real subscription review in the last year, it's worth a conversation before your next renewal cycle hits. [Contact us](/contact) and we'll walk through what's actually running through your accounts and what it's costing you.
+If your books haven't had a real subscription review in the last year, it's worth a conversation before your next renewal cycle hits. [Contact us](/contact-us) and we'll walk through what's actually running through your accounts and what it's costing you.
