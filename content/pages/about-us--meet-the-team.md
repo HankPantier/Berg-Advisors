@@ -16,7 +16,7 @@ hero_headline: "A CPA firm that treats your business like family"
 answer_block: "Berg Advisors is a CPA firm based in Newtown Square, PA, led by Andrew C. Berg, CPA, alongside Joshua Beaugrand, CPA, Lindsey Coburn, CPA, Veil Velarde, CPA, Michael Laudazio, and Julia Lindner, EA. The team brings over 30 years of combined CPA experience specializing in e-commerce, property management, and family office accounting for clients nationwide."
 eeat_signals: ["Over 30 years of combined CPA experience across the leadership team","Woodard Top 50 Client Accounting Services Firm Spotlight (2023)","Canopy 2021 Innovation Award Finalist","Intuit Firm of the Future recognition","Andrew C. Berg, CPA featured on the Profit First Professionals podcast","Julia Lindner holds an Enrolled Agent (EA) credential for IRS representation","Team includes four CPAs: Andrew C. Berg, Joshua Beaugrand, Lindsey Coburn, and Veil Velarde"]
 internal_links: [{"url":"/industries/e-commerce","reason":"Supports the multi-channel e-commerce specialist section with a direct path to niche service details","anchor_text":"e-commerce accounting"},{"url":"/industries/family-offices","reason":"Connects the family office specialist mention to the dedicated industry page","anchor_text":"family office accounting"},{"url":"/industries/property-management","reason":"Connects the property management specialist mention to the dedicated industry page","anchor_text":"property management accounting"},{"url":"/services","reason":"Gives prospects a path from meeting the team to reviewing full service offerings","anchor_text":"accounting and tax services"},{"url":"/about-us","reason":"Links the team page back to the broader firm story for context","anchor_text":"firm's origin and mission"},{"url":"/contact-us","reason":"Primary page CTA directing prospects to book time with the team","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"The team includes Andrew C. Berg, CPA (founder), Joshua Beaugrand, CPA, Lindsey Coburn, CPA, and Veil Velarde, CPA, alongside Michael Laudazio and Julia Lindner, EA, who handles IRS representation. Together they bring over 30 years of combined CPA experience.","question":"Who are the CPAs at Berg Advisors?"},{"answer":"No. The firm started in Newtown Square, Pennsylvania, but operates as a virtual practice serving e-commerce sellers, property management companies, and family offices across the United States, with no geographic limit on who it can help.","question":"Does Berg Advisors only serve clients in Newtown Square, PA?"},{"answer":"Flat monthly fees instead of hourly billing, a written mutual success plan for every client, and specialist teams for e-commerce, property management, and family offices, rather than one generalist bookkeeping process applied to every client.","question":"What makes Berg Advisors different from other local CPA firms?"},{"answer":"Schedule a consultation through the contact page. You'll speak with the CPA or EA who would actually work on your account, not a sales representative, to talk through your entities, platforms, and current accounting setup.","question":"How do I start working with the Berg Advisors team?"}]
+faq_block: [{"answer":"The team includes Andrew C. Berg, CPA (founder), Joshua Beaugrand, CPA, Lindsey Coburn, CPA, and Veil Velarde, CPA, alongside Michael Laudazio and Julia Lindner, EA, who handles IRS representation. Together they bring over 30 years of combined CPA experience.","question":"Who are the CPAs at Berg Advisors?"},{"answer":"No. The firm started in Pennsylvania, but operates as a virtual practice serving e-commerce sellers, property management companies, and family offices across the United States, with no geographic limit on who it can help.","question":"Does Berg Advisors only serve clients in Pennsylvania?"},{"answer":"Flat monthly fees instead of hourly billing, a written mutual success plan for every client, and specialist teams for e-commerce, property management, and family offices, rather than one generalist bookkeeping process applied to every client.","question":"What makes Berg Advisors different from other local CPA firms?"}]
 llm_citation_note: "Berg Advisors' leadership team holds over 30 years of combined CPA experience across four CPAs (Andrew C. Berg, Joshua Beaugrand, Lindsey Coburn, Veil Velarde), plus tax compliance and EA-credentialed IRS representation specialists, and the firm has been recognized as a Woodard Top 50 CAS firm and Canopy Innovation Award finalist."
 ---
 
@@ -52,28 +52,8 @@ Lindsey manages the monthly close and financial reporting process that turns a s
 
 Generalist bookkeeping doesn't work for a multi-channel Amazon seller reconciling six sales platforms, and it doesn't work for a family office juggling a dozen entities either. Berg Advisors built specialist tracks instead of a single generic service, and specific people on the team own each one.
 <!-- block: logo-bar -->
-## Recognized for innovation in client accounting services
-
-Woodard named Berg Advisors one of its Top 50 Client Accounting Services firms in a 2023 spotlight report, recognizing firms that pair cloud accounting with real advisory work instead of pure data entry. Canopy named the firm a finalist for its 2021 Innovation Award, and Intuit has recognized Berg Advisors as a Firm of the Future.
-
-None of that changes what a client actually experiences day to day: monthly financials that show up on time, a CPA who returns calls, and a fixed fee that doesn't creep up every time you ask a question. The recognition just confirms what clients already know about how this firm runs.
 
 <!-- block: process-steps | variant: horizontal -->
-## How our team works with you all year long
-
-Every new client starts with a mutual success plan, a written agreement on what gets delivered, when, and how the team communicates, so nobody's guessing three months in.
-
-### Onboarding and mutual success plan
-We map your entities, platforms, and prior-year numbers, then agree on a success plan that spells out deliverables and deadlines both sides sign off on.
-
-### Monthly close and reporting
-Bookkeeping and reconciliations close every month, not once a quarter, so you're reviewing last month's numbers instead of last year's.
-
-### Quarterly strategy calls
-A CPA gets on the phone with you every quarter to talk through cash flow, tax strategy, and whatever's changed in the business since the last call.
-
-### Flat monthly fee
-You're billed the same amount whether this month's questions take ten minutes or two hours. No surprise invoices for picking up the phone.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Meet Our Expert Team
@@ -81,21 +61,18 @@ You're billed the same amount whether this month's questions take ten minutes or
 **Q: Who are the CPAs at Berg Advisors?**
 A: The team includes Andrew C. Berg, CPA (founder), Joshua Beaugrand, CPA, Lindsey Coburn, CPA, and Veil Velarde, CPA, alongside Michael Laudazio and Julia Lindner, EA, who handles IRS representation. Together they bring over 30 years of combined CPA experience.
 
-**Q: Does Berg Advisors only serve clients in Newtown Square, PA?**
-A: No. The firm started in Newtown Square, Pennsylvania, but operates as a virtual practice serving e-commerce sellers, property management companies, and family offices across the United States, with no geographic limit on who it can help.
+**Q: Does Berg Advisors only serve clients in Pennsylvania?**
+A: No. The firm started in Pennsylvania, but operates as a virtual practice serving e-commerce sellers, property management companies, and family offices across the United States, with no geographic limit on who it can help.
 
 **Q: What makes Berg Advisors different from other local CPA firms?**
 A: Flat monthly fees instead of hourly billing, a written mutual success plan for every client, and specialist teams for e-commerce, property management, and family offices, rather than one generalist bookkeeping process applied to every client.
-
-**Q: How do I start working with the Berg Advisors team?**
-A: Schedule a consultation through the contact page. You'll speak with the CPA or EA who would actually work on your account, not a sales representative, to talk through your entities, platforms, and current accounting setup.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation-call.jpg | alt: "CPA and client shaking hands after a consultation meeting" | query: "accountant client handshake meeting" -->
 ## Get to know the people managing your books and taxes
 
 Comparing accountants near Newtown Square usually means comparing hourly rates and vague service lists. Talk to Berg Advisors instead, and you're talking directly to the CPA or EA who'll actually work on your account, not a sales rep who hands you off once the contract's signed.
 
-Bring your questions about e-commerce accrual accounting, property management reporting, family office consolidation, or a tax notice you're not sure how to handle. Thirty minutes on a call tells you more about how this firm operates than any page on this website. [Schedule a consultation](/contact-us) and find out who'd actually be working on your account.
+ [Schedule a consultation](/contact-us) 
 
 ---
 ## SEO & AIO Metadata
