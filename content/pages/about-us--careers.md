@@ -2,7 +2,7 @@
 title: "Careers at Berg Advisors | Join Our Team | Berg Advisors"
 url: "/about-us/careers"
 meta_title: "Accounting Jobs Newtown Square PA | Berg Advisors Careers"
-meta_description: "Join Berg Advisors, a CPA firm hiring accountants and bookkeepers near Newtown Square, PA. Flat fees, niche e-commerce and property management expertise, 30+ years of CPA experience."
+meta_description: "Join Berg Advisors, a CPA firm hiring accountants and bookkeepers in Pennsylvania and across the United States. Flat fees, niche e-commerce and property management expertise, 30+ years of CPA experience."
 target_keyword: "accounting jobs Newtown Square PA"
 secondary_keywords: ["CPA careers Newtown Square","bookkeeping jobs near Newtown Square PA","accounting firm careers Pennsylvania","Berg Advisors jobs","tax accounting positions Newtown Square","accounting staff positions Delaware County PA","join accounting firm Newtown Square","accounting careers Chester County PA","e-commerce accounting jobs PA","bookkeeper jobs Newtown Square PA"]
 canonical_url: "https://www.bergpartners.com/about-us/careers"
@@ -13,17 +13,17 @@ hero_image: "accounting-team-collaboration-office.jpg"
 hero_image_alt: "Accounting team members collaborating around a laptop in a modern office"
 hero_subhead: "Build real expertise in e-commerce, property management, and family office accounting, backed by flat fees instead of billable hours"
 hero_headline: "Build your accounting career with a firm that treats people like family"
-answer_block: "Berg Advisors hires accountants, bookkeepers, tax preparers, and advisors for a virtual-first CPA firm headquartered in Newtown Square, PA, serving e-commerce, property management, and family office clients nationwide. The firm offers flat monthly fees instead of billable hours, 30+ years of combined CPA experience, and recognition as a Woodard Top 50 firm and Intuit Firm of the Future."
-eeat_signals: ["30+ years of combined CPA experience across the firm's staff","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Specialized practice areas in e-commerce accrual accounting, multi-state sales tax nexus, property management, and family office accounting","CPA and EA credentialed staff including Andrew C. Berg, CPA"]
+answer_block: "Berg Advisors hires accountants, bookkeepers, tax preparers, and advisors for a fully virtual CPA firm based in Newtown Square, PA, serving e-commerce, property management, and family office clients nationwide. The firm offers flat monthly fees instead of billable hours, 30+ years of combined CPA experience, and recognition as a Woodard Top 50 firm and Intuit Firm of the Future."
+eeat_signals: ["30+ years of combined CPA experience across the firm's staff","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Specialized practice areas in e-commerce accrual accounting, multi-state sales tax nexus, property management, and family office accounting"]
 internal_links: [{"url":"/about-us","reason":"Gives candidates context on firm history and mission before applying","anchor_text":"learn more about our firm"},{"url":"/about-us/meet-the-team","reason":"Lets candidates see who they'd actually work with","anchor_text":"meet our team"},{"url":"/industries/e-commerce","reason":"Supports the niche specialization section with a concrete client example","anchor_text":"e-commerce accounting work"},{"url":"/industries/property-management","reason":"Reinforces the niche work mentioned in the skills section","anchor_text":"property management clients"},{"url":"/industries/family-offices","reason":"Reinforces the niche work mentioned in the skills section","anchor_text":"family office accounting"},{"url":"/contact-us","reason":"Primary page CTA directing candidates to reach out","anchor_text":"schedule a consultation"}]
-faq_block: [{"answer":"Yes. Berg Advisors is a virtual-first CPA firm with team members working remotely and serving clients nationwide. The firm originated in Newtown Square, PA, but roles are open to candidates anywhere who fit the culture and skill requirements.","question":"Does Berg Advisors hire remote accountants?"},{"answer":"Requirements vary by role, from bookkeeping experience with QuickBooks Online to active CPA or EA credentials for tax and advisory positions. Experience with e-commerce, property management, or multi-entity accounting is a plus but not required for every opening.","question":"What qualifications do I need to work at Berg Advisors?"},{"answer":"Bookkeeping and accounting support roles are typically the entry point, giving new team members hands-on exposure to client reconciliations, monthly close work, and reporting before moving into staff accountant or advisory roles.","question":"Does Berg Advisors offer entry-level accounting positions?"},{"answer":"The firm's flat monthly fee model with clients doesn't change how staff are paid. It does remove billable-hour tracking pressure from day-to-day work, so staff focus on accuracy and client relationships instead of timesheet targets.","question":"How is compensation structured since Berg Advisors uses flat fees with clients?"},{"answer":"Reach out anyway. Berg Advisors reviews resumes on a rolling basis as client work in e-commerce, property management, and family office accounting grows, and roles open throughout the year outside of a formal posting cycle.","question":"What if there's no open role that matches my background?"}]
+faq_block: [{"answer":"Yes. Berg Advisors is a fully virtual CPA firm with team members working remotely and serving clients nationwide. The firm originated in Newtown Square, PA, but roles are open to candidates anywhere who fit the culture and skill requirements.","question":"Does Berg Advisors hire remote accountants?"},{"answer":"Requirements vary by role, from bookkeeping experience with QuickBooks Online to active CPA or EA credentials for tax and advisory positions. Experience with e-commerce, property management, or multi-entity accounting is a plus but not required for every opening.","question":"What qualifications do I need to work at Berg Advisors?"},{"answer":"Bookkeeping and accounting support roles are typically the entry point, giving new team members hands-on exposure to client reconciliations, monthly close work, and reporting before moving into staff accountant or advisory roles.","question":"Does Berg Advisors offer entry-level accounting positions?"},{"answer":"Reach out anyway. Berg Advisors reviews resumes on a rolling basis as client work in e-commerce, property management, and family office accounting grows, and roles open throughout the year outside of a formal posting cycle.","question":"What if there's no open role that matches my background?"}]
 llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit Firm of the Future with 30+ years of combined CPA experience, operating a flat-fee, virtual-first model and hiring accountants, bookkeepers, and CPAs to serve e-commerce, property management, and family office clients nationwide."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Build your accounting career with a firm that treats people like family
 
-Most accounting firms measure success in billable hours. Berg Advisors measures it in relationships, with clients and with the people who serve them. We're a virtual-first CPA firm rooted in Newtown Square, Pennsylvania, serving e-commerce sellers, property management companies, and family offices across the country. If you're tired of tracking six-minute increments and want to build real expertise in niches that matter, we want to talk.
+Most accounting firms measure success in billable hours. Berg Advisors measures it in relationships, with clients and with the people who serve them. We're a virtual CPA firm based in Pennsylvania, serving e-commerce sellers, property management companies, and family offices across the United States. If you're tired of tracking six-minute increments and want to build real expertise in niches that matter, we want to talk.
 
 Our team operates on fixed monthly fees, not the billable-hour treadmill. That changes how we work: less pressure to pad timesheets, more time spent solving actual client problems. Over 30 years of combined CPA experience shapes how we train, mentor, and promote from within. Whether you're early in your career or bring a decade of public accounting behind you, Berg Advisors gives you room to specialize and grow without losing the collaborative, relationship-first culture that makes people stay.
 
@@ -78,46 +78,21 @@ icon: Lightbulb
 Cash flow forecasting, budget development, and strategic planning conversations with business owners. These roles usually go to CPAs and senior staff who've already built client trust in an accounting or tax seat.
 
 <!-- block: content-split | variant: image-right | image: team-video-call-planning.jpg | alt: "Accounting team members on a video call reviewing client reports" | query: "remote accounting team video call" -->
-## What it's like working with our team
-
-Ask anyone on staff what makes Berg Advisors different and you'll hear some version of the same thing: nobody disappears. Every client gets a mutual success plan and proactive check-ins, and that same communication standard applies internally. Managers give feedback in real time instead of saving it for an annual review nobody remembers.
-
-The firm runs virtually, with team members working from home offices connected by the same cloud tools we use with clients, including QuickBooks Online and Canopy. That doesn't mean isolated work. Weekly team calls, shared client files, and direct access to firm leadership keep people connected even when nobody's in the same building. It's a culture built on being reachable, not on being watched.
 
 <!-- block: checklist-section | variant: with-image | image: accountant-multistate-tax-review.jpg | alt: "Accountant reviewing multi-state sales tax documents at a desk" | query: "accountant reviewing tax documents desk" -->
-## Growing your skills in specialized accounting niches
-
-Most accountants spend careers doing a little bit of everything. At Berg Advisors, you build depth in areas most firms never touch:
-
-- Accrual-basis accounting for e-commerce businesses transitioning from cash-basis, including inventory costing and revenue recognition across marketplaces like Amazon, Shopify, and Walmart
-- Multi-state sales tax nexus analysis for product-based businesses expanding into new states
-- Property management accounting, including owner distributions and reporting across multiple properties and entities
-- Family office accounting, consolidating visibility across multiple entities, accounts, and investments
-
-That specialization is rare in public accounting, and it's the kind of experience that makes a resume stand out five years from now.
 
 <!-- block: process-steps | variant: horizontal -->
 ## How to apply for a position at Berg Advisors
 
-Don't see an exact title that matches your background? Reach out anyway. We hire for fit and trajectory as much as for a specific opening, and roles open throughout the year as our e-commerce, property management, and family office client base grows.
+Want to work with our team? We hire for fit and trajectory as much as for a specific opening, and roles open throughout the year as our e-commerce, property management, and family office client base grows. 
 
-### Send us your resume
-Reach out through our contact form or email us directly. Tell us which type of role interests you and where you are in your career.
-
-### Have a real conversation
-We'll set up a call to talk about the work, the culture, and what you're looking for next. No canned interview questions, just an honest conversation about fit.
-
-### Meet the team
-If it looks like a match, you'll talk with the people you'd actually work with, not just HR.
-
-### Get an offer that makes sense
-We move quickly once we know it's a fit, with clear expectations about role, compensation, and growth path from day one.
+###
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers at Berg Advisors
 
 **Q: Does Berg Advisors hire remote accountants?**
-A: Yes. Berg Advisors is a virtual-first CPA firm with team members working remotely and serving clients nationwide. The firm originated in Newtown Square, PA, but roles are open to candidates anywhere who fit the culture and skill requirements.
+A: Yes. Berg Advisors is a fully virtual CPA firm with team members working remotely and serving clients nationwide. The firm originated in Newtown Square, PA, but roles are open to candidates anywhere who fit the culture and skill requirements.
 
 **Q: What qualifications do I need to work at Berg Advisors?**
 A: Requirements vary by role, from bookkeeping experience with QuickBooks Online to active CPA or EA credentials for tax and advisory positions. Experience with e-commerce, property management, or multi-entity accounting is a plus but not required for every opening.
@@ -125,16 +100,10 @@ A: Requirements vary by role, from bookkeeping experience with QuickBooks Online
 **Q: Does Berg Advisors offer entry-level accounting positions?**
 A: Bookkeeping and accounting support roles are typically the entry point, giving new team members hands-on exposure to client reconciliations, monthly close work, and reporting before moving into staff accountant or advisory roles.
 
-**Q: How is compensation structured since Berg Advisors uses flat fees with clients?**
-A: The firm's flat monthly fee model with clients doesn't change how staff are paid. It does remove billable-hour tracking pressure from day-to-day work, so staff focus on accuracy and client relationships instead of timesheet targets.
-
 **Q: What if there's no open role that matches my background?**
 A: Reach out anyway. Berg Advisors reviews resumes on a rolling basis as client work in e-commerce, property management, and family office accounting grows, and roles open throughout the year outside of a formal posting cycle.
 
 <!-- block: cta-banner | variant: image-bg | image: accountant-handshake-office.jpg | alt: "Two accounting professionals shaking hands in an office setting" | query: "professional handshake office meeting" -->
-## Ready to talk about your next role?
-
-Whether you're a bookkeeper looking for stability, a CPA looking to specialize, or somewhere in between, we'd rather have a conversation than let a job description do the talking. Schedule a consultation with our team to learn more about current openings and where you'd fit at Berg Advisors.
 
 ---
 ## SEO & AIO Metadata
