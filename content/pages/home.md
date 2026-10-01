@@ -1,9 +1,9 @@
 ---
 title: "A Pennsylvania CPA firm that treats your business like family"
 url: "/"
-meta_title: "Small Business Accounting & Bookkeeping Newtown Square PA"
-meta_description: "Berg Advisors is a Newtown Square, PA CPA firm offering flat-fee bookkeeping, tax prep, and advisory for e-commerce, property management, and family office clients nationwide."
-target_keyword: "small business accounting bookkeeping Newtown Square PA"
+meta_title: "Business Accounting & Bookkeeping Newtown Square PA"
+meta_description: "Berg Advisors is a Pennsylvania CPA firm offering flat-fee bookkeeping, tax prep, and advisory for e-commerce, property management, and family office clients nationwide."
+target_keyword: "small business accounting bookkeeping Pennsylvania nationwide"
 secondary_keywords: ["CPA firm Newtown Square PA","business accounting services Delaware County PA","outsourced bookkeeping Newtown Square","small business tax preparation Newtown Square PA","e-commerce accounting Newtown Square PA","property management accounting Delaware County","family office accounting services PA","fractional accounting services Newtown Square"]
 canonical_url: "https://www.bergpartners.com/"
 schema_markup: "LocalBusiness"
@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Newtown Square, PA"
 hero_image: "small-business-owner-cpa-meeting.jpg"
 hero_image_alt: "Small business owner and CPA reviewing financial reports together at a desk"
-hero_subhead: "Flat-fee bookkeeping, tax, and advisory from a Newtown Square CPA firm that actually calls you back"
+hero_subhead: "Flat-fee bookkeeping, tax, and advisory from a CPA firm that actually calls you back"
 hero_headline: "A Pennsylvania CPA firm that treats your business like family"
 answer_block: "Berg Advisors is a CPA firm founded in Newtown Square, Pennsylvania more than 30 years ago, offering flat-fee bookkeeping, tax preparation, and advisory services. The firm works virtually with clients nationwide, with particular depth in multi-channel e-commerce, property management, and family office accounting."
 eeat_signals: ["Intuit Firm of the Future recognition","Andrew C. Berg, CPA, featured on the Profit First Professionals podcast discussing modern accounting firm operations","Flat monthly fee model with a documented mutual success plan for every client"]
