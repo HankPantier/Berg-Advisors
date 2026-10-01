@@ -52,31 +52,6 @@ icon: Target
 
 We serve multi-channel e-commerce sellers, property management companies, and family offices. That focus means deep, marketable expertise in accrual accounting, multi-state sales tax nexus, and multi-entity reporting instead of a little bit of everything.
 
-<!-- block: service-cards | variant: 3-col -->
-## Open roles and career paths at our Newtown Square area firm
-
-Berg Advisors hires across every stage of the accounting career path, from bookkeeping support to advisory leadership. Here's where most people start, and where the work can take you from there.
-
-### Bookkeeping and Accounting Support
-icon: Calculator
-
-Monthly close, reconciliations, and accounts payable and receivable work for e-commerce, property management, and family office clients. A common entry point for people who want hands-on client exposure early.
-
-### Tax Preparation and Planning
-icon: FileText
-
-Business and personal tax preparation, year-end 1099 work, and sales tax compliance. Roles here range from seasonal preparer support to year-round planning work for CPAs and EAs.
-
-### Staff Accountant
-icon: ChartBar
-
-Full-cycle accounting, financial reporting, and client-facing reconciliation work. This role typically bridges bookkeeping and advisory, with a path toward managing client relationships directly.
-
-### Advisory and Consulting
-icon: Lightbulb
-
-Cash flow forecasting, budget development, and strategic planning conversations with business owners. These roles usually go to CPAs and senior staff who've already built client trust in an accounting or tax seat.
-
 <!-- block: content-split | variant: image-right | image: team-video-call-planning.jpg | alt: "Accounting team members on a video call reviewing client reports" | query: "remote accounting team video call" -->
 
 <!-- block: checklist-section | variant: with-image | image: accountant-multistate-tax-review.jpg | alt: "Accountant reviewing multi-state sales tax documents at a desk" | query: "accountant reviewing tax documents desk" -->
