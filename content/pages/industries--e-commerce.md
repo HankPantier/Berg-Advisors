@@ -54,7 +54,7 @@ Berg Advisors guides product-based businesses with advice on nexus exposure as t
 - Marketplace facilitator law guidance, so you know what Amazon and Walmart already collect on your behalf
 
 <!-- block: service-cards | variant: 3-col -->
-## Outsourced accounting, tax, and advisory under one roof
+## Accounting, tax, and advisory under one roof
 
 Bookkeeping without tax planning misses savings. Tax prep without ongoing bookkeeping means surprises every April. Berg Advisors runs both under one flat monthly fee, plus the advisory layer that connects them.
 
