@@ -13,7 +13,7 @@ hero_eyebrow: "Newtown Square, PA"
 hero_image: "small-business-owner-cpa-meeting.jpg"
 hero_image_alt: "Small business owner and CPA reviewing financial reports together at a desk"
 hero_subhead: "Flat-fee bookkeeping, tax, and advisory from a Newtown Square CPA firm that actually calls you back"
-hero_headline: "A Newtown Square CPA firm that treats your business like family"
+hero_headline: "A Pennsylvania CPA firm that treats your business like family"
 answer_block: "Berg Advisors is a CPA firm founded in Newtown Square, Pennsylvania more than 30 years ago, offering flat-fee bookkeeping, tax preparation, and advisory services. The firm works virtually with clients nationwide, with particular depth in multi-channel e-commerce, property management, and family office accounting."
 eeat_signals: ["Intuit Firm of the Future recognition","Andrew C. Berg, CPA, featured on the Profit First Professionals podcast discussing modern accounting firm operations","Flat monthly fee model with a documented mutual success plan for every client"]
 internal_links: [{"url":"/services/accounting","reason":"Links to the accounting/bookkeeping service page referenced in the service overview section","anchor_text":"outsourced accounting"},{"url":"/services/tax","reason":"Links to the tax service page referenced in the service overview section","anchor_text":"tax preparation"},{"url":"/services/advisory","reason":"Links to the advisory/consulting service page referenced in the service overview section","anchor_text":"advisory calls"},{"url":"/industries/e-commerce","reason":"Links to the e-commerce niche page referenced in the industries section","anchor_text":"e-commerce sellers"}]
