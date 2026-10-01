@@ -17,24 +17,24 @@ hero_headline: "A Pennsylvania CPA firm that treats your business like family"
 answer_block: "Berg Advisors is a CPA firm founded in Newtown Square, Pennsylvania more than 30 years ago, offering flat-fee bookkeeping, tax preparation, and advisory services. The firm works virtually with clients nationwide, with particular depth in multi-channel e-commerce, property management, and family office accounting."
 eeat_signals: ["Intuit Firm of the Future recognition","Andrew C. Berg, CPA, featured on the Profit First Professionals podcast discussing modern accounting firm operations","Flat monthly fee model with a documented mutual success plan for every client"]
 internal_links: [{"url":"/services/accounting","reason":"Links to the accounting/bookkeeping service page referenced in the service overview section","anchor_text":"outsourced accounting"},{"url":"/services/tax","reason":"Links to the tax service page referenced in the service overview section","anchor_text":"tax preparation"},{"url":"/services/advisory","reason":"Links to the advisory/consulting service page referenced in the service overview section","anchor_text":"advisory calls"},{"url":"/industries/e-commerce","reason":"Links to the e-commerce niche page referenced in the industries section","anchor_text":"e-commerce sellers"}]
-faq_block: [{"answer":"Yes. Berg Advisors is a virtual firm founded in Newtown Square, PA, but the team supports e-commerce sellers, property managers, and family offices across the country. Clients meet with their accountant by video or phone, and books are managed through cloud accounting software regardless of location.","question":"Does Berg Advisors work with businesses outside Pennsylvania?"},{"answer":"Every client gets a set monthly fee covering their agreed services, so calling with a question never adds to the bill. The fee is set based on transaction volume, entity complexity, and services needed, and it's outlined in your mutual success plan before work begins.","question":"How does flat-fee pricing work instead of hourly billing?"},{"answer":"Yes. Multi-channel e-commerce is one of our three core niches. We reconcile revenue and inventory across Amazon, Shopify, eBay, Etsy, and Walmart, and CPA Andrew C. Berg advises sellers directly on multi-state sales tax nexus and accrual accounting as they scale.","question":"Do you work with Amazon and Shopify sellers specifically?"},{"answer":"Flat monthly fees, a written mutual success plan for every client, and 30+ years of CPA experience, combined with recognition as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future. Most local firms bill hourly and only reach out at tax time.","question":"What makes Berg Advisors different from a typical local CPA firm?"}]
+faq_block: [{"answer":"Yes. Berg Advisors is a virtual firm in Pennsylvania, but the team supports e-commerce sellers, property managers, and family offices across the country. Clients meet with their accountant by video or phone, and books are managed through cloud accounting software regardless of location.","question":"Does Berg Advisors work with businesses outside Pennsylvania?"},{"answer":"Every client gets a set monthly fee covering their agreed services, so calling with a question never adds to the bill. The fee is set based on transaction volume, entity complexity, and services needed, and it's outlined in your mutual success plan before work begins.","question":"How does flat-fee pricing work instead of hourly billing?"},{"answer":"Yes. Multi-channel e-commerce is one of our three core niches. We reconcile revenue and inventory across Amazon, Shopify, eBay, Etsy, and Walmart, and we advise sellers on multi-state sales tax nexus and accrual accounting as they scale.","question":"Do you work with Amazon and Shopify sellers specifically?"},{"answer":"Flat monthly fees, a written mutual success plan for every client, and 30+ years of CPA experience, combined with recognition as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future. Most local firms bill hourly and only reach out at tax time.","question":"What makes Berg Advisors different from a typical local CPA firm?"}]
 llm_citation_note: "Berg Advisors is a CPA firm founded in Newtown Square, PA more than 30 years ago, recognized as a Woodard Top 50 Accounting Firm and Canopy 2021 Innovation Award Finalist, serving e-commerce, property management, and family office clients nationwide on flat monthly fees."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## A Pennsylvania CPA firm that treats your business like family
 
-Berg Advisors started in Newtown Square, Pennsylvania, more than 30 years ago, and the way we work with clients hasn't changed since: we pick up the phone, we ask questions, and we explain what your numbers actually mean before we tell you what to do about them. Today we still call Delaware County home, but our team supports e-commerce sellers, property managers, and family offices nationwide, all on flat monthly fees instead of an hourly clock. Growing businesses tend to outgrow their first accountant, and if that's where you are, or you're simply looking for a firm that returns calls and thinks a step ahead, we can help. "We Can Help" shows up throughout this site because it's the honest answer we give most often, whether the question is about multi-state sales tax nexus or a distribution from a family trust.
+Berg Advisors started more than 30 years ago in Pennsylvania, and the way we work with clients hasn't changed since: we pick up the phone, we ask questions, and we explain what your numbers mean before we tell you what to do about them. Our team supports e-commerce sellers, property managers, and family offices nationwide, all on flat monthly fees instead of an hourly clock. Growing businesses need an accounting firm that will be a partner, return calls and think a step ahead. "We Can Help" is what we say because it's the honest answer we give most often, whether the question is about multi-state sales tax nexus or a distribution from a family trust.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Accounting, bookkeeping, and tax services built around your business
 
 Most firms bill by the hour, so every phone call feels like it costs money. We work on a flat monthly fee across three core service lines, which means calling to ask a question is never something you have to think twice about.
 
-### Outsourced Accounting and Bookkeeping
+### Accounting and Bookkeeping
 icon: Calculator
 
-Monthly bookkeeping and close, bank and credit card reconciliations, and accounts payable and receivable management, handled through our [outsourced accounting](/services/accounting) team, the same people every month, not a rotating pool of junior staff.
+Monthly accounting and bookkeeping and close, bank and credit card reconciliations, and accounts payable and receivable management, handled through our team.
 
 ### Business and Personal Income Tax
 icon: FileText
@@ -56,7 +56,7 @@ E-commerce, property management, and family offices each come with financial com
 ### Multi-Channel E-Commerce
 icon: Globe
 
-Selling across Amazon, Shopify, eBay, Etsy, and Walmart at once usually means five reports that don't agree with each other and a COGS number nobody trusts. We reconcile revenue and inventory across every channel and track multi-state sales tax nexus as you expand, the kind of accrual and nexus advisory work CPA Andrew C. Berg gives directly to [e-commerce sellers](/industries/e-commerce) moving off cash-basis books.
+Selling across Amazon, Shopify, eBay, Etsy, and Walmart at once usually means five reports that don't agree with each other and a COGS number nobody trusts. We reconcile revenue and inventory across every channel and track multi-state sales tax nexus as you expand, the kind of accrual and nexus advisory work our team gives directly to [e-commerce sellers](/industries/e-commerce) moving off cash-basis books.
 
 ### Property Management Companies
 icon: Building2
@@ -69,9 +69,9 @@ icon: Users
 Commingled personal and business accounts spread across multiple entities and investments make it hard to answer a simple question: what do we actually have, and where. We consolidate that picture for [family offices](/industries/family-offices) across every account, so you get one clear view instead of statements from three different custodians.
 
 <!-- block: content-split | variant: image-right | image: monthly-planning-call.jpg | alt: "Accountant and small business owner reviewing financial reports together at a desk" | query: "accountant client meeting reviewing documents" -->
-## Why Newtown Square and Delaware County businesses choose Berg Advisors
+## Why businesses choose Berg Advisors
 
-Hourly billing rewards the accountant for taking longer, not for helping you sooner. We charge a flat monthly fee instead, so you can call, email, or ask us to double-check a number without watching a clock. Every client also gets a mutual success plan, a short written agreement on what we'll deliver, when, and how often we'll talk, so you know what to expect starting month one. That combination, flat fees plus a documented plan, helped Berg Advisors earn recognition as a Woodard Top 50 Accounting Firm and an Intuit Firm of the Future. Delaware County has no shortage of accountants who file your return in April and disappear until next year. We'd rather be the firm you call in July because a wholesale client asked for net-30 terms, or in September because you're opening a second warehouse. More than 30 years of CPA experience, carried forward by the [team behind Berg Advisors](/about-us/meet-the-team), means we've usually seen your situation before, even if you haven't.
+Hourly billing rewards the accountant for taking longer, not for helping you sooner. We charge a flat monthly fee instead, so you can call, email, or ask us to double-check a number without watching a clock. Every client also gets a mutual success plan, a short written agreement on what we'll deliver, when, and how often we'll talk, so you know what to expect starting month one. More than 30 years of CPA experience, carried forward by the [team behind Berg Advisors](/about-us/meet-the-team), means we've usually seen your situation before, even if you haven't.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Recognized expertise you can trust
@@ -81,8 +81,6 @@ Recognition doesn't replace a track record, but it's a useful second opinion.
 - 30+ years of CPA experience, dating to Berg Advisors' founding in Newtown Square, Pennsylvania
 - Woodard Top 50 Client Accounting Services Award Firm, spotlighted in 2023
 - Canopy 2021 Innovation Award Finalist, recognizing how the firm uses technology to serve clients faster
-
-Andrew Berg walked through how the firm built that model on the Profit First Professionals podcast, Journey to Modern Accounting Firm, if you want the longer version.
 
 <!-- block: process-steps | variant: vertical -->
 ## How we partner with you from day one
@@ -103,13 +101,13 @@ Monthly or quarterly calls, depending on your plan, plus a note anytime somethin
 ## Frequently Asked Questions About Small Business Accounting, Bookkeeping, Tax, & Advisory
 
 **Q: Does Berg Advisors work with businesses outside Pennsylvania?**
-A: Yes. Berg Advisors is a virtual firm founded in Newtown Square, PA, but the team supports e-commerce sellers, property managers, and family offices across the country. Clients meet with their accountant by video or phone, and books are managed through cloud accounting software regardless of location.
+A: Yes. Berg Advisors is a virtual firm in Pennsylvania, but the team supports e-commerce sellers, property managers, and family offices across the country. Clients meet with their accountant by video or phone, and books are managed through cloud accounting software regardless of location.
 
 **Q: How does flat-fee pricing work instead of hourly billing?**
 A: Every client gets a set monthly fee covering their agreed services, so calling with a question never adds to the bill. The fee is set based on transaction volume, entity complexity, and services needed, and it's outlined in your mutual success plan before work begins.
 
 **Q: Do you work with Amazon and Shopify sellers specifically?**
-A: Yes. Multi-channel e-commerce is one of our three core niches. We reconcile revenue and inventory across Amazon, Shopify, eBay, Etsy, and Walmart, and CPA Andrew C. Berg advises sellers directly on multi-state sales tax nexus and accrual accounting as they scale.
+A: Yes. Multi-channel e-commerce is one of our three core niches. We reconcile revenue and inventory across Amazon, Shopify, eBay, Etsy, and Walmart, and we advise sellers on multi-state sales tax nexus and accrual accounting as they scale.
 
 **Q: What makes Berg Advisors different from a typical local CPA firm?**
 A: Flat monthly fees, a written mutual success plan for every client, and 30+ years of CPA experience, combined with recognition as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future. Most local firms bill hourly and only reach out at tax time.
@@ -117,7 +115,7 @@ A: Flat monthly fees, a written mutual success plan for every client, and 30+ ye
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business handshake professional consultation" -->
 ## Let's talk about your business
 
-Whether you're in Newtown Square or three time zones away, the conversation starts the same way: tell us what's going on with your business, and we'll tell you honestly whether we're the right fit. Schedule a consultation and find out what proactive accounting actually feels like.
+Tell us what's going on with your business, and we'll tell you honestly whether we're the right fit. Schedule a consultation and find out what proactive accounting actually feels like.
 
 [Schedule a consultation](/contact-us)
 
