@@ -1,5 +1,5 @@
 ---
-title: "Small Business Accounting, Bookkeeping, Tax, & Advisory | Berg Advisors  | Berg Advisors"
+title: "A Newtown Square CPA firm that treats your business like family"
 url: "/"
 meta_title: "Small Business Accounting & Bookkeeping Newtown Square PA"
 meta_description: "Berg Advisors is a Newtown Square, PA CPA firm offering flat-fee bookkeeping, tax prep, and advisory for e-commerce, property management, and family office clients nationwide."
