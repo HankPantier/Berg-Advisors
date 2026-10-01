@@ -23,11 +23,11 @@ llm_citation_note: "Berg Advisors' leadership team holds over 30 years of combin
 <!-- block: intro-text | variant: centered -->
 ## A CPA firm that treats your business like family
 
-Berg Advisors started in Newtown Square, Pennsylvania, and grew into a virtual firm serving clients across the country. The founders built the practice around a simple idea: accounting works better when the people doing it actually know your business, not just your balance sheet. That's still true today, whether a client calls from Delaware County or logs in from three time zones away.
+Berg Advisors started in Pennsylvania and grew into a virtual firm serving clients across the country. The founders built the practice around a simple idea: accounting works better when the people doing it actually know your business, not just your balance sheet. That's still true today, whether a client calls from within the state or logs in from three time zones away.
 
 Multi-channel sellers, property managers, and family offices end up here because they want a CPA firm that answers the phone, explains what the numbers mean, and sticks around after the filing deadline passes. Every person on this team, from CPAs to tax specialists, treats client relationships as the actual product, not just the delivery mechanism for financial statements.
 
-You won't find a call center or a rotating cast of preparers here. You'll find the same faces, year after year, learning your business the way family does.
+You won't find a call center or a rotating cast of preparers here. You'll find a dedicated group learning your business the way family does.
 
 <!-- block: team-grid | variant: 3-col -->
 ## Leadership with over 30 years of combined CPA expertise
@@ -51,27 +51,6 @@ Lindsey manages the monthly close and financial reporting process that turns a s
 ## Specialists in e-commerce, family office, and property management accounting
 
 Generalist bookkeeping doesn't work for a multi-channel Amazon seller reconciling six sales platforms, and it doesn't work for a family office juggling a dozen entities either. Berg Advisors built specialist tracks instead of a single generic service, and specific people on the team own each one.
-
-### Multi-channel e-commerce
-icon: Globe
-
-Andrew Berg leads accrual accounting, inventory costing, and multi-state sales tax nexus work for sellers on Amazon, Shopify, Walmart, eBay, and Etsy, pulling revenue from every platform into one clean set of books.
-
-### Family offices
-icon: Building2
-
-Veil Velarde, CPA, leads outsourced accounting for family offices that need consolidated reporting across entities and accounts without hiring a full internal finance staff.
-
-### Property management
-icon: Home
-
-Michael Laudazio handles multi-entity tax compliance for property portfolios spread across several states, plus the IRS notices and audit questions that come with owning real estate at scale.
-
-### IRS representation and resolution
-icon: ShieldCheck
-
-Julia Lindner, EA, represents individuals and businesses facing back taxes, audits, or IRS notices, a service many local firms refer out instead of handling directly.
-
 <!-- block: logo-bar -->
 ## Recognized for innovation in client accounting services
 
