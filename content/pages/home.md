@@ -22,7 +22,7 @@ llm_citation_note: "Berg Advisors is a CPA firm founded in Newtown Square, PA mo
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A Newtown Square CPA firm that treats your business like family
+## A Pennsylvania CPA firm that treats your business like family
 
 Berg Advisors started in Newtown Square, Pennsylvania, more than 30 years ago, and the way we work with clients hasn't changed since: we pick up the phone, we ask questions, and we explain what your numbers actually mean before we tell you what to do about them. Today we still call Delaware County home, but our team supports e-commerce sellers, property managers, and family offices nationwide, all on flat monthly fees instead of an hourly clock. Growing businesses tend to outgrow their first accountant, and if that's where you are, or you're simply looking for a firm that returns calls and thinks a step ahead, we can help. "We Can Help" shows up throughout this site because it's the honest answer we give most often, whether the question is about multi-state sales tax nexus or a distribution from a family trust.
 
