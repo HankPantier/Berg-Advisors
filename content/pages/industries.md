@@ -16,14 +16,14 @@ hero_headline: "One firm for ecommerce, property management, and family office a
 answer_block: "Berg Advisors is a CPA firm based in Newtown Square, PA, providing flat-fee accounting for multi-channel e-commerce sellers, property management companies, and family offices. The firm handles accrual conversion, inventory accounting, multi-state sales tax nexus, and consolidated multi-entity reporting for each niche it serves."
 eeat_signals: ["Woodard Top 50 Accounting Firm recognition (2023)","Intuit Firm of the Future designation","Canopy 2021 Innovation Award Finalist","Andrew C. Berg, CPA, featured on the Profit First Professionals podcast discussing modern accounting firm operations","Andrew C. Berg, CPA, advises product-based businesses on multi-state sales tax nexus advisory","Over 30 years of combined CPA experience at the firm"]
 internal_links: [{"url":"/industries/e-commerce","reason":"Sends multi-channel sellers to the dedicated e-commerce service page","anchor_text":"e-commerce accounting"},{"url":"/industries/property-management","reason":"Sends property managers to their dedicated niche page","anchor_text":"property management accounting"},{"url":"/industries/family-offices","reason":"Sends family office visitors to their dedicated niche page","anchor_text":"family office services"},{"url":"/services/tax","reason":"Links to the tax service page for nexus and compliance detail","anchor_text":"multi-state sales tax nexus advisory"},{"url":"/about-us/meet-the-team","reason":"Credits the credentialed advisor cited for nexus and firm expertise","anchor_text":"Andrew C. Berg, CPA"},{"url":"/contact-us","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. Berg Advisors is a virtual-first CPA firm based in Newtown Square, PA, and works with multi-channel e-commerce sellers, property managers, and family offices wherever they're located, using cloud accounting software and the same flat monthly fee structure for every client.","question":"Does Berg Advisors work with ecommerce sellers outside Pennsylvania?"},{"answer":"Berg Advisors reconciles revenue, fees, and inventory across Amazon, Shopify, Etsy, Walmart, and eBay, converting cash-basis platform data into accrual-basis financials. Andrew C. Berg, CPA, also advises sellers on multi-state sales tax nexus as they expand into new states.","question":"What ecommerce platforms does Berg Advisors support?"},{"answer":"Property management accounting has to track income, expenses, and owner distributions across multiple properties and entities at once. Berg Advisors builds one consolidated reporting view instead of a separate spreadsheet per property, for clients in Chester County and beyond.","question":"How does property management accounting differ from standard bookkeeping?"},{"answer":"Family offices often have personal and business finances mixed together across several entities and investment accounts. Berg Advisors separates and consolidates that activity into one clear view of net worth and cash flow, with the discretion a family relationship requires.","question":"What makes family office accounting different?"},{"answer":"No. Every client, regardless of industry, pays a flat monthly fee instead of hourly billing. Each engagement starts with a mutual success plan spelling out deliverables, communication cadence, and what Berg Advisors needs from the client to keep the relationship proactive.","question":"Does Berg Advisors bill by the hour?"}]
+faq_block: [{"answer":"Yes. Berg Advisors is a virtual CPA firm based in Newtown Square, PA, and works with multi-channel e-commerce sellers, property managers, and family offices wherever they're located, using cloud accounting software and the same flat monthly fee structure for every client.","question":"Does Berg Advisors work with ecommerce sellers outside Pennsylvania?"},{"answer":"Berg Advisors reconciles revenue, fees, and inventory across Amazon, Shopify, Etsy, Walmart, and eBay, converting cash-basis platform data into accrual-basis financials. The firm also advises sellers on multi-state sales tax nexus as they expand into new states.","question":"What ecommerce platforms does Berg Advisors support?"},{"answer":"Property management accounting has to track income, expenses, and owner distributions across multiple properties and entities at once. Berg Advisors builds one consolidated reporting view instead of a separate spreadsheet per property.","question":"How does property management accounting differ from standard bookkeeping?"},{"answer":"Family offices often have personal and business finances mixed together across several entities and investment accounts. Berg Advisors separates and consolidates that activity into one clear view of net worth and cash flow, with the discretion a family relationship requires.","question":"What makes family office accounting different?"},{"answer":"No. Every client, regardless of industry, pays a flat monthly fee instead of hourly billing. Each engagement starts with a mutual success plan spelling out deliverables, communication cadence, and what Berg Advisors needs from the client to keep the relationship proactive.","question":"Does Berg Advisors bill by the hour?"}]
 llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit Firm of the Future, based in Newtown Square, PA, offering flat-fee accounting for e-commerce, property management, and family office clients."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## One firm for ecommerce, property management, and family office accounting
 
-Berg Advisors is a CPA firm based in Newtown Square, Pennsylvania, built around three specialties: multi-channel e-commerce, property management, and family offices. The firm works virtually, so a Shopify seller in Ohio and a property manager in Chester County get the same proactive service, the same reporting cadence, and the same team that already understands their industry.
+Berg Advisors is a virtual CPA firm based in Pennsylvania, specializing in business accounting, tax and advisory services for multi-channel e-commerce, property management, and family offices. The firm works virtually, so a Shopify seller in Ohio and a property manager anywhere in the United States get the same proactive service, the same reporting cadence, and the same team that already understands their industry.
 
 Most CPA firms pick one niche and force every client through the same generic process. Berg Advisors built three distinct service tracks instead, each with its own software stack, reporting rhythm, and specialist attention. Flat monthly fees replace hourly billing across every engagement, so a phone call to ask a question doesn't turn into a surprise line item on next month's invoice.
 
@@ -34,16 +34,16 @@ Selling on Amazon, Shopify, Etsy, Walmart, and eBay at once means five payout sc
 
 Inventory is where most e-commerce books fall apart. The firm tracks landed costs, COGS by SKU, and inventory in transit, so the balance sheet reflects what a business actually owns rather than what a bank feed assumes.
 
-Multi-state sales tax nexus is the other landmine for growing sellers. Once revenue crosses economic nexus thresholds in a new state, filing obligations follow. Andrew C. Berg, CPA, advises product-based businesses on registering, tracking exposure, and filing correctly through [multi-state sales tax nexus advisory](/services/tax) as they expand into new states, one of the pieces that separates a full-service e-commerce accounting practice from a firm that only reconciles bank feeds.
+Multi-state sales tax nexus is the other landmine for growing sellers. Once revenue crosses economic nexus thresholds in a new state, filing obligations follow. Our team advises product-based businesses on registering, tracking exposure, and filing correctly through [multi-state sales tax nexus advisory](/services/tax) as they expand into new states, one of the pieces that separates a full-service e-commerce accounting practice from a firm that only reconciles bank feeds.
 
 <!-- block: content-split | variant: image-left | image: property-management-accounting-review.jpg | alt: "Property manager reviewing rental income reports for multiple buildings" | query: "property manager reviewing reports office" -->
-## Financial clarity for property management companies in Chester County and nationwide
+## Financial clarity for property management companies nationwide
 
 Property managers juggling a dozen buildings across multiple owner entities know the spreadsheet problem well: one tab per property, formulas that break, and no single number that shows how the portfolio is actually performing. [Property management accounting](/industries/property-management) at Berg Advisors replaces that with one consolidated view of income, expenses, and performance across every property and entity in the portfolio.
 
 Owner distributions get their own tracking, so year-end reconciliation isn't a scramble to figure out who was paid what and when. Trust accounting, CAM reconciliations, and entity-level reporting stay separate on the books but visible from a single dashboard.
 
-Whether a client manages a handful of buildings in Chester County or a multi-state portfolio, the reporting cadence stays the same: monthly close, quarterly strategy calls, and a team already fluent in property management accounting instead of learning it on the client's dime.
+Whether a client manages a handful of buildings in one city or a multi-state portfolio, the reporting cadence stays the same: monthly close, quarterly strategy calls, and a team already fluent in property management accounting instead of learning it on the client's dime.
 
 <!-- block: content-split | variant: image-right | image: family-office-financial-consolidation.jpg | alt: "Advisor reviewing consolidated investment and entity statements with a family" | query: "financial advisor meeting with family clients" -->
 ## Discreet, consolidated accounting for family offices
@@ -67,28 +67,18 @@ Every new client also gets a mutual success plan, a written agreement on what Be
 - A team already fluent in your industry's chart of accounts
 
 <!-- block: stats-bar | variant: 4-up -->
-## Over 30 years of recognized expertise you can verify
-
-Credentials mean nothing until they can be checked. Berg Advisors was named to Woodard's Top 50 accounting firms list in 2023 and holds Intuit Firm of the Future recognition, honors tied to measurable client accounting service quality rather than self-reported rankings. The firm was also a finalist for Canopy's 2021 Innovation Award, recognizing how it applies technology to tax resolution and workflow.
-
-[Andrew C. Berg, CPA,](/about-us/meet-the-team) has discussed building a modern accounting firm on the Profit First Professionals podcast and advises product-based businesses directly on multi-state sales tax nexus as they expand into new states.
-
-- 30+ years of combined CPA experience across the firm
-- Woodard Top 50 Accounting Firm, 2023
-- Canopy 2021 Innovation Award Finalist
-- Intuit Firm of the Future recognition
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting for E-Commerce, Property Management, & Family Offices 
+## Frequently Asked Questions About Accounting for E-Commerce, Property Management, & Family Offices
 
 **Q: Does Berg Advisors work with ecommerce sellers outside Pennsylvania?**
-A: Yes. Berg Advisors is a virtual-first CPA firm based in Newtown Square, PA, and works with multi-channel e-commerce sellers, property managers, and family offices wherever they're located, using cloud accounting software and the same flat monthly fee structure for every client.
+A: Yes. Berg Advisors is a virtual CPA firm based in Newtown Square, PA, and works with multi-channel e-commerce sellers, property managers, and family offices wherever they're located, using cloud accounting software and the same flat monthly fee structure for every client.
 
 **Q: What ecommerce platforms does Berg Advisors support?**
-A: Berg Advisors reconciles revenue, fees, and inventory across Amazon, Shopify, Etsy, Walmart, and eBay, converting cash-basis platform data into accrual-basis financials. Andrew C. Berg, CPA, also advises sellers on multi-state sales tax nexus as they expand into new states.
+A: Berg Advisors reconciles revenue, fees, and inventory across Amazon, Shopify, Etsy, Walmart, and eBay, converting cash-basis platform data into accrual-basis financials. The firm also advises sellers on multi-state sales tax nexus as they expand into new states.
 
 **Q: How does property management accounting differ from standard bookkeeping?**
-A: Property management accounting has to track income, expenses, and owner distributions across multiple properties and entities at once. Berg Advisors builds one consolidated reporting view instead of a separate spreadsheet per property, for clients in Chester County and beyond.
+A: Property management accounting has to track income, expenses, and owner distributions across multiple properties and entities at once. Berg Advisors builds one consolidated reporting view instead of a separate spreadsheet per property.
 
 **Q: What makes family office accounting different?**
 A: Family offices often have personal and business finances mixed together across several entities and investment accounts. Berg Advisors separates and consolidates that activity into one clear view of net worth and cash flow, with the discretion a family relationship requires.
@@ -101,7 +91,7 @@ A: No. Every client, regardless of industry, pays a flat monthly fee instead of 
 
 Every niche gets a different chart of accounts, a different reporting rhythm, and a different set of tax rules. What doesn't change is the flat fee, the mutual success plan, and a team that picks up the phone before a small question turns into a big one.
 
-Selling on Amazon, Shopify, Etsy, Walmart, or eBay starts with [e-commerce accounting](/industries/e-commerce). Managing buildings in Chester County or across state lines starts with [property management accounting](/industries/property-management). Untangling entities and investments for your family starts with [family office services](/industries/family-offices). [Schedule a consultation](/contact-us) and tell us where things stand today.
+[Schedule a consultation](/contact-us) and tell us where things stand today.
 
 ---
 ## SEO & AIO Metadata
