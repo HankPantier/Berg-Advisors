@@ -34,7 +34,7 @@ Most firms bill by the hour, so every phone call feels like it costs money. We w
 ### Accounting and Bookkeeping
 icon: Calculator
 
-Monthly accounting and bookkeeping and close, bank and credit card reconciliations, and accounts payable and receivable management, handled through our team.
+Monthly [accounting and bookkeeping](/services/accounting) and close, bank and credit card reconciliations, and accounts payable and receivable management, handled through our team.
 
 ### Business and Personal Income Tax
 icon: FileText
