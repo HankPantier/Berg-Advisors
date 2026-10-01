@@ -27,32 +27,40 @@ Berg Advisors is a virtual CPA firm based in Pennsylvania, specializing in busin
 
 Most CPA firms pick one niche and force every client through the same generic process. Berg Advisors built three distinct service tracks instead, each with its own software stack, reporting rhythm, and specialist attention. Flat monthly fees replace hourly billing across every engagement, so a phone call to ask a question doesn't turn into a surprise line item on next month's invoice.
 
-<!-- block: content-split | variant: image-right | image: ecommerce-multichannel-accounting.jpg | alt: "Ecommerce seller reviewing Amazon and Shopify sales dashboards on a laptop" | query: "ecommerce seller reviewing sales dashboard laptop" -->
-## Accounting built for multi-channel ecommerce sellers
+<!-- block: industry-cards | variant: 3-col -->
+## Accounting built for the way your industry works
 
-Selling on Amazon, Shopify, Etsy, Walmart, and eBay at once means five payout schedules, five fee structures, and five sets of reports that rarely agree with each other. [E-commerce accounting](/industries/e-commerce) at Berg Advisors consolidates that data into one accrual-basis set of books, so gross margin and true profitability show up correctly instead of getting buried in platform fees and reserve holds.
+Each niche gets its own reporting rhythm and specialist attention. Here is how we support the three industries we know best.
 
-Inventory is where most e-commerce books fall apart. The firm tracks landed costs, COGS by SKU, and inventory in transit, so the balance sheet reflects what a business actually owns rather than what a bank feed assumes.
+### Multi-channel e-commerce
 
-Multi-state sales tax nexus is the other landmine for growing sellers. Once revenue crosses economic nexus thresholds in a new state, filing obligations follow. Our team advises product-based businesses on registering, tracking exposure, and filing correctly through [multi-state sales tax nexus advisory](/services/tax) as they expand into new states, one of the pieces that separates a full-service e-commerce accounting practice from a firm that only reconciles bank feeds.
+Selling on Amazon, Shopify, Etsy, Walmart, and eBay at once means five payout schedules and five fee structures that rarely agree.
 
-<!-- block: content-split | variant: image-left | image: property-management-accounting-review.jpg | alt: "Property manager reviewing rental income reports for multiple buildings" | query: "property manager reviewing reports office" -->
-## Financial clarity for property management companies nationwide
+- One accrual-basis set of books, so gross margin and true profitability show up correctly
+- Landed costs, COGS by SKU, and inventory in transit tracked on the balance sheet
+- [Multi-state sales tax nexus advisory](/services/tax) as you expand into new states
 
-Property managers juggling a dozen buildings across multiple owner entities know the spreadsheet problem well: one tab per property, formulas that break, and no single number that shows how the portfolio is actually performing. [Property management accounting](/industries/property-management) at Berg Advisors replaces that with one consolidated view of income, expenses, and performance across every property and entity in the portfolio.
+[E-commerce accounting](/industries/e-commerce)
 
-Owner distributions get their own tracking, so year-end reconciliation isn't a scramble to figure out who was paid what and when. Trust accounting, CAM reconciliations, and entity-level reporting stay separate on the books but visible from a single dashboard.
+### Property management
 
-Whether a client manages a handful of buildings in one city or a multi-state portfolio, the reporting cadence stays the same: monthly close, quarterly strategy calls, and a team already fluent in property management accounting instead of learning it on the client's dime.
+One tab per property and formulas that break leave no single number for how the portfolio is performing.
 
-<!-- block: content-split | variant: image-right | image: family-office-financial-consolidation.jpg | alt: "Advisor reviewing consolidated investment and entity statements with a family" | query: "financial advisor meeting with family clients" -->
-## Discreet, consolidated accounting for family offices
+- One consolidated view of income, expenses, and performance across every property and entity
+- Owner distributions tracked so year-end reconciliation isn't a scramble
+- Trust accounting, CAM reconciliations, and entity-level reporting visible from a single dashboard
 
-Family offices carry a specific kind of complexity: personal expenses and business entities that have blurred together over years, multiple investment accounts, and a family that wants one clear answer instead of twelve spreadsheets. [Family office services](/industries/family-offices) at Berg Advisors start by untangling that commingling, separating personal transactions from business activity across every entity in the structure.
+[Property management accounting](/industries/property-management)
 
-From there, the firm builds one consolidated view of entities, accounts, and investments, so the family and its outside advisors can see net worth, cash flow, and entity-level performance without requesting five different reports. Access to CPA-level financial expertise means the family isn't staffing an internal accounting department or piecing together information from a bookkeeper who only sees one entity.
+### Family offices
 
-The relationship matters as much as the reporting here. Family offices want an advisor who remembers the story behind the structure, not just the numbers inside it. That's the same relationship-first standard Berg Advisors applies to every client.
+Personal expenses, business entities, and multiple investment accounts blur together over the years.
+
+- Personal and business transactions separated across every entity in the structure
+- One consolidated view of net worth, cash flow, and entity-level performance
+- CPA-level expertise and an advisor who remembers the story behind the structure
+
+[Family office services](/industries/family-offices)
 
 <!-- block: checklist-section | variant: with-image | image: flat-fee-accounting-meeting.jpg | alt: "CPA and client reviewing a flat fee service agreement together" | query: "advisor client reviewing agreement document" -->
 ## Flat monthly fees and proactive communication instead of billable hours
