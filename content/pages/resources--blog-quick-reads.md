@@ -175,7 +175,6 @@ Berg Advisors is a Woodard Top 50 Client Accounting Services firm (2023) and Can
   "@type": "Organization",
   "name": "Berg Advisors",
   "url": "https://www.bergpartners.com",
-  "logo": "https://www.bergpartners.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/in/abergcpa",
     "https://maps.google.com/?cid=3626048098033685878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
