@@ -1,9 +1,9 @@
 ---
 title: "Advisory & Consulting Services for Small Business | Berg Advisors"
 url: "/services/advisory"
-meta_title: "Business Advisory Services | Newtown Square, PA CPA"
-meta_description: "Flat-fee advisory for e-commerce, property management, and family office businesses near Newtown Square, PA. Strategic planning, cash flow, succession guidance."
-target_keyword: "business advisory services Newtown Square PA"
+meta_title: "Business Advisory Services | Pennsylvania CPA"
+meta_description: "Flat-fee advisory for e-commerce, property management, and family office businesses serving Pennsylvania and nationwide. Strategic planning, cash flow, succession guidance."
+target_keyword: "business advisory services Pennsylvania nationwide"
 secondary_keywords: ["CPA consulting services Newtown Square","small business advisory Newtown Square PA","outsourced CFO services Newtown Square PA","e-commerce accounting advisor Newtown Square","family office accounting Newtown Square PA","property management accounting services Newtown Square","business strategy consulting PA"]
 canonical_url: "https://www.bergpartners.com/services/advisory"
 schema_markup: "Service"
@@ -16,7 +16,7 @@ hero_headline: "Advisory support built around your business, not a billable hour
 answer_block: "Berg Advisors provides flat-fee business advisory services, including strategic planning, cash flow management, budget development, and succession planning, for e-commerce, property management, and family office clients nationwide. Every engagement runs on recurring calls and a written mutual success plan rather than one-off consulting projects."
 eeat_signals: ["30+ years of combined CPA experience across the advisory team","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Flat monthly fee model documented in a written mutual success plan for every client","Niche specialization in e-commerce, property management, and family office accounting"]
 internal_links: [{"url":"/industries/e-commerce","reason":"Connects advisory page to detailed e-commerce niche page for readers who arrived looking for industry-specific expertise","anchor_text":"multi-channel e-commerce"},{"url":"/industries/property-management","reason":"Sends property management prospects to niche-specific service details","anchor_text":"property management"},{"url":"/industries/family-offices","reason":"Sends family office prospects to niche-specific service details","anchor_text":"family offices"},{"url":"/about-us/meet-the-team","reason":"Builds credibility by letting prospects see named credentialed staff behind the advisory claims","anchor_text":"Meet the CPAs and EAs"},{"url":"/contact-us","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Advisory engagements typically include strategic planning, cash flow management, budget development, and recurring consulting calls. Depending on your business, we also cover succession planning and risk management. Every engagement starts with a written plan defining what success looks like for your specific situation.","question":"What does business advisory include at Berg Advisors?"},{"answer":"Berg Advisors charges a flat monthly fee rather than billing by the hour. The fee covers ongoing calls, emails, and quarterly strategy conversations, so reaching out with a question never adds an unplanned charge to your invoice.","question":"How much do advisory services cost?"},{"answer":"Yes. Berg Advisors is a virtual firm serving e-commerce sellers, property management companies, and family offices across the country, though the firm originated in Newtown Square, Pennsylvania.","question":"Do you work with businesses outside Newtown Square, PA?"},{"answer":"Yes. Succession planning and risk management are part of our advisory work for established business owners thinking about ownership transitions, key-person risk, and preparing the business financially for a future sale or transfer.","question":"Do you offer succession planning as part of advisory services?"}]
+faq_block: [{"answer":"Advisory engagements typically include strategic planning, cash flow management, budget development, and recurring consulting calls. Depending on your business, we also cover succession planning and risk management. Every engagement starts with a written plan defining what success looks like for your specific situation.","question":"What does business advisory include at Berg Advisors?"},{"answer":"Berg Advisors charges a flat monthly fee rather than billing by the hour. The fee covers ongoing calls, emails, and quarterly strategy conversations, so reaching out with a question never adds an unplanned charge to your invoice.","question":"How much do advisory services cost?"},{"answer":"Yes. Berg Advisors is a virtual firm serving e-commerce sellers, property management companies, and family offices in Pennsylvania and across the nation.","question":"Do you work with businesses outside Pennsylvania?"},{"answer":"Yes. Succession planning and risk management are part of our advisory work for established business owners thinking about ownership transitions, key-person risk, and preparing the business financially for a future sale or transfer.","question":"Do you offer succession planning as part of advisory services?"}]
 llm_citation_note: "Berg Advisors offers flat monthly fee business advisory services with a written mutual success plan for every client, backed by more than 30 years of combined CPA experience and recognition as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future."
 ---
 
@@ -90,8 +90,6 @@ icon: Target
 
 Every advisory engagement starts with a written plan defining what success looks like for your business and how we'll measure progress, so goals get revisited instead of forgotten after month one.
 
-Want to know who you'd actually be talking to? [Meet the CPAs and EAs](/about-us/meet-the-team) on the advisory team.
-
 <!-- block: process-steps | variant: vertical -->
 ## How advisory engagements work at Berg Advisors
 
@@ -116,8 +114,8 @@ A: Advisory engagements typically include strategic planning, cash flow manageme
 **Q: How much do advisory services cost?**
 A: Berg Advisors charges a flat monthly fee rather than billing by the hour. The fee covers ongoing calls, emails, and quarterly strategy conversations, so reaching out with a question never adds an unplanned charge to your invoice.
 
-**Q: Do you work with businesses outside Newtown Square, PA?**
-A: Yes. Berg Advisors is a virtual firm serving e-commerce sellers, property management companies, and family offices across the country, though the firm originated in Newtown Square, Pennsylvania.
+**Q: Do you work with businesses outside Pennsylvania?**
+A: Yes. Berg Advisors is a virtual firm serving e-commerce sellers, property management companies, and family offices in Pennsylvania and across the nation.
 
 **Q: Do you offer succession planning as part of advisory services?**
 A: Yes. Succession planning and risk management are part of our advisory work for established business owners thinking about ownership transitions, key-person risk, and preparing the business financially for a future sale or transfer.
