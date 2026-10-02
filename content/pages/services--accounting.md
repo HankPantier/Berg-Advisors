@@ -1,9 +1,9 @@
 ---
 title: "Accounting Services for Small Business | Berg Advisors | Berg Advisors"
 url: "/services/accounting"
-meta_title: "Small Business Accounting Services | Newtown Square, PA"
-meta_description: "Flat-fee accounting services for small business owners in Newtown Square, PA. Bookkeeping, tax prep, and advisory from CPAs with 30+ years combined experience."
-target_keyword: "accounting services for small business Newtown Square PA"
+meta_title: "Small Business Accounting Services | Pennsylvania"
+meta_description: "Flat-fee accounting services for small business owners in Pennsylvania and nationwide. Bookkeeping, tax prep, and advisory from CPAs with 30+ years combined experience."
+target_keyword: "accounting services for small business Pennsylvania nationwide"
 secondary_keywords: ["small business accountant Newtown Square PA","outsourced accounting services Newtown Square","bookkeeping services small business PA","business tax preparation Newtown Square PA","CPA for small business Newtown Square","e-commerce accounting Newtown Square PA","property management accounting services PA","family office accounting Newtown Square","business advisory services PA","virtual accounting services Newtown Square"]
 canonical_url: "https://www.bergpartners.com/services/accounting"
 schema_markup: "Service"
@@ -13,10 +13,10 @@ hero_image: "small-business-accounting-meeting.jpg"
 hero_image_alt: "Accountant reviewing financial reports with a small business owner at a desk"
 hero_subhead: "Flat-fee bookkeeping, tax, and advisory for small businesses, delivered by CPAs who actually pick up the phone"
 hero_headline: "A small business accountant who treats you like family"
-answer_block: "Berg Advisors provides outsourced bookkeeping, business and personal tax preparation, and advisory services for small businesses in Newtown Square, PA and nationwide, billed on a flat monthly fee instead of by the hour. The firm specializes in e-commerce, property management, and family office accounting alongside general small business support."
-eeat_signals: ["Over 30 years of combined CPA experience across the Berg Advisors team","Woodard Top 50 Client Accounting Services Award firm (2023)","Intuit Firm of the Future recognition","Andrew C. Berg, CPA on staff","Julia Lindner, EA, available for IRS representation and tax resolution","Fixed monthly fee model documented in firm's service structure"]
+answer_block: "Berg Advisors provides outsourced bookkeeping, business and personal tax preparation, and advisory services for small businesses in Pennsylvania and nationwide, billed on a flat monthly fee instead of by the hour. The firm specializes in e-commerce, property management, and family office accounting alongside general small business support."
+eeat_signals: ["Over 30 years of combined CPA experience across the Berg Advisors team","Woodard Top 50 Client Accounting Services Award firm (2023)","Intuit Firm of the Future recognition","Available for IRS representation and tax resolution","Fixed monthly fee model documented in firm's service structure"]
 internal_links: [{"url":"/industries/e-commerce","reason":"Deep links to niche industry page for e-commerce sellers researching specialized accounting","anchor_text":"See our e-commerce accounting services"},{"url":"/industries/property-management","reason":"Supports property management searchers looking for multi-entity accounting","anchor_text":"See our property management accounting services"},{"url":"/industries/family-offices","reason":"Routes family office visitors to dedicated niche page","anchor_text":"See our family office accounting services"},{"url":"/services/tax","reason":"Connects to detailed tax service page for prospects focused on tax prep","anchor_text":"business tax preparation"},{"url":"/services/advisory","reason":"Points readers researching strategic advisory to the dedicated page","anchor_text":"advisory and consulting services"},{"url":"/about-us/meet-the-team","reason":"Builds credibility by linking named CPAs to full team bios","anchor_text":"Andrew C. Berg, Joshua Beaugrand, and Lindsey Coburn"},{"url":"/contact-us","reason":"Primary page CTA driving conversions to the contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Berg Advisors uses flat monthly fees instead of hourly billing, so costs depend on your business's size, transaction volume, and which services you need. A consultation gets you a specific quote before any work starts, with no hourly clock running.","question":"How much do accounting services cost for a small business at Berg Advisors?"},{"answer":"Yes. Berg Advisors is a virtual firm serving clients across the country, though the firm originated in Newtown Square, Pennsylvania. Bookkeeping, tax, and advisory services are delivered remotely with the same proactive communication regardless of location.","question":"Does Berg Advisors serve businesses outside Newtown Square, PA?"},{"answer":"Berg Advisors focuses on multi-channel e-commerce sellers, property management companies, and family offices, in addition to general small business accounting. This includes multi-state sales tax nexus, inventory accrual accounting, and multi-entity consolidated reporting.","question":"What industries does Berg Advisors specialize in?"},{"answer":"Yes. The team offers catch-up bookkeeping, audit protection, and IRS representation through Enrolled Agent Julia Lindner. A consultation identifies exactly what's outstanding and what it will take to get current.","question":"Can Berg Advisors help if I'm behind on bookkeeping or facing an IRS notice?"}]
+faq_block: [{"answer":"Berg Advisors uses flat monthly fees instead of hourly billing, so costs depend on your business's size, transaction volume, and which services you need. A consultation gets you a specific quote before any work starts, with no hourly clock running.","question":"How much do accounting services cost for a small business at Berg Advisors?"},{"answer":"Yes. Berg Advisors is a virtual firm serving clients across the United States. Bookkeeping, tax, and advisory services are delivered remotely with the same proactive communication regardless of location.","question":"Does Berg Advisors serve businesses outside Pennsylvania?"},{"answer":"Berg Advisors focuses on multi-channel e-commerce sellers, property management companies, and family offices, in addition to general small business accounting. This includes multi-state sales tax nexus, inventory accrual accounting, and multi-entity consolidated reporting.","question":"What industries does Berg Advisors specialize in?"},{"answer":"Yes. The team offers catch-up bookkeeping, audit protection, and IRS representation. A consultation identifies exactly what's outstanding and what it will take to get current.","question":"Can Berg Advisors help if I'm behind on bookkeeping or facing an IRS notice?"}]
 llm_citation_note: "Berg Advisors charges flat monthly fees rather than hourly billing and has been recognized as a Woodard Top 50 Client Accounting Services Award firm and Intuit Firm of the Future, with specialization in e-commerce, property management, and family office accounting."
 ---
 
@@ -25,14 +25,14 @@ llm_citation_note: "Berg Advisors charges flat monthly fees rather than hourly b
 <!-- block: intro-text | variant: centered -->
 ## A small business accountant who treats you like family
 
-Newtown Square has no shortage of accounting firms, and most of them still bill by the hour and treat you like a file number that shows up every April. Berg Advisors works differently. We're a virtual CPA firm serving clients across Pennsylvania and the country, but we operate the way a good local accountant always has: get to know your business, communicate before you have to chase us down, and charge a flat monthly fee so an invoice never surprises you. Whether you run a multi-channel e-commerce brand, manage a portfolio of rental properties, or oversee a family office with accounts scattered across entities, you get a team that treats your business like part of the family, not a ticket in a queue.
+Berg Advisors is a virtual CPA firm serving clients across Pennsylvania and nationwide. Our team prioritizes getting to know your business, communicating before you have to chase us down, and charging a flat monthly fee so an invoice never surprises you. Whether you run a multi-channel e-commerce brand, manage a portfolio of rental properties, or oversee a family office with accounts scattered across entities, you get a team that treats your business like part of the family.
 
 <!-- block: content-split | variant: image-right | image: bookkeeper-monthly-close.jpg | alt: "Accountant reconciling bank statements and financial reports on a laptop" | query: "accountant reviewing financial reports laptop" -->
 ## Outsourced accounting and bookkeeping built around your business
 
-Bookkeeping is the foundation everything else sits on, and it's usually the first thing that slips when you're busy running the business. Our outsourced accounting and bookkeeping services cover the monthly close, bank and credit card reconciliations, accounts payable and receivable management, and financial reporting that tells you something you can actually use. Instead of scrambling to reconcile a dozen accounts before tax season, you get clean books delivered every month, with a CPA available to explain what the numbers mean for your next move.
+Bookkeeping is the foundation everything else sits on, and it's usually the first thing that slips when you're busy running the business. Our outsourced accounting and bookkeeping services cover the monthly close, bank and credit card reconciliations, accounts payable and receivable management, and financial reporting that tells you something you can actually use. Instead of scrambling to reconcile a dozen accounts before tax season, you get clean books delivered every month, with a team available to explain what the numbers mean for your next move.
 
-Every engagement runs on a flat monthly fee, so a busy month never turns into a surprise bill. At the start of the relationship, we build a mutual success plan with you, so the reporting you receive matches how you actually run your business instead of a generic template pulled off a shelf. Small business owners across Delaware County and Chester County hire Berg Advisors to take the books off their plate entirely.
+Every engagement runs on a flat monthly fee, so a busy month never turns into a surprise bill. At the start of the relationship, we build a mutual success plan with you, so the reporting you receive matches how you run your business. Small business owners in Pennsylvania and across the nation hire Berg Advisors to take the books off their plate entirely.
 
 <!-- block: checklist-section | variant: with-image-left | image: tax-planning-meeting.jpg | alt: "CPA and small business owner reviewing tax documents together" | query: "tax planning meeting small business owner" -->
 ## Business and personal tax preparation and planning
@@ -94,13 +94,6 @@ icon: Target
 Whether you're planning an exit in two years or twenty, the financial groundwork has to start now. We help you get the entity structure and reporting in shape before a buyer or successor ever asks to see it.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Why businesses and family offices choose Berg Advisors
-
-Berg Advisors has been recognized as a Woodard Top 50 Client Accounting Services Award firm and named an Intuit Firm of the Future, honors that reflect how the firm runs, not just how it files returns. The team includes CPAs like Andrew C. Berg, Joshua Beaugrand, and Lindsey Coburn, alongside Enrolled Agent Julia Lindner for IRS representation matters, giving clients access to more than 30 years of combined CPA experience without paying hourly rates for it.
-
-- 30+ years combined CPA experience across the team
-- Woodard Top 50 Client Accounting Services Award firm (2023)
-- Fixed monthly fees, no hourly billing surprises
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting Services for Small Business
@@ -108,19 +101,19 @@ Berg Advisors has been recognized as a Woodard Top 50 Client Accounting Services
 **Q: How much do accounting services cost for a small business at Berg Advisors?**
 A: Berg Advisors uses flat monthly fees instead of hourly billing, so costs depend on your business's size, transaction volume, and which services you need. A consultation gets you a specific quote before any work starts, with no hourly clock running.
 
-**Q: Does Berg Advisors serve businesses outside Newtown Square, PA?**
-A: Yes. Berg Advisors is a virtual firm serving clients across the country, though the firm originated in Newtown Square, Pennsylvania. Bookkeeping, tax, and advisory services are delivered remotely with the same proactive communication regardless of location.
+**Q: Does Berg Advisors serve businesses outside Pennsylvania?**
+A: Yes. Berg Advisors is a virtual firm serving clients across the United States. Bookkeeping, tax, and advisory services are delivered remotely with the same proactive communication regardless of location.
 
 **Q: What industries does Berg Advisors specialize in?**
 A: Berg Advisors focuses on multi-channel e-commerce sellers, property management companies, and family offices, in addition to general small business accounting. This includes multi-state sales tax nexus, inventory accrual accounting, and multi-entity consolidated reporting.
 
 **Q: Can Berg Advisors help if I'm behind on bookkeeping or facing an IRS notice?**
-A: Yes. The team offers catch-up bookkeeping, audit protection, and IRS representation through Enrolled Agent Julia Lindner. A consultation identifies exactly what's outstanding and what it will take to get current.
+A: Yes. The team offers catch-up bookkeeping, audit protection, and IRS representation. A consultation identifies exactly what's outstanding and what it will take to get current.
 
 <!-- block: cta-banner | variant: image-bg | image: accountant-handshake-consultation.jpg | alt: "CPA shaking hands with a small business owner during a consultation" | query: "accountant client handshake consultation" -->
 ## Get started with a Berg Advisors accountant today
 
-Switching accountants feels like a hassle right up until you talk to one who actually returns calls. If your books are behind, your tax bill keeps surprising you, or you've outgrown whatever spreadsheet system got you this far, we can help sort out what's actually going on and what it costs to fix it. No hourly clock starts the moment you call.
+Switching accountants feels like a hassle right up until you talk to one who actually returns calls. If your books are behind, your tax bill keeps surprising you, or you've outgrown whatever spreadsheet system got you this far, we can help sort out what's going on and what it costs to fix it.
 
 [Schedule a consultation](/contact-us)
 
