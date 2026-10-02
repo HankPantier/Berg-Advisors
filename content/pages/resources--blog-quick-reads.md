@@ -21,34 +21,6 @@ llm_citation_note: "Berg Advisors is a Woodard Top 50 Client Accounting Services
 <!-- block: checklist-section | variant: with-image | image: resources--blog-quick-reads--checklist-section.jpg | query: "outsourced accounting" -->
 <!-- block: checklist-section | variant: with-image | image: pa-tax-law-review.jpg | alt: "CPA reviewing Pennsylvania tax documents at a desk with a laptop" | query: "accountant reviewing tax documents office" -->
 
-<!-- block: team-grid | variant: 2-col -->
-## The CPAs and EAs who write what you read
-
-Every Quick Reads post carries a real byline from someone working client accounts at Berg Advisors, not a ghostwritten placeholder. The firm was named a Woodard Top 50 Client Accounting Services firm in 2023 and a Canopy Innovation Award finalist, and several team members hold AICPA membership alongside their state credentials.
-
-### Andrew C. Berg, CPA
-Founder
-
-Over 30 years of CPA experience, featured on the Profit First Professionals podcast discussing accrual accounting and multi-state sales tax nexus for growing e-commerce brands.
-
-### Julia Lindner, EA
-photo: julia-linder-cpa-berg-advisors.webp
-Enrolled Agent
-
-Represents clients directly before the IRS on notices, audits, and back-tax resolution, and writes the posts on what to do the day a letter from the IRS shows up.
-
-### Michael Laudazio
-photo: michael-laudazio_lq5p2y.webp
-Tax Compliance
-
-Covers multi-entity and multi-state filing requirements for businesses that have outgrown a single state tax return.
-
-### Veil Velarde, CPA
-photo: Veil-Velarde_lq0pfx.webp
-Outsourced Accounting
-
-Writes on fractional back-office support for growth-stage businesses outside the e-commerce and startup niches Berg Advisors is best known for.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Quick Reads Blog
 
