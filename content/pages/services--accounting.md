@@ -25,7 +25,7 @@ llm_citation_note: "Berg Advisors charges flat monthly fees rather than hourly b
 <!-- block: intro-text | variant: centered -->
 ## A small business accountant who treats you like family
 
-Newtown Square has no shortage of accounting firms, and most of them still bill by the hour and treat you like a file number that shows up every April. Berg Advisors works differently. We're a virtual CPA firm serving clients across Pennsylvania and the country, but we operate the way a good local accountant always has: get to know your business, communicate before you have to chase us down, and charge a flat monthly fee so an invoice never surprises you. Whether you run a multi-channel e-commerce brand, manage a portfolio of rental properties, or oversee a family office with accounts scattered across entities, you get a team that treats your business like part of the family, not a ticket in a queue.
+Berg Advisors is a virtual CPA firm serving clients across Pennsylvania and nationwide. Our team prioritizes getting to know your business, communicating before you have to chase us down, and charging a flat monthly fee so an invoice never surprises you. Whether you run a multi-channel e-commerce brand, manage a portfolio of rental properties, or oversee a family office with accounts scattered across entities, you get a team that treats your business like part of the family.
 
 <!-- block: content-split | variant: image-right | image: bookkeeper-monthly-close.jpg | alt: "Accountant reconciling bank statements and financial reports on a laptop" | query: "accountant reviewing financial reports laptop" -->
 ## Outsourced accounting and bookkeeping built around your business
