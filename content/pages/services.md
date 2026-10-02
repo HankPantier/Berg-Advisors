@@ -28,7 +28,7 @@ Most businesses end up juggling three or four separate vendors: a bookkeeper, a 
 Berg Advisors is a virtual CPA firm from Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Our team is proactive, plain-spoken, and our services are billed at a flat monthly rate. The three service pillars below, outsourced accounting, tax, and advisory, are built to work together, not as separate line items you have to coordinate yourself.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-monthly-close-review.jpg | alt: "Accountant reviewing bank reconciliation reports on a laptop screen" | query: "bookkeeper reviewing financial reports laptop" -->
-## Outsourced accounting and bookkeeping that keeps your books close-ready
+## Accounting and bookkeeping that keeps your books close-ready
 
 Bookkeeping should do more than produce a report you file away. Our monthly close covers bank and credit card reconciliations, accounts payable and receivable management, and financial reporting built to hold up when a bank, investor, or buyer asks for GAAP-compliant numbers.
 
