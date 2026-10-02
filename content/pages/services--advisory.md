@@ -1,9 +1,9 @@
 ---
 title: "Advisory & Consulting Services for Small Business | Berg Advisors"
 url: "/services/advisory"
-meta_title: "Business Advisory Services | Newtown Square, PA CPA"
-meta_description: "Flat-fee advisory for e-commerce, property management, and family office businesses near Newtown Square, PA. Strategic planning, cash flow, succession guidance."
-target_keyword: "business advisory services Newtown Square PA"
+meta_title: "Business Advisory Services | Pennsylvania CPA"
+meta_description: "Flat-fee advisory for e-commerce, property management, and family office businesses serving Pennsylvania and nationwide. Strategic planning, cash flow, succession guidance."
+target_keyword: "business advisory services Pennsylvania nationwide"
 secondary_keywords: ["CPA consulting services Newtown Square","small business advisory Newtown Square PA","outsourced CFO services Newtown Square PA","e-commerce accounting advisor Newtown Square","family office accounting Newtown Square PA","property management accounting services Newtown Square","business strategy consulting PA"]
 canonical_url: "https://www.bergpartners.com/services/advisory"
 schema_markup: "Service"
