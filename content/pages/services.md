@@ -32,7 +32,7 @@ Berg Advisors is a virtual CPA firm from Pennsylvania, serving e-commerce seller
 
 Bookkeeping should do more than produce a report you file away. Our monthly close covers bank and credit card reconciliations, accounts payable and receivable management, and financial reporting built to hold up when a bank, investor, or buyer asks for GAAP-compliant numbers.
 
-For growing businesses moving off cash-basis accounting, that shift matters. Andrew Berg, CPA, works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
+For growing businesses moving off cash-basis accounting, that shift matters. Berg Advisors works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
 
 Every engagement includes quarterly advisory calls, not just a monthly PDF. We flag the receivable balance creeping up, the margin that slipped a point, or the vendor payment about to land right before a tax deadline, before you have to ask.
 
