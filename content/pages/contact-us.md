@@ -101,7 +101,6 @@ Berg Advisors is a virtual CPA firm headquartered in Newtown Square, PA, with 30
   "@type": "Organization",
   "name": "Berg Advisors",
   "url": "https://www.bergpartners.com",
-  "logo": "https://www.bergpartners.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/in/abergcpa",
     "https://maps.google.com/?cid=3626048098033685878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
