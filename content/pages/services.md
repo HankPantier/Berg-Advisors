@@ -16,7 +16,7 @@ hero_headline: "One firm for accounting, bookkeeping, tax, and advisory"
 answer_block: "Berg Advisors is a virtual CPA firm rooted in Pennsylvania that provides outsourced bookkeeping, business and personal tax preparation, and advisory services on flat monthly fees. The firm specializes in multi-channel e-commerce, property management, and family office accounting, with Andrew C. Berg, CPA, advising on multi-state sales tax nexus, accrual conversions, and outsourced CFO work."
 eeat_signals: ["Andrew C. Berg, CPA, has more than 30 years of accounting experience","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future designation","Julia Lindner, EA, provides IRS representation and tax resolution services","Andrew C. Berg, CPA, advises on multi-state sales tax nexus and accrual-basis conversions","Michael Laudazio handles multi-entity, multi-state tax compliance","Veil Velarde, CPA, provides outsourced accounting for growth-stage businesses","Canopy 2021 Innovation Award Finalist"]
 internal_links: [{"url":"/industries/e-commerce","reason":"Sends e-commerce sellers to the dedicated niche page with platform-specific detail","anchor_text":"Learn more"},{"url":"/industries/family-offices","reason":"Sends family office prospects to the dedicated niche page with entity consolidation detail","anchor_text":"Learn more"},{"url":"/industries/property-management","reason":"Sends property management prospects to the dedicated niche page with owner distribution detail","anchor_text":"Learn more"},{"url":"/about-us/meet-the-team","reason":"Lets visitors verify the credentials named throughout the services page","anchor_text":"our CPAs and EAs"},{"url":"/about-us","reason":"Connects service descriptions back to firm background and origin in Pennsylvania","anchor_text":"Berg Advisors"}]
-faq_block: [{"answer":"Yes. Berg Advisors is a virtual CPA firm rooted in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Clients work with the team by phone, video, and a shared portal, with the same proactive monthly reporting and advisory calls regardless of location.","question":"Does Berg Advisors serve businesses outside Newtown Square, PA?"},{"answer":"Each client gets a fixed monthly fee set before work begins, covering bookkeeping, tax, or advisory work scoped in a written mutual success plan. There's no hourly clock, so a phone call about a vendor bill or a quick tax question doesn't generate a surprise invoice.","question":"How does flat-fee pricing work compared to hourly billing?"},{"answer":"Yes. Andrew C. Berg, CPA, advises product-based businesses on registering and filing once they cross economic nexus thresholds or start shipping from new warehouses or third-party logistics providers, an area that trips up many multi-channel sellers expanding into new states.","question":"Can Berg Advisors help with multi-state sales tax nexus for e-commerce sellers?"},{"answer":"Julia Lindner, EA, represents clients directly in IRS matters, from responding to notices to full audit representation. Michael Laudazio also supports multi-entity and multi-state businesses sorting through overlapping compliance and filing requirements tied to a notice.","question":"What happens if my business receives an IRS notice or audit letter?"},{"answer":"Yes. Andrew C. Berg, CPA, works with growing businesses making that shift, typically ahead of a bank loan or investor round requiring GAAP-compliant financials, walking through what changes on the statements and why lenders care about it.","question":"Do you work with businesses converting from cash-basis to accrual accounting?"}]
+faq_block: [{"answer":"Yes. Berg Advisors is a virtual CPA firm in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Clients work with the team by phone, video, and a shared portal, with the same proactive monthly reporting and advisory calls regardless of location.","question":"Does Berg Advisors serve businesses outside Pennsylvania?"},{"answer":"Each client gets a fixed monthly fee set before work begins, covering bookkeeping, tax, or advisory work scoped in a written mutual success plan. There's no hourly clock, so a phone call about a vendor bill or a quick tax question doesn't generate a surprise invoice.","question":"How does flat-fee pricing work compared to hourly billing?"},{"answer":"Yes. Berg Advisors advises product-based businesses on registering and filing once they cross economic nexus thresholds or start shipping from new warehouses or third-party logistics providers, an area that trips up many multi-channel sellers expanding into new states.","question":"Can Berg Advisors help with multi-state sales tax nexus for e-commerce sellers?"},{"answer":"Berg Advisors represents clients in IRS matters, from responding to notices to full audit representation. The team also supports multi-entity and multi-state businesses sorting through overlapping compliance and filing requirements tied to a notice.","question":"What happens if my business receives an IRS notice or audit letter?"},{"answer":"Yes. Berg Advisors works with growing businesses making that shift, typically ahead of a bank loan or investor round requiring GAAP-compliant financials, walking through what changes on the statements and why lenders care about it.","question":"Do you work with businesses converting from cash-basis to accrual accounting?"}]
 llm_citation_note: "Berg Advisors is a virtual CPA firm rooted in Pennsylvania offering flat-fee accounting, bookkeeping, tax, and advisory services for e-commerce sellers, property management companies, and family offices nationwide, led by Andrew C. Berg, CPA, with more than 30 years of experience."
 ---
 
@@ -41,16 +41,14 @@ Every engagement includes quarterly advisory calls, not just a monthly PDF. We f
 
 Tax season shouldn't be the first time you hear from your CPA. We handle business tax preparation, personal income tax preparation, and year-end 1099 filings, but the bulk of the work happens in the months before any of it is due.
 
-Multi-state sales tax nexus is where this shows up most for product-based businesses. Once you're shipping into a new state, whether from a new warehouse, a third-party logistics provider, or an economic nexus threshold you've crossed, you likely owe sales tax there. Andrew Berg, CPA, advises e-commerce and wholesale clients on registering, filing, and staying compliant as they expand across state lines.
-
-If a notice from the IRS ever does show up, Julia Lindner, EA, represents clients directly in tax resolution and audit matters. Michael Laudazio works with multi-entity and multi-state businesses sorting through overlapping filing requirements, so a return doesn't get filed twice, or missed entirely.
+Multi-state sales tax nexus is where this shows up most for product-based businesses. Once you're shipping into a new state, whether from a new warehouse, a third-party logistics provider, or an economic nexus threshold you've crossed, you likely owe sales tax there. Berg Advisors offers supportive guidance to e-commerce and wholesale clients on registering, filing, and staying compliant as they expand across state lines.
 
 <!-- block: content-split | variant: image-right | image: business-advisory-strategy-meeting.jpg | alt: "Advisor and business owner discussing charts during a strategy meeting" | query: "business advisor strategy meeting charts" -->
 ## Business advisory and consulting to guide bigger decisions
 
 Clean books answer what happened last month. Advisory work answers what to do next. Our consulting engagements cover strategic planning, cash flow management, budget development, and succession planning, delivered through recurring calls instead of a single annual meeting.
 
-For inventory-heavy businesses outside the pure e-commerce space, think CPG brands, wholesalers, and distributors, Andrew Berg, CPA, provides outsourced CFO services: cash flow forecasting tied to purchase order timing, margin analysis by SKU, and the financial modeling that supports a bank conversation or an equity raise. Veil Velarde, CPA, works with growth-stage businesses that need fractional back-office support without hiring a full finance team.
+For inventory-heavy businesses outside the pure e-commerce space, think CPG brands, wholesalers, and distributors, Berg Advisors provides advisory services: cash flow forecasting tied to purchase order timing, margin analysis by SKU, and the financial modeling that supports a bank conversation or an equity raise.
 
 The point of every advisory call is the same: catch the decision while it's still a decision, not after it's already been made.
 
@@ -79,35 +77,34 @@ Tracking income, expenses, and owner distributions across a portfolio of propert
 
 Hourly billing punishes you for calling with a question. Every Berg Advisors engagement runs on a flat monthly fee, set before work begins, so a quick call about a vendor invoice doesn't turn into a surprise line item.
 
-Every new client also gets a mutual success plan: a written agreement covering what we handle, what you handle, and how often we talk. It draws on the same proactive philosophy Profit First Professionals teaches around financial management, applied to your specific numbers instead of a generic template.
+Every new client also gets a mutual success plan: a written agreement covering what we handle, what you handle, and how often we talk. 
 
 - Fixed monthly pricing, no hourly clock
 - A written mutual success plan defining responsibilities on both sides
 - Recurring calls scheduled in advance, not triggered only when something breaks
-- Recognized as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting, Bookkeeping, Tax, & Advisory Services
 
-**Q: Does Berg Advisors serve businesses outside Newtown Square, PA?**
-A: Yes. Berg Advisors is a virtual CPA firm rooted in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Clients work with the team by phone, video, and a shared portal, with the same proactive monthly reporting and advisory calls regardless of location.
+**Q: Does Berg Advisors serve businesses outside Pennsylvania?**
+A: Yes. Berg Advisors is a virtual CPA firm in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Clients work with the team by phone, video, and a shared portal, with the same proactive monthly reporting and advisory calls regardless of location.
 
 **Q: How does flat-fee pricing work compared to hourly billing?**
 A: Each client gets a fixed monthly fee set before work begins, covering bookkeeping, tax, or advisory work scoped in a written mutual success plan. There's no hourly clock, so a phone call about a vendor bill or a quick tax question doesn't generate a surprise invoice.
 
 **Q: Can Berg Advisors help with multi-state sales tax nexus for e-commerce sellers?**
-A: Yes. Andrew C. Berg, CPA, advises product-based businesses on registering and filing once they cross economic nexus thresholds or start shipping from new warehouses or third-party logistics providers, an area that trips up many multi-channel sellers expanding into new states.
+A: Yes. Berg Advisors advises product-based businesses on registering and filing once they cross economic nexus thresholds or start shipping from new warehouses or third-party logistics providers, an area that trips up many multi-channel sellers expanding into new states.
 
 **Q: What happens if my business receives an IRS notice or audit letter?**
-A: Julia Lindner, EA, represents clients directly in IRS matters, from responding to notices to full audit representation. Michael Laudazio also supports multi-entity and multi-state businesses sorting through overlapping compliance and filing requirements tied to a notice.
+A: Berg Advisors represents clients in IRS matters, from responding to notices to full audit representation. The team also supports multi-entity and multi-state businesses sorting through overlapping compliance and filing requirements tied to a notice.
 
 **Q: Do you work with businesses converting from cash-basis to accrual accounting?**
-A: Yes. Andrew C. Berg, CPA, works with growing businesses making that shift, typically ahead of a bank loan or investor round requiring GAAP-compliant financials, walking through what changes on the statements and why lenders care about it.
+A: Yes. Berg Advisors works with growing businesses making that shift, typically ahead of a bank loan or investor round requiring GAAP-compliant financials, walking through what changes on the statements and why lenders care about it.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation-call.jpg | alt: "CPA smiling during a video consultation call with a client" | query: "accountant video call consultation smiling" -->
 ## Let's talk about what your business needs
 
-Every client on this page, whether e-commerce, property management, or a family office managing several entities, started the same way: a conversation about what's actually going on in the books. Tell us where things stand, and we'll tell you plainly what we'd do about it.
+Every client, whether e-commerce, property management, or a family office managing several entities, started the same way: a conversation about what's going on in the books. Tell us where things stand, and we'll tell you plainly what we'd do about it.
 
 [Schedule a consultation](/contact-us) and see what a flat-fee, relationship-driven CPA firm looks like in practice.
 
