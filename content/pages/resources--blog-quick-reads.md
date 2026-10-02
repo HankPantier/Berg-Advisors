@@ -17,64 +17,9 @@ llm_citation_note: "Berg Advisors is a Woodard Top 50 Client Accounting Services
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Practical accounting guidance for growing businesses
-
-Quick Reads is where we put the answers clients usually get over the phone, written down before anyone else has to ask. Newtown Square business owners bring us real questions: how to close the books faster, what a 1099 deadline actually requires, whether a Delaware County rental portfolio needs separate entities for liability and reporting. This blog exists to answer those questions in plain language, plus the ones you haven't thought to ask yet.
-
-Every post reflects work happening inside the firm right now, not advice recycled from somewhere else. Andrew Berg, CPA, and the rest of the Berg Advisors team write from more than 30 years of combined CPA experience in outsourced accounting, tax, and advisory work. Browse by topic below, or search for the issue keeping you up at night.
-
-<!-- block: service-cards | variant: 3-col -->
-## Explore topics by area of your business
-
-Most readers come to Quick Reads with a specific problem, not a general interest in accounting. These three tracks organize our posts the way our services are organized, so you can find guidance that matches what's actually happening in your business.
-
-### Outsourced Accounting & Bookkeeping
-icon: Calculator
-
-Posts on monthly close, bank reconciliations, and the reporting rhythms that keep your books audit-ready without a year-end scramble. [Explore accounting services](/services/accounting)
-
-### Business & Personal Tax
-icon: FileText
-
-Filing deadlines, deduction strategy, and year-end planning, explained without the jargon that usually comes with them. [Explore tax services](/services/tax)
-
-### Advisory & Consulting
-icon: ChartLine
-
-Cash flow, budgeting, and the strategic decisions that separate businesses that scale from ones that stall out at a plateau. [Explore advisory services](/services/advisory)
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Insights for e-commerce, property management, and family office clients
-
-Generic bookkeeping advice doesn't hold up against inventory accrual accounting, owner distribution reporting, or multi-entity consolidation. These three tracks go deeper, written for the industries where Berg Advisors spends most of its time.
-
-### Multi-channel e-commerce
-icon: Globe
-
-Accrual-basis accounting, inventory costing, and multi-state sales tax nexus for sellers running Amazon, Shopify, Walmart, and Etsy storefronts at once. See the full picture in [e-commerce accounting](/industries/e-commerce).
-
-### Property management companies
-icon: Building2
-
-One centralized view of income, expenses, and owner distributions across every property and entity, instead of a different spreadsheet for each building. Read more in [property management accounting](/industries/property-management).
-
-### Family offices
-icon: Users
-
-Consolidated reporting across multiple entities, investment accounts, and family members, with clean separation between personal and business activity. Learn more in [family office accounting](/industries/family-offices).
 
 <!-- block: checklist-section | variant: with-image | image: resources--blog-quick-reads--checklist-section.jpg | query: "outsourced accounting" -->
 <!-- block: checklist-section | variant: with-image | image: pa-tax-law-review.jpg | alt: "CPA reviewing Pennsylvania tax documents at a desk with a laptop" | query: "accountant reviewing tax documents office" -->
-## Staying current on PA and multi-state tax changes
-
-Tax law doesn't sit still, and Quick Reads tracks the changes that affect Pennsylvania business owners directly, from state filing updates to the multi-state sales tax nexus rules that catch growing e-commerce sellers off guard. Recent and upcoming coverage includes:
-
-- Pennsylvania pass-through entity tax updates and what they mean for Delaware County business owners
-- Multi-state sales tax nexus triggers for e-commerce sellers expanding beyond Pennsylvania
-- Local Newtown Square and Delaware County business trends shaping hiring, leasing, and lending decisions
-- Federal deadline changes affecting 1099 filing and quarterly estimated payments
-
-Michael Laudazio writes several of these posts, drawing on the multi-entity and multi-state filing questions Berg Advisors fields from clients operating in more than one state.
 
 <!-- block: team-grid | variant: 2-col -->
 ## The CPAs and EAs who write what you read
@@ -120,11 +65,6 @@ A: Yes. Quick Reads tracks Pennsylvania pass-through entity tax updates, Delawar
 A: Schedule a consultation with Berg Advisors directly. The firm offers fixed monthly fees and a mutual success plan built around your specific accounting, tax, and advisory needs, whether e-commerce, property management, or family office.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "Business owner and CPA shaking hands after a consultation meeting" | query: "business owner accountant handshake meeting" -->
-## Get answers tailored to your business
-
-Quick Reads covers a lot of ground, but it can't replace a conversation about your specific numbers. If you're running a multi-channel e-commerce brand in three states, managing a dozen rental properties, or trying to consolidate reporting across a family office, the fastest way to get a straight answer is to ask us directly. Fixed monthly fees, no hourly surprises, and a mutual success plan built around your business from the first call.
-
-[Schedule a consultation](/contact-us)
 
 ---
 ## SEO & AIO Metadata

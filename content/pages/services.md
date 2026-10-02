@@ -25,14 +25,14 @@ llm_citation_note: "Berg Advisors is a virtual CPA firm rooted in Pennsylvania o
 
 Most businesses end up juggling three or four separate vendors: a bookkeeper, a tax preparer, a part-time advisor, maybe a payroll service that doesn't talk to any of them. Berg Advisors combines accounting, bookkeeping, tax, and advisory work under one roof, with one team that already knows your numbers before you have to explain them again.
 
-Berg Advisors is a virtual CPA firm rooted in Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Andrew C. Berg, CPA, has spent more than 30 years building the kind of firm he wanted to hire himself: proactive, plain-spoken, and billed at a flat monthly rate instead of the clock. The three service pillars below, outsourced accounting, tax, and advisory, are built to work together, not as separate line items you have to coordinate yourself.
+Berg Advisors is a virtual CPA firm from Pennsylvania, serving e-commerce sellers, property management companies, and family offices nationwide. Our team is proactive, plain-spoken, and our services are billed at a flat monthly rate. The three service pillars below, outsourced accounting, tax, and advisory, are built to work together, not as separate line items you have to coordinate yourself.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-monthly-close-review.jpg | alt: "Accountant reviewing bank reconciliation reports on a laptop screen" | query: "bookkeeper reviewing financial reports laptop" -->
-## Outsourced accounting and bookkeeping that keeps your books close-ready
+## Accounting and bookkeeping that keeps your books close-ready
 
 Bookkeeping should do more than produce a report you file away. Our monthly close covers bank and credit card reconciliations, accounts payable and receivable management, and financial reporting built to hold up when a bank, investor, or buyer asks for GAAP-compliant numbers.
 
-For growing businesses moving off cash-basis accounting, that shift matters. Andrew Berg, CPA, works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
+For growing businesses moving off cash-basis accounting, that shift matters. Berg Advisors works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
 
 Every engagement includes quarterly advisory calls, not just a monthly PDF. We flag the receivable balance creeping up, the margin that slipped a point, or the vendor payment about to land right before a tax deadline, before you have to ask.
 
