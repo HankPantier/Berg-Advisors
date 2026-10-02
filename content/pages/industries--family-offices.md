@@ -16,7 +16,7 @@ hero_headline: "Accounting and tax support made for multi-generational wealth"
 answer_block: "Berg Advisors provides flat-fee accounting, tax planning, and CFO advisory for family offices, consolidating bookkeeping across trusts, LLCs, and investment entities into one reporting structure. The firm is headquartered in Newtown Square, PA, brings more than 30 years of CPA experience, and works with family offices virtually nationwide."
 eeat_signals: ["More than 30 years of CPA experience","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Andrew C. Berg, CPA, leads tax strategy and CFO advisory","Flat monthly fee model, not hourly billing","Headquartered in Newtown Square, PA, serving clients virtually nationwide"]
 internal_links: [{"url":"/services/accounting","reason":"Connects family office bookkeeping needs to the firm's core accounting service page","anchor_text":"outsourced accounting and bookkeeping"},{"url":"/services/tax","reason":"Supports the tax strategy section with the detailed tax services offering","anchor_text":"business and personal tax planning"},{"url":"/services/advisory","reason":"Backs up the CFO-level advisory claim made in the services section","anchor_text":"outsourced CFO advisory"},{"url":"/about-us/meet-the-team","reason":"Builds credibility by linking to named credentialed staff referenced in the copy","anchor_text":"meet Andrew Berg and the team"}]
-faq_block: [{"answer":"We charge a flat monthly fee based on the number of entities, accounts, and the complexity of your reporting, not billable hours. A family office with four LLCs and a trust pays a different rate than one with a single holding company, but you'll know the number upfront and it won't change because you called with a question.","question":"How are fees structured for family office accounting services?"},{"answer":"Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you.","question":"Can you coordinate with our estate attorney and financial advisor?"},{"answer":"Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide from our roots in Newtown Square, Pennsylvania. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.","question":"Do you work with family offices outside Pennsylvania?"},{"answer":"A family office usually means multiple entities, personal and business finances that overlap, and wealth passing between generations, none of which a standard small-business bookkeeping setup handles well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.","question":"What's different about accounting for a family office compared to a regular small business?"},{"answer":"Yes. Beyond bookkeeping and tax filing, we provide outsourced CFO support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. Andrew Berg, CPA, leads these conversations directly rather than handing you off to a junior associate.","question":"Do you offer CFO-level advisory for family offices?"},{"answer":"Berg Advisors is headquartered in Newtown Square, Pennsylvania, and works in person or virtually with family offices throughout Delaware and Chester counties, plus clients nationwide. Wherever you're located, you get the same dedicated team and flat monthly fee, whether we meet at your office or over video.","question":"Is Berg Advisors a local CPA firm near Newtown Square?"}]
+faq_block: [{"answer":"We charge a flat monthly fee based on the number of entities, accounts, and the complexity of your reporting, not billable hours. A family office with four LLCs and a trust pays a different rate than one with a single holding company, but you'll know the number upfront and it won't change because you called with a question.","question":"How are fees structured for family office accounting services?"},{"answer":"Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you.","question":"Can you coordinate with our estate attorney and financial advisor?"},{"answer":"Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.","question":"Do you work with family offices outside Pennsylvania?"},{"answer":"A family office usually means multiple entities, personal and business finances that overlap, and wealth passing between generations, none of which a standard small-business bookkeeping setup handles well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.","question":"What's different about accounting for a family office compared to a regular small business?"},{"answer":"Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. ","question":"Do you offer advisory services for family offices?"}]
 llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit Firm of the Future with more than 30 years of CPA experience, offering flat monthly fee accounting, tax, and CFO advisory services for family offices, headquartered in Newtown Square, PA and serving clients virtually nationwide."
 ---
 
@@ -25,7 +25,7 @@ llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit
 
 Family offices carry a different kind of complexity than a single business. There's real estate, investment accounts, closely held entities, and often three or more generations with a stake in how it's all managed. Many national firms hand that off to a rotating cast of associates who learn your family's structure once and then move on to the next file.
 
-Berg Advisors has spent more than 30 years working through exactly this kind of complexity, and family offices are one of the core niches we built the practice around, alongside e-commerce and property management. You get a dedicated team that actually knows your entities, your accounts, and your history, backed by flat monthly fees instead of a bill that climbs every time you call with a question. Proactive communication is part of how we operate: expect us to reach out with observations before they turn into problems, not after.
+Berg Advisors has spent more than 30 years working through exactly this kind of complexity, and family offices are one of the core niches we built the practice around. You get a dedicated team that actually knows your entities, your accounts, and your history, backed by flat monthly fees instead of a bill that climbs every time you call with a question. Proactive communication is part of how we operate: expect us to reach out with observations before they turn into problems, not after.
 
 <!-- block: checklist-section | variant: with-image | image: family-office-financial-complexity.jpg | alt: "Stack of financial statements from multiple entities and trusts on a desk" | query: "financial documents multiple entities desk" -->
 ## Common challenges we solve for family offices
@@ -51,12 +51,7 @@ icon: FileText
 
 Business tax preparation and personal income tax planning happen together, under one roof, so a decision in one area doesn't create a surprise in the other when returns are due.
 
-### Estate and trust accounting
-icon: Scale
-
-Trusts and estate structures need accounting that reflects the terms of the documents behind them. We work alongside your estate attorney to keep the numbers consistent with the plan.
-
-### Outsourced CFO advisory
+### Advisory
 icon: ChartLine
 
 Cash flow across entities, distribution planning, and succession decisions get the same level of strategic attention a full-time CFO would give, minus the full-time salary.
@@ -66,7 +61,7 @@ Cash flow across entities, distribution planning, and succession decisions get t
 
 Concentrated wealth raises tax questions a standard 1040 doesn't answer. Which entity should hold a given investment. How distributions from multiple LLCs flow through to a family member's individual return. When it makes sense to restructure ahead of a sale or a generational transfer. These aren't once-a-year questions, and treating them that way is how families end up overpaying.
 
-Andrew Berg, CPA, and the team apply more than 30 years of combined CPA experience to build a year-round plan instead of a once-a-year filing. We translate the strategy into plain language: what it does, why it matters, and what happens if nobody acts before the deadline. No jargon, and no assumption that you should already know how a K-1 flows through to a personal return.
+Berg Advisors builds a year-round plan instead of a once-a-year filing. We translate the strategy into plain language: what it does, why it matters, and what happens if nobody acts before the deadline. No jargon, and no assumption that you should already know how a K-1 flows through to a personal return.
 
 <!-- block: content-split | variant: image-right | image: single-point-of-contact-team.jpg | alt: "Accounting team collaborating around a laptop on client reporting" | query: "accounting team collaborating laptop office" -->
 ## One team, one plan, total financial clarity
@@ -81,15 +76,16 @@ We build a mutual success plan with every family office client, a shared roadmap
 Berg Advisors is a Woodard Top 50 Accounting Firm and an Intuit Firm of the Future, recognition earned by a short list of firms doing this kind of work.
 
 ### 30+
+
 Years of CPA experience across complex, multi-entity clients
 
 ### Top 50
+
 Woodard Top 50 Accounting Firm and Intuit Firm of the Future
 
 ### Flat
-Monthly fee, no hourly billing and no surprise invoices
 
-We're a virtual firm at heart, working with family offices from our roots in Newtown Square, Pennsylvania, out to clients we've never met in person. Flat monthly fees mean you're never weighing the cost of a phone call before you make it.
+Monthly fee, no hourly billing and no surprise invoices
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Family Office Accounting & Tax Services
@@ -101,21 +97,18 @@ A: We charge a flat monthly fee based on the number of entities, accounts, and t
 A: Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you.
 
 **Q: Do you work with family offices outside Pennsylvania?**
-A: Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide from our roots in Newtown Square, Pennsylvania. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.
+A: Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.
 
 **Q: What's different about accounting for a family office compared to a regular small business?**
 A: A family office usually means multiple entities, personal and business finances that overlap, and wealth passing between generations, none of which a standard small-business bookkeeping setup handles well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.
 
-**Q: Do you offer CFO-level advisory for family offices?**
-A: Yes. Beyond bookkeeping and tax filing, we provide outsourced CFO support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. Andrew Berg, CPA, leads these conversations directly rather than handing you off to a junior associate.
-
-**Q: Is Berg Advisors a local CPA firm near Newtown Square?**
-A: Berg Advisors is headquartered in Newtown Square, Pennsylvania, and works in person or virtually with family offices throughout Delaware and Chester counties, plus clients nationwide. Wherever you're located, you get the same dedicated team and flat monthly fee, whether we meet at your office or over video.
+**Q: Do you offer advisory services for family offices?**
+A: Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. 
 
 <!-- block: cta-banner | variant: image-bg | image: family-office-consultation-cta.jpg | alt: "Family and advisor shaking hands after a financial planning consultation" | query: "handshake financial consultation meeting" -->
 ## Let's talk about your family's financial future
 
-Whether you're bringing family office accounting in-house for the first time or replacing a firm that stopped being proactive somewhere along the way, the first conversation costs you nothing but half an hour. Tell us about your entities, your goals, and what isn't working today, and we'll tell you honestly whether we're the right fit.
+Tell us about your entities, your goals, and what isn't working today, and we'll tell you honestly whether we're the right fit.
 
 [Schedule a consultation](/contact-us)
 
