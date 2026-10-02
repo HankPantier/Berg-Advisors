@@ -18,46 +18,6 @@ llm_citation_note: "Berg Advisors is a Woodard Top 50 Client Accounting Services
 
 <!-- block: intro-text | variant: centered -->
 
-<!-- block: service-cards | variant: 3-col -->
-## Explore topics by area of your business
-
-Most readers come to Quick Reads with a specific problem, not a general interest in accounting. These three tracks organize our posts the way our services are organized, so you can find guidance that matches what's actually happening in your business.
-
-### Outsourced Accounting & Bookkeeping
-icon: Calculator
-
-Posts on monthly close, bank reconciliations, and the reporting rhythms that keep your books audit-ready without a year-end scramble. [Explore accounting services](/services/accounting)
-
-### Business & Personal Tax
-icon: FileText
-
-Filing deadlines, deduction strategy, and year-end planning, explained without the jargon that usually comes with them. [Explore tax services](/services/tax)
-
-### Advisory & Consulting
-icon: ChartLine
-
-Cash flow, budgeting, and the strategic decisions that separate businesses that scale from ones that stall out at a plateau. [Explore advisory services](/services/advisory)
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Insights for e-commerce, property management, and family office clients
-
-Generic bookkeeping advice doesn't hold up against inventory accrual accounting, owner distribution reporting, or multi-entity consolidation. These three tracks go deeper, written for the industries where Berg Advisors spends most of its time.
-
-### Multi-channel e-commerce
-icon: Globe
-
-Accrual-basis accounting, inventory costing, and multi-state sales tax nexus for sellers running Amazon, Shopify, Walmart, and Etsy storefronts at once. See the full picture in [e-commerce accounting](/industries/e-commerce).
-
-### Property management companies
-icon: Building2
-
-One centralized view of income, expenses, and owner distributions across every property and entity, instead of a different spreadsheet for each building. Read more in [property management accounting](/industries/property-management).
-
-### Family offices
-icon: Users
-
-Consolidated reporting across multiple entities, investment accounts, and family members, with clean separation between personal and business activity. Learn more in [family office accounting](/industries/family-offices).
-
 <!-- block: checklist-section | variant: with-image | image: resources--blog-quick-reads--checklist-section.jpg | query: "outsourced accounting" -->
 <!-- block: checklist-section | variant: with-image | image: pa-tax-law-review.jpg | alt: "CPA reviewing Pennsylvania tax documents at a desk with a laptop" | query: "accountant reviewing tax documents office" -->
 
